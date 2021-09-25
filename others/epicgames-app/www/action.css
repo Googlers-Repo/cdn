@@ -1,0 +1,71 @@
+@font-face {
+    font-family: 'Brutal-Regular';
+    src: url('./fonts/BrutalType-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Brutal-Medium';
+    src: url('./fonts/BrutalType-Medium.ttf') format('truetype');
+}
+
+*,
+*::after,
+*::before {
+    -webkit-font-smoothing: antialiased;
+    -webkit-touch-callout: none;
+    -moz-osx-font-smoothing: grayscale;
+    box-sizing: border-box;
+    text-size-adjust: 100%;
+}
+
+.ActionCard-description {
+    color: rgb(136, 136, 136);
+    font-size: 0.875rem;
+    letter-spacing: 0.0125rem;
+    line-height: 1.4;
+    padding-top: 0.9375rem;
+}
+
+/* from epic-diesel-common */
+button {
+    outline: none;
+    user-select: none;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    -moz-tap-highlight-color: rgba(0, 0, 0, 0);
+    appearance: none;
+    background: rgba(0, 0, 0, 0);
+    border-width: 0;
+    cursor: pointer;
+    padding: 0;
+    text-align: center;
+    font-family: 'Brutal-Regular', sans-serif;
+}
+
+.action {
+    display: block;
+    width: 100%;
+    color: #fff;
+    background-color: #0078f2;
+    padding: 0 20px;
+    min-width: 165px;
+    height: 55px;
+    border-radius: 0 0 2px 2px;
+    font-family: 'Brutal-Medium', sans-serif;
+    font-size: 0.75rem;
+    letter-spacing: 0.03125rem;
+    -webkit-transition: background 300ms ease-in-out;
+    -o-transition: background 300ms ease-in-out;
+    transition: background 300ms ease-in-out;
+}
+
+.action:hover,
+.action:active {
+    background-color: rgb(51, 147, 245);
+}
+
+.action:disabled {
+    color: rgba(255, 255, 255, 0.3);
+    background: rgb(0, 72, 145);
+    cursor: default;
+    pointer-events: none;
+}

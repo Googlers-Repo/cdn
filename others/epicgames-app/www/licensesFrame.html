@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="stylesheet" href="licenses.css" />
+        <link rel="stylesheet" href="licensesFrame.css" />
+    </head>
+
+    <body class="licenses-frame">
+        <div id="content" class="licenses-frame__content">
+            <div id="header" class="licenses-frame__header">
+                <button id="licensePageBackButton" class="button licenses-frame__back">
+                    <div class="licenses-frame__backIcon"></div>
+                </button>
+                <span class="licenses-frame__header-text loc-licensesTitle">Licenses</span>
+            </div>
+            <div class="licenses-frame__wrapper">
+                %s
+            </div>
+        </div>
+        <script src="common.min.js" ></script>
+        <script>
+            window.app.initLicensesPage();
+        </script>
+    </body>
+</html>

@@ -1,0 +1,56 @@
+<!doctype html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <title>Installer Update Required</title>
+
+        <link rel="stylesheet" href="action.css" />
+        <link rel="stylesheet" href="common.css" />
+    </head>
+    <body>
+        <div id="alertContent" class="alertContent" style="visibility: hidden;">
+            <div id="alertCard" class="alertCard">
+                <div id="alertTitle" class="alertTitle"></div>
+                <div id="alertCode" class="alertCode"></div>
+                <br>
+                <div id="alertDesc" class="alertDesc"></div>
+                <br>
+                <div id="alertAction" class="alertAction">
+                    OK
+                </div>
+            </div>
+        </div>
+        <div id="content" class="content">
+            <div id="logoBox" class="logoBox">
+                <div id="logoContainer" class="logoContainer">
+                    <span class="epicLogo"></span>
+                </div>
+            </div>
+            <div id="messageBox" class="messageBox">
+                <div class="messageContainer">
+                    <div class="ActionCard-textWrapper">
+                        <div class="ActionCard-title loc-selfUpdateTitle">Installer Update Required</div>
+                        <div class="ActionCard-description">
+                            <div class="selfUpdateLine1 loc-selfUpdateLine1">
+                                You are required to update the Fortnite Installer to proceed.
+                            </div>
+                        </div>
+                    </div>
+                    <button id="updateButtonWrapper" class="action">
+                        <span id="OfflineSelfUpdate_updateButton" class="actionText loc-updateButton">
+                            Update
+                        </span>
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <script src="https://cdn.ravenjs.com/3.26.2/raven.min.js" crossorigin="anonymous"></script>
+        <script src="common.min.js" ></script>
+        <script>
+            window.app.initSelfUpdatePage();
+        </script>
+    </body>
+</html>
