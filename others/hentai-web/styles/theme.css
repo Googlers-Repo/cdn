@@ -2,6 +2,8 @@
 
 /* Custom Theme for Onsen UI 2.11.2 */
 
+/* Custom Theme for Onsen UI 2.11.2 */
+
 :root {
   /* variables for iOS components */
   --background-color: #121212;
@@ -112,7 +114,7 @@
   --material-text-input-text-color: #212121;
   --material-text-input-active-color: #3d5afe;
   --material-text-input-inactive-color: #afafaf;
-  --material-search-background-color: #fafafa;
+  --material-search-background-color: rgba(250,250,250,0);
   --material-dialog-background-color: #121212;
   --material-dialog-text-color: var(--material-text-color);
   --material-alert-dialog-background-color: #121212;
