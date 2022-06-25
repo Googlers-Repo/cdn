@@ -10,6 +10,8 @@
 var jsx_runtime = __webpack_require__(5893);
 // EXTERNAL MODULE: ./node_modules/react-dom/client.js
 var client = __webpack_require__(745);
+// EXTERNAL MODULE: ./node_modules/devtools-detector/lib/devtools-detector.js
+var devtools_detector = __webpack_require__(1954);
 // EXTERNAL MODULE: ./node_modules/react/index.js
 var react = __webpack_require__(7294);
 // EXTERNAL MODULE: ./node_modules/axios/index.js
@@ -353,6 +355,7 @@ var App_assign = (undefined && undefined.__assign) || function () {
 
 
 
+
 var App = /** @class */ (function (_super) {
     App_extends(App, _super);
     function App(props) {
@@ -371,12 +374,25 @@ var App = /** @class */ (function (_super) {
             });
             util_themeSelector(_this.state.config.theme);
         };
+        _this.componentDidUpdate = function () {
+            (0,devtools_detector.addListener)(function (isOpen) {
+                return isOpen
+                    ? _this.setState({ devToolsOpen: true })
+                    : _this.setState({ devToolsOpen: false });
+            });
+            (0,devtools_detector.launch)();
+        };
         _this.render = function () {
-            var links = _this.state.links;
-            var _a = _this.state.config, intro = _a.intro, tagline = _a.tagline;
-            return ((0,jsx_runtime.jsxs)("main", { children: [(0,jsx_runtime.jsx)("div", App_assign({ className: "intro" }, { children: intro }), "intro"), (0,jsx_runtime.jsx)("div", App_assign({ className: "tagline" }, { children: tagline }), "tagline"), (0,jsx_runtime.jsx)(components_LinkWrapper, { children: links === null || links === void 0 ? void 0 : links.map(function (item) {
-                            return (0,jsx_runtime.jsx)(components_LinkIcon, { link: item.link, icon: item.icon }, item.icon);
-                        }) }, "icons-social")] }));
+            var _a = _this.state, links = _a.links, devToolsOpen = _a.devToolsOpen;
+            var _b = _this.state.config, intro = _b.intro, tagline = _b.tagline;
+            if (devToolsOpen) {
+                return ((0,jsx_runtime.jsx)("main", { children: (0,jsx_runtime.jsx)("div", App_assign({ className: "intro" }, { children: "Turn off DevTools :)" }), "intro") }));
+            }
+            else {
+                return ((0,jsx_runtime.jsxs)("main", { children: [(0,jsx_runtime.jsx)("div", App_assign({ className: "intro" }, { children: intro }), "intro"), (0,jsx_runtime.jsx)("div", App_assign({ className: "tagline" }, { children: tagline }), "tagline"), (0,jsx_runtime.jsx)(components_LinkWrapper, { children: links === null || links === void 0 ? void 0 : links.map(function (item) {
+                                return ((0,jsx_runtime.jsx)(components_LinkIcon, { link: item.link, icon: item.icon }, item.icon));
+                            }) }, "icons-social")] }));
+            }
         };
         _this.componentDidCatch = function (error, errorInfo) {
             var container = document.querySelector("app");
@@ -390,6 +406,7 @@ var App = /** @class */ (function (_super) {
                 tagline: "",
                 theme: "red-black",
             },
+            devToolsOpen: false,
         };
         return _this;
     }
@@ -415,6 +432,7 @@ fontawesome_svg_core_index_es/* library.add */.vI.add(free_brands_svg_icons_inde
 var container = document.querySelector("app");
 var root = (0,client/* createRoot */.s)(container);
 root.render((0,jsx_runtime.jsx)(src_App, {}));
+preventer(["contextmenu", "mousedown"]);
 
 
 /***/ })
@@ -439,7 +457,7 @@ root.render((0,jsx_runtime.jsx)(src_App, {}));
 /******/ 		};
 /******/ 	
 /******/ 		// Execute the module function
-/******/ 		__webpack_modules__[moduleId](module, module.exports, __webpack_require__);
+/******/ 		__webpack_modules__[moduleId].call(module.exports, module, module.exports, __webpack_require__);
 /******/ 	
 /******/ 		// Flag the module as loaded
 /******/ 		module.loaded = true;
