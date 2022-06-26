@@ -2,21 +2,18 @@
 /******/ 	"use strict";
 /******/ 	var __webpack_modules__ = ({
 
-/***/ 9734:
+/***/ 734:
 /***/ ((__unused_webpack_module, __unused_webpack___webpack_exports__, __webpack_require__) => {
 
 
 // EXTERNAL MODULE: ./node_modules/react/jsx-runtime.js
-var jsx_runtime = __webpack_require__(5893);
+var jsx_runtime = __webpack_require__(893);
 // EXTERNAL MODULE: ./node_modules/react-dom/client.js
 var client = __webpack_require__(745);
 // EXTERNAL MODULE: ./node_modules/devtools-detector/lib/devtools-detector.js
-var devtools_detector = __webpack_require__(1954);
+var devtools_detector = __webpack_require__(954);
 // EXTERNAL MODULE: ./node_modules/react/index.js
-var react = __webpack_require__(7294);
-// EXTERNAL MODULE: ./node_modules/axios/index.js
-var axios = __webpack_require__(9669);
-var axios_default = /*#__PURE__*/__webpack_require__.n(axios);
+var react = __webpack_require__(294);
 ;// CONCATENATED MODULE: ./src/util/path.ts
 var WebPath;
 (function (WebPath) {
@@ -58,7 +55,7 @@ var path = WebPath;
 /* harmony default export */ const util_path = (path);
 
 // EXTERNAL MODULE: ./node_modules/@fortawesome/react-fontawesome/index.es.js
-var index_es = __webpack_require__(7814);
+var index_es = __webpack_require__(814);
 ;// CONCATENATED MODULE: ./src/components/LinkIcon.tsx
 var __extends = (undefined && undefined.__extends) || (function () {
     var extendStatics = function (d, b) {
@@ -95,8 +92,8 @@ var LinkIcon = /** @class */ (function (_super) {
         return _super !== null && _super.apply(this, arguments) || this;
     }
     LinkIcon.prototype.render = function () {
-        var _a = this.props, link = _a.link, icon = _a.icon;
-        return ((0,jsx_runtime.jsx)(jsx_runtime.Fragment, { children: (0,jsx_runtime.jsx)("a", __assign({ target: "_blank", className: "iconColor", href: link }, { children: (0,jsx_runtime.jsx)("i", { children: (0,jsx_runtime.jsx)(index_es/* FontAwesomeIcon */.G, { className: "iconColor", icon: ["fab", icon] }) }) })) }));
+        var _a = this.props, link = _a.link, icon = _a.icon, title = _a.title;
+        return ((0,jsx_runtime.jsx)(jsx_runtime.Fragment, { children: (0,jsx_runtime.jsx)("a", __assign({ target: "_blank", className: "iconColor", href: link }, { children: (0,jsx_runtime.jsx)("i", __assign({ title: title }, { children: (0,jsx_runtime.jsx)(index_es/* FontAwesomeIcon */.G, { className: "iconColor", icon: ["fab", icon] }) })) })) }));
     };
     return LinkIcon;
 }(react.Component));
@@ -145,9 +142,9 @@ var LinkWrapper = /** @class */ (function (_super) {
 /* harmony default export */ const components_LinkWrapper = (LinkWrapper);
 
 // EXTERNAL MODULE: ./node_modules/jss/dist/jss.esm.js + 5 modules
-var jss_esm = __webpack_require__(8917);
+var jss_esm = __webpack_require__(917);
 // EXTERNAL MODULE: ./node_modules/jss-preset-default/dist/jss-preset-default.esm.js + 20 modules
-var jss_preset_default_esm = __webpack_require__(8121);
+var jss_preset_default_esm = __webpack_require__(121);
 ;// CONCATENATED MODULE: ./src/styles/themes/green-white.ts
 var GreenWhite = {
     "@global": {
@@ -320,6 +317,9 @@ function themeSelector(themes) {
 }
 /* harmony default export */ const util_themeSelector = (themeSelector);
 
+// EXTERNAL MODULE: ./node_modules/scriptjs/dist/script.js
+var script = __webpack_require__(277);
+var script_default = /*#__PURE__*/__webpack_require__.n(script);
 ;// CONCATENATED MODULE: ./src/App.tsx
 var App_extends = (undefined && undefined.__extends) || (function () {
     var extendStatics = function (d, b) {
@@ -361,50 +361,43 @@ var App = /** @class */ (function (_super) {
     function App(props) {
         var _this = _super.call(this, props) || this;
         _this.componentDidMount = function () {
-            axios_default().get(util_path.getSubPath("/config.json"))
-                .then(function (response) {
-                var data = response.data;
-                _this.setState({
-                    links: data.links,
-                    config: data.config,
-                });
-            })
-                .catch(function (error) {
-                window.alert("There was an error!\n\nERROR: ".concat(error));
+            script_default()(util_path.getSubPath("dlp.config.js"), function () {
+                _this.setState({ all: config });
             });
-            util_themeSelector(_this.state.config.theme);
+            util_themeSelector(_this.state.all.config.theme);
         };
         _this.componentDidUpdate = function () {
-            (0,devtools_detector.addListener)(function (isOpen) {
-                return isOpen
-                    ? _this.setState({ devToolsOpen: true })
-                    : _this.setState({ devToolsOpen: false });
-            });
-            (0,devtools_detector.launch)();
+            if (true) {
+                (0,devtools_detector.addListener)(function (isOpen) { return _this.setState({ devToolsOpen: isOpen }); });
+                (0,devtools_detector.launch)();
+            }
         };
         _this.render = function () {
-            var _a = _this.state, links = _a.links, devToolsOpen = _a.devToolsOpen;
-            var _b = _this.state.config, intro = _b.intro, tagline = _b.tagline;
+            var devToolsOpen = _this.state.devToolsOpen;
+            var links = _this.state.all.links;
+            var _a = _this.state.all.config, intro = _a.intro, tagline = _a.tagline;
             if (devToolsOpen) {
-                return ((0,jsx_runtime.jsx)("main", { children: (0,jsx_runtime.jsx)("div", App_assign({ className: "intro" }, { children: "Turn off DevTools :)" }), "intro") }));
+                return ((0,jsx_runtime.jsx)("main", { children: (0,jsx_runtime.jsx)("div", App_assign({ className: "intro" }, { children: "Turn off DevTools" }), "intro") }));
             }
             else {
                 return ((0,jsx_runtime.jsxs)("main", { children: [(0,jsx_runtime.jsx)("div", App_assign({ className: "intro" }, { children: intro }), "intro"), (0,jsx_runtime.jsx)("div", App_assign({ className: "tagline" }, { children: tagline }), "tagline"), (0,jsx_runtime.jsx)(components_LinkWrapper, { children: links === null || links === void 0 ? void 0 : links.map(function (item) {
-                                return ((0,jsx_runtime.jsx)(components_LinkIcon, { link: item.link, icon: item.icon }, item.icon));
+                                return ((0,jsx_runtime.jsx)(components_LinkIcon, { link: item.link, icon: item.icon, title: item === null || item === void 0 ? void 0 : item.title }, item.icon));
                             }) }, "icons-social")] }));
             }
         };
         _this.componentDidCatch = function (error, errorInfo) {
             var container = document.querySelector("app");
             var root = (0,client/* createRoot */.s)(container);
-            root.render((0,jsx_runtime.jsxs)(jsx_runtime.Fragment, { children: [(0,jsx_runtime.jsx)("div", App_assign({ className: "intro" }, { children: error })), (0,jsx_runtime.jsx)("div", App_assign({ className: "tagline" }, { children: errorInfo }))] }));
+            root.render((0,jsx_runtime.jsxs)(jsx_runtime.Fragment, { children: [(0,jsx_runtime.jsx)("div", App_assign({ className: "intro" }, { children: error.toString() })), (0,jsx_runtime.jsx)("div", App_assign({ className: "tagline" }, { children: errorInfo.toString() }))] }));
         };
         _this.state = {
-            links: [],
-            config: {
-                intro: "",
-                tagline: "",
-                theme: "red-black",
+            all: {
+                links: [],
+                config: {
+                    intro: "",
+                    tagline: "",
+                    theme: "red-black",
+                },
             },
             devToolsOpen: false,
         };
@@ -415,9 +408,9 @@ var App = /** @class */ (function (_super) {
 /* harmony default export */ const src_App = (App);
 
 // EXTERNAL MODULE: ./node_modules/@fortawesome/fontawesome-svg-core/index.es.js
-var fontawesome_svg_core_index_es = __webpack_require__(8947);
+var fontawesome_svg_core_index_es = __webpack_require__(947);
 // EXTERNAL MODULE: ./node_modules/@fortawesome/free-brands-svg-icons/index.es.js
-var free_brands_svg_icons_index_es = __webpack_require__(1417);
+var free_brands_svg_icons_index_es = __webpack_require__(417);
 ;// CONCATENATED MODULE: ./src/index.tsx
 
 
@@ -616,7 +609,7 @@ preventer(["contextmenu", "mousedown"]);
 /******/ 	// startup
 /******/ 	// Load entry module and return exports
 /******/ 	// This entry module depends on other loaded chunks and execution need to be delayed
-/******/ 	var __webpack_exports__ = __webpack_require__.O(undefined, [736], () => (__webpack_require__(9734)))
+/******/ 	var __webpack_exports__ = __webpack_require__.O(undefined, [736], () => (__webpack_require__(734)))
 /******/ 	__webpack_exports__ = __webpack_require__.O(__webpack_exports__);
 /******/ 	
 /******/ })()
