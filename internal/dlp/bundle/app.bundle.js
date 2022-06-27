@@ -2,7 +2,7 @@
 /******/ 	"use strict";
 /******/ 	var __webpack_modules__ = ({
 
-/***/ 734:
+/***/ 630:
 /***/ ((__unused_webpack_module, __unused_webpack___webpack_exports__, __webpack_require__) => {
 
 
@@ -320,6 +320,49 @@ function themeSelector(themes) {
 // EXTERNAL MODULE: ./node_modules/scriptjs/dist/script.js
 var script = __webpack_require__(277);
 var script_default = /*#__PURE__*/__webpack_require__.n(script);
+// EXTERNAL MODULE: ./node_modules/react-device-detect/dist/lib.js
+var lib = __webpack_require__(518);
+;// CONCATENATED MODULE: ./src/util/browsers.ts
+
+var browsers = {
+    browserName: lib/* browserName */.KC,
+    browserVersion: lib/* browserVersion */.x_,
+    deviceType: lib/* deviceType */.vO,
+    engineName: lib/* engineName */.AA,
+    engineVersion: lib/* engineVersion */.TI,
+    isBrowser: lib/* isBrowser */.jU,
+    isChrome: lib/* isChrome */.i7,
+    isChromium: lib/* isChromium */.mJ,
+    isConsole: lib/* isConsole */.cl,
+    isDesktop: lib/* isDesktop */.nI,
+    isEdge: lib/* isEdge */.un,
+    isEdgeChromium: lib/* isEdgeChromium */.kD,
+    isElectron: lib/* isElectron */.d,
+    isEmbedded: lib/* isEmbedded */.xR,
+    isFirefox: lib/* isFirefox */.vU,
+    isIE: lib/* isIE */.w1,
+    isIOS: lib/* isIOS */.gn,
+    isIOS13: lib/* isIOS13 */.gP,
+    isIPad13: lib/* isIPad13 */.Hg,
+    isIPhone13: lib/* isIPhone13 */.zL,
+    isIPod13: lib/* isIPod13 */.XE,
+    isMacOs: lib/* isMacOs */.Q5,
+    isMIUI: lib/* isMIUI */.vb,
+    isMobile: lib/* isMobile */.tq,
+    isMobileOnly: lib/* isMobileOnly */.UA,
+    isMobileSafari: lib/* isMobileSafari */.TL,
+    isOpera: lib/* isOpera */.f0,
+    isSafari: lib/* isSafari */.G6,
+    isSamsungBrowser: lib/* isSamsungBrowser */.op,
+    isSmartTV: lib/* isSmartTV */.L6,
+    isTablet: lib/* isTablet */.Em,
+    isWearable: lib/* isWearable */.fB,
+    isWinPhone: lib/* isWinPhone */.xk,
+    isYandex: lib/* isYandex */.kU,
+    mobileModel: lib/* mobileModel */.N7,
+    mobileVendor: lib/* mobileVendor */.B3,
+};
+
 ;// CONCATENATED MODULE: ./src/App.tsx
 var App_extends = (undefined && undefined.__extends) || (function () {
     var extendStatics = function (d, b) {
@@ -356,13 +399,19 @@ var App_assign = (undefined && undefined.__assign) || function () {
 
 
 
+
+
 var App = /** @class */ (function (_super) {
     App_extends(App, _super);
     function App(props) {
         var _this = _super.call(this, props) || this;
         _this.componentDidMount = function () {
             script_default()(util_path.getSubPath("dlp.config.js"), function () {
-                _this.setState({ all: config });
+                var isInstagram = /Instagram/i.test(window.navigator.userAgent);
+                var isFacebook = /Facebook/i.test(window.navigator.userAgent);
+                _this.setState({
+                    all: config(App_assign(App_assign({ isInstagram: isInstagram, isFacebook: isFacebook }, browsers), { osVersion: lib/* osVersion */.MM, osName: lib/* osName */.BF, fullBrowserVersion: lib/* fullBrowserVersion */.o3, getUA: lib/* getUA */.z$ })),
+                });
             });
             util_themeSelector(_this.state.all.config.theme);
         };
@@ -381,7 +430,12 @@ var App = /** @class */ (function (_super) {
             }
             else {
                 return ((0,jsx_runtime.jsxs)("main", { children: [(0,jsx_runtime.jsx)("div", App_assign({ className: "intro" }, { children: intro }), "intro"), (0,jsx_runtime.jsx)("div", App_assign({ className: "tagline" }, { children: tagline }), "tagline"), (0,jsx_runtime.jsx)(components_LinkWrapper, { children: links === null || links === void 0 ? void 0 : links.map(function (item) {
-                                return ((0,jsx_runtime.jsx)(components_LinkIcon, { link: item.link, icon: item.icon, title: item === null || item === void 0 ? void 0 : item.title }, item.icon));
+                                if (!(item === null || item === void 0 ? void 0 : item.hide)) {
+                                    return ((0,jsx_runtime.jsx)(components_LinkIcon, { link: item === null || item === void 0 ? void 0 : item.link, icon: item === null || item === void 0 ? void 0 : item.icon, title: item === null || item === void 0 ? void 0 : item.title }, item === null || item === void 0 ? void 0 : item.icon));
+                                }
+                                else {
+                                    return null;
+                                }
                             }) }, "icons-social")] }));
             }
         };
@@ -463,6 +517,11 @@ preventer(["contextmenu", "mousedown"]);
 /******/ 	__webpack_require__.m = __webpack_modules__;
 /******/ 	
 /************************************************************************/
+/******/ 	/* webpack/runtime/amd options */
+/******/ 	(() => {
+/******/ 		__webpack_require__.amdO = {};
+/******/ 	})();
+/******/ 	
 /******/ 	/* webpack/runtime/chunk loaded */
 /******/ 	(() => {
 /******/ 		var deferred = [];
@@ -609,7 +668,7 @@ preventer(["contextmenu", "mousedown"]);
 /******/ 	// startup
 /******/ 	// Load entry module and return exports
 /******/ 	// This entry module depends on other loaded chunks and execution need to be delayed
-/******/ 	var __webpack_exports__ = __webpack_require__.O(undefined, [736], () => (__webpack_require__(734)))
+/******/ 	var __webpack_exports__ = __webpack_require__.O(undefined, [736], () => (__webpack_require__(630)))
 /******/ 	__webpack_exports__ = __webpack_require__.O(__webpack_exports__);
 /******/ 	
 /******/ })()
