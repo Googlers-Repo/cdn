@@ -8,12 +8,12 @@
 
 // EXTERNAL MODULE: ./node_modules/react/jsx-runtime.js
 var jsx_runtime = __webpack_require__(893);
-// EXTERNAL MODULE: ./node_modules/react-dom/client.js
-var client = __webpack_require__(745);
 // EXTERNAL MODULE: ./node_modules/devtools-detector/lib/devtools-detector.js
 var devtools_detector = __webpack_require__(954);
 // EXTERNAL MODULE: ./node_modules/react/index.js
 var react = __webpack_require__(294);
+// EXTERNAL MODULE: ./node_modules/react-dom/client.js
+var client = __webpack_require__(745);
 ;// CONCATENATED MODULE: ./src/util/path.ts
 var WebPath;
 (function (WebPath) {
@@ -274,48 +274,64 @@ var YellowBlack = {
 
 
 
-function set(style) {
-    jss_esm/* default.setup */.ZP.setup((0,jss_preset_default_esm/* default */.Z)());
-    jss_esm/* default.createStyleSheet */.ZP.createStyleSheet(style).attach();
-}
-function themeSelector(themes) {
-    switch (themes) {
-        case "green-white":
-            set(GreenWhite);
-            break;
-        case "grey-white":
-            set(GreenWhite);
-            break;
-        case "indigo-white":
-            set(IndigoWhite);
-            break;
-        case "red-black":
-            set(RedBlack);
-            break;
-        case "red-white":
-            set(RedWhite);
-            break;
-        case "white-blue":
-            set(WhiteBlue);
-            break;
-        case "white-grey":
-            set(WhiteGrey);
-            break;
-        case "white-indigo":
-            set(WhiteIndigo);
-            break;
-        case "white-red":
-            set(WhiteRed);
-            break;
-        case "yellow-black":
-            set(YellowBlack);
-            break;
-        default:
-            set(RedBlack);
-            break;
+var Themes = {
+    GreenWhite: "green-white",
+    GrayWhite: "grey-white",
+    IndigoWhite: "indigo-white",
+    RedBlack: "red-black",
+    RedWhite: "red-white",
+    WhiteBlue: "white-blue",
+    WhiteGrey: "white-grey",
+    WhiteIndigo: "white-indigo",
+    WhiteRed: "white-red",
+    YellowBlack: "yellow-black",
+};
+var ThemeSelector = /** @class */ (function () {
+    function ThemeSelector(theme) {
+        switch (theme) {
+            case Themes.GreenWhite:
+                this.useTheme(GreenWhite);
+                break;
+            case Themes.GreenWhite:
+                this.useTheme(GreenWhite);
+                break;
+            case Themes.IndigoWhite:
+                this.useTheme(IndigoWhite);
+                break;
+            case Themes.RedBlack:
+                this.useTheme(RedBlack);
+                break;
+            case Themes.RedWhite:
+                this.useTheme(RedWhite);
+                break;
+            case Themes.WhiteBlue:
+                this.useTheme(WhiteBlue);
+                break;
+            case Themes.WhiteGrey:
+                this.useTheme(WhiteGrey);
+                break;
+            case Themes.WhiteIndigo:
+                this.useTheme(WhiteIndigo);
+                break;
+            case Themes.WhiteRed:
+                this.useTheme(WhiteRed);
+                break;
+            case Themes.YellowBlack:
+                this.useTheme(YellowBlack);
+                break;
+            default:
+                console.log("Unknown theme: " + theme);
+                this.useTheme(RedBlack);
+                break;
+        }
     }
-}
-/* harmony default export */ const util_themeSelector = (themeSelector);
+    ThemeSelector.prototype.useTheme = function (style) {
+        jss_esm/* default.setup */.ZP.setup((0,jss_preset_default_esm/* default */.Z)());
+        jss_esm/* default.createStyleSheet */.ZP.createStyleSheet(style).attach();
+    };
+    return ThemeSelector;
+}());
+/* harmony default export */ const themeSelector = (ThemeSelector);
 
 // EXTERNAL MODULE: ./node_modules/scriptjs/dist/script.js
 var script = __webpack_require__(277);
@@ -401,6 +417,7 @@ var App_assign = (undefined && undefined.__assign) || function () {
 
 
 
+
 var App = /** @class */ (function (_super) {
     App_extends(App, _super);
     function App(props) {
@@ -409,22 +426,18 @@ var App = /** @class */ (function (_super) {
             script_default()(util_path.getSubPath("dlp.config.js"), function () {
                 var isInstagram = /Instagram/i.test(window.navigator.userAgent);
                 var isFacebook = /Facebook/i.test(window.navigator.userAgent);
-                _this.setState({
-                    all: config(App_assign(App_assign({ isInstagram: isInstagram, isFacebook: isFacebook }, browsers), { osVersion: lib/* osVersion */.MM, osName: lib/* osName */.BF, fullBrowserVersion: lib/* fullBrowserVersion */.o3, getUA: lib/* getUA */.z$ })),
-                });
+                _this.setState(config(App_assign(App_assign({ isInstagram: isInstagram, isFacebook: isFacebook }, browsers), { osVersion: lib/* osVersion */.MM, osName: lib/* osName */.BF, fullBrowserVersion: lib/* fullBrowserVersion */.o3, getUA: lib/* getUA */.z$ }), Themes));
             });
-            util_themeSelector(_this.state.all.config.theme);
         };
         _this.componentDidUpdate = function () {
+            new themeSelector(_this.state.theme);
             if (true) {
                 (0,devtools_detector.addListener)(function (isOpen) { return _this.setState({ devToolsOpen: isOpen }); });
                 (0,devtools_detector.launch)();
             }
         };
         _this.render = function () {
-            var devToolsOpen = _this.state.devToolsOpen;
-            var links = _this.state.all.links;
-            var _a = _this.state.all.config, intro = _a.intro, tagline = _a.tagline;
+            var _a = _this.state, intro = _a.intro, tagline = _a.tagline, links = _a.links, devToolsOpen = _a.devToolsOpen;
             if (devToolsOpen) {
                 return ((0,jsx_runtime.jsx)("main", { children: (0,jsx_runtime.jsx)("div", App_assign({ className: "intro" }, { children: "Turn off DevTools" }), "intro") }));
             }
@@ -445,18 +458,27 @@ var App = /** @class */ (function (_super) {
             root.render((0,jsx_runtime.jsxs)(jsx_runtime.Fragment, { children: [(0,jsx_runtime.jsx)("div", App_assign({ className: "intro" }, { children: error.toString() })), (0,jsx_runtime.jsx)("div", App_assign({ className: "tagline" }, { children: errorInfo.toString() }))] }));
         };
         _this.state = {
-            all: {
-                links: [],
-                config: {
-                    intro: "",
-                    tagline: "",
-                    theme: "red-black",
-                },
-            },
             devToolsOpen: false,
         };
         return _this;
     }
+    App.render = function (component, prevents) {
+        // Setup root node where our React app will be attached to
+        // @ts-ignore
+        var app = document.createElement(component === null || component === void 0 ? void 0 : component.name);
+        document.body.prepend(app);
+        // Render the app component
+        // @ts-ignore
+        var container = document.querySelector(component === null || component === void 0 ? void 0 : component.name);
+        var root = (0,client/* createRoot */.s)(container);
+        root.render(component);
+        prevents.map(function (item) {
+            window.addEventListener(item, function (e) {
+                e.preventDefault();
+                console.info("".concat(item, " is prevented from using"));
+            });
+        });
+    };
     return App;
 }(react.Component));
 /* harmony default export */ const src_App = (App);
@@ -470,16 +492,12 @@ var free_brands_svg_icons_index_es = __webpack_require__(417);
 
 
 
-
 // Styles
 
 
 // Add brands icons
 fontawesome_svg_core_index_es/* library.add */.vI.add(free_brands_svg_icons_index_es/* fab */.vnX);
-var container = document.querySelector("app");
-var root = (0,client/* createRoot */.s)(container);
-root.render((0,jsx_runtime.jsx)(src_App, {}));
-preventer(["contextmenu", "mousedown"]);
+src_App.render((0,jsx_runtime.jsx)(src_App, {}), ["contextmenu", "mousedown"]);
 
 
 /***/ })
