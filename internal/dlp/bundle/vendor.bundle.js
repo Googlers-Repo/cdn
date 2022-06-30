@@ -1,4 +1,4 @@
-(self["webpackChunkcom_dergoogler"] = self["webpackChunkcom_dergoogler"] || []).push([[736],{
+(self["webpackChunkdev_landing_page_react"] = self["webpackChunkdev_landing_page_react"] || []).push([[736],{
 
 /***/ 947:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -12702,6 +12702,22 @@ function _extends() {
   };
   return _extends.apply(this, arguments);
 }
+
+/***/ }),
+
+/***/ 839:
+/***/ ((module) => {
+
+"use strict";
+module.exports = {"i8":"18.2.0"};
+
+/***/ }),
+
+/***/ 102:
+/***/ ((module) => {
+
+"use strict";
+module.exports = {"i8":"18.2.0"};
 
 /***/ })
 
