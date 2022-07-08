@@ -2,65 +2,113 @@
 /******/ 	"use strict";
 /******/ 	var __webpack_modules__ = ({
 
-/***/ 884:
+/***/ 8958:
 /***/ ((__unused_webpack_module, __unused_webpack___webpack_exports__, __webpack_require__) => {
 
 
+// EXTERNAL MODULE: ./node_modules/googlers-tools/dist/index.js
+var dist = __webpack_require__(2089);
+// EXTERNAL MODULE: ./node_modules/@fortawesome/fontawesome-svg-core/index.es.js
+var index_es = __webpack_require__(8947);
+// EXTERNAL MODULE: ./node_modules/@fortawesome/free-brands-svg-icons/index.es.js
+var free_brands_svg_icons_index_es = __webpack_require__(1417);
 // EXTERNAL MODULE: ./node_modules/react/jsx-runtime.js
-var jsx_runtime = __webpack_require__(893);
+var jsx_runtime = __webpack_require__(5893);
 // EXTERNAL MODULE: ./node_modules/devtools-detector/lib/devtools-detector.js
-var devtools_detector = __webpack_require__(954);
+var devtools_detector = __webpack_require__(1954);
 // EXTERNAL MODULE: ./node_modules/react/index.js
-var react = __webpack_require__(294);
-// EXTERNAL MODULE: ./node_modules/react-dom/client.js
-var client = __webpack_require__(745);
-// EXTERNAL MODULE: ./node_modules/react-device-detect/dist/lib.js
-var lib = __webpack_require__(518);
-;// CONCATENATED MODULE: ./src/util/browsers.ts
-
-var browsers = {
-    browserName: lib/* browserName */.KC,
-    browserVersion: lib/* browserVersion */.x_,
-    deviceType: lib/* deviceType */.vO,
-    engineName: lib/* engineName */.AA,
-    engineVersion: lib/* engineVersion */.TI,
-    isBrowser: lib/* isBrowser */.jU,
-    isChrome: lib/* isChrome */.i7,
-    isChromium: lib/* isChromium */.mJ,
-    isConsole: lib/* isConsole */.cl,
-    isDesktop: lib/* isDesktop */.nI,
-    isEdge: lib/* isEdge */.un,
-    isEdgeChromium: lib/* isEdgeChromium */.kD,
-    isElectron: lib/* isElectron */.d,
-    isEmbedded: lib/* isEmbedded */.xR,
-    isFirefox: lib/* isFirefox */.vU,
-    isIE: lib/* isIE */.w1,
-    isIOS: lib/* isIOS */.gn,
-    isIOS13: lib/* isIOS13 */.gP,
-    isIPad13: lib/* isIPad13 */.Hg,
-    isIPhone13: lib/* isIPhone13 */.zL,
-    isIPod13: lib/* isIPod13 */.XE,
-    isMacOs: lib/* isMacOs */.Q5,
-    isMIUI: lib/* isMIUI */.vb,
-    isMobile: lib/* isMobile */.tq,
-    isMobileOnly: lib/* isMobileOnly */.UA,
-    isMobileSafari: lib/* isMobileSafari */.TL,
-    isOpera: lib/* isOpera */.f0,
-    isSafari: lib/* isSafari */.G6,
-    isSamsungBrowser: lib/* isSamsungBrowser */.op,
-    isSmartTV: lib/* isSmartTV */.L6,
-    isTablet: lib/* isTablet */.Em,
-    isWearable: lib/* isWearable */.fB,
-    isWinPhone: lib/* isWinPhone */.xk,
-    isYandex: lib/* isYandex */.kU,
-    mobileModel: lib/* mobileModel */.N7,
-    mobileVendor: lib/* mobileVendor */.B3,
+var react = __webpack_require__(7294);
+// EXTERNAL MODULE: ./node_modules/@fortawesome/react-fontawesome/index.es.js
+var react_fontawesome_index_es = __webpack_require__(7814);
+;// CONCATENATED MODULE: ./src/components/LinkIcon.tsx
+var __extends = (undefined && undefined.__extends) || (function () {
+    var extendStatics = function (d, b) {
+        extendStatics = Object.setPrototypeOf ||
+            ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
+            function (d, b) { for (var p in b) if (Object.prototype.hasOwnProperty.call(b, p)) d[p] = b[p]; };
+        return extendStatics(d, b);
+    };
+    return function (d, b) {
+        if (typeof b !== "function" && b !== null)
+            throw new TypeError("Class extends value " + String(b) + " is not a constructor or null");
+        extendStatics(d, b);
+        function __() { this.constructor = d; }
+        d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
+    };
+})();
+var __assign = (undefined && undefined.__assign) || function () {
+    __assign = Object.assign || function(t) {
+        for (var s, i = 1, n = arguments.length; i < n; i++) {
+            s = arguments[i];
+            for (var p in s) if (Object.prototype.hasOwnProperty.call(s, p))
+                t[p] = s[p];
+        }
+        return t;
+    };
+    return __assign.apply(this, arguments);
 };
 
+
+
+var LinkIcon = /** @class */ (function (_super) {
+    __extends(LinkIcon, _super);
+    function LinkIcon() {
+        return _super !== null && _super.apply(this, arguments) || this;
+    }
+    LinkIcon.prototype.render = function () {
+        var _a = this.props, link = _a.link, icon = _a.icon, title = _a.title;
+        return ((0,jsx_runtime.jsx)(react.Fragment, { children: (0,jsx_runtime.jsx)("a", __assign({ target: "_blank", className: "iconColor", href: link }, { children: (0,jsx_runtime.jsx)("i", __assign({ title: title }, { children: (0,jsx_runtime.jsx)(react_fontawesome_index_es/* FontAwesomeIcon */.G, { className: "iconColor", icon: ["fab", icon] }) })) })) }));
+    };
+    return LinkIcon;
+}(react.Component));
+/* harmony default export */ const components_LinkIcon = (LinkIcon);
+
+;// CONCATENATED MODULE: ./src/components/LinkWrapper.tsx
+var LinkWrapper_extends = (undefined && undefined.__extends) || (function () {
+    var extendStatics = function (d, b) {
+        extendStatics = Object.setPrototypeOf ||
+            ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
+            function (d, b) { for (var p in b) if (Object.prototype.hasOwnProperty.call(b, p)) d[p] = b[p]; };
+        return extendStatics(d, b);
+    };
+    return function (d, b) {
+        if (typeof b !== "function" && b !== null)
+            throw new TypeError("Class extends value " + String(b) + " is not a constructor or null");
+        extendStatics(d, b);
+        function __() { this.constructor = d; }
+        d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
+    };
+})();
+var LinkWrapper_assign = (undefined && undefined.__assign) || function () {
+    LinkWrapper_assign = Object.assign || function(t) {
+        for (var s, i = 1, n = arguments.length; i < n; i++) {
+            s = arguments[i];
+            for (var p in s) if (Object.prototype.hasOwnProperty.call(s, p))
+                t[p] = s[p];
+        }
+        return t;
+    };
+    return LinkWrapper_assign.apply(this, arguments);
+};
+
+
+var LinkWrapper = /** @class */ (function (_super) {
+    LinkWrapper_extends(LinkWrapper, _super);
+    function LinkWrapper() {
+        return _super !== null && _super.apply(this, arguments) || this;
+    }
+    LinkWrapper.prototype.render = function () {
+        var children = this.props.children;
+        return ((0,jsx_runtime.jsx)(react.Fragment, { children: (0,jsx_runtime.jsx)("div", LinkWrapper_assign({ className: "icons-social" }, { children: children })) }));
+    };
+    return LinkWrapper;
+}(react.Component));
+/* harmony default export */ const components_LinkWrapper = (LinkWrapper);
+
 // EXTERNAL MODULE: ./node_modules/jss/dist/jss.esm.js + 5 modules
-var jss_esm = __webpack_require__(917);
+var jss_esm = __webpack_require__(8917);
 // EXTERNAL MODULE: ./node_modules/jss-preset-default/dist/jss-preset-default.esm.js + 20 modules
-var jss_preset_default_esm = __webpack_require__(121);
+var jss_preset_default_esm = __webpack_require__(8121);
 ;// CONCATENATED MODULE: ./src/styles/themes/green-white.ts
 var GreenWhite = {
     "@global": {
@@ -257,199 +305,11 @@ var ThemeSelector = /** @class */ (function () {
 }());
 /* harmony default export */ const themeSelector = (ThemeSelector);
 
-;// CONCATENATED MODULE: ./src/util/path.ts
-var WebPath;
-(function (WebPath) {
-    /**
-     * Checks if an string link is valid
-     * @param input string
-     * @returns {boolean} boolean
-     */
-    function validURL(input) {
-        var pattern = new RegExp("^(https?:\\/\\/)?" + // protocol
-            "((([a-z\\d]([a-z\\d-]*[a-z\\d])*)\\.)+[a-z]{2,}|" + // domain name
-            "((\\d{1,3}\\.){3}\\d{1,3}))" + // OR ip (v4) address
-            "(\\:\\d+)?(\\/[-a-z\\d%_.~+]*)*" + // port and path
-            "(\\?[;&a-z\\d%_.~+=-]*)?" + // query string
-            "(\\#[-a-z\\d_]*)?$", "i"); // fragment locator
-        return !!pattern.test(input);
-    }
-    WebPath.validURL = validURL;
-    /**
-     * Retuns the current page link
-     * @param url Current url
-     * @returns {string} An sub path without current url
-     */
-    function getSubPath(url) {
-        return window.location.href.replace(/(\?(.*?)=(.*)|\?)/gm, "") + url;
-    }
-    WebPath.getSubPath = getSubPath;
-    function setURL(callback) {
-        var loc = window.location.pathname;
-        var set = function (data, unused, url) { return window.history.pushState(data, unused, url); };
-        var currentPath = loc === "/" ? "" : loc;
-        if (typeof callback == "function") {
-            callback(set, currentPath);
-        }
-    }
-    WebPath.setURL = setURL;
-})(WebPath || (WebPath = {}));
-var path = WebPath;
-/* harmony default export */ const util_path = (path);
-
-;// CONCATENATED MODULE: ./package.json
-const package_namespaceObject = JSON.parse('{"u2":"dev-landing-page-react","i8":"1.0.0"}');
-// EXTERNAL MODULE: ./node_modules/@fortawesome/react-fontawesome/index.es.js
-var index_es = __webpack_require__(814);
-;// CONCATENATED MODULE: ./src/components/LinkIcon.tsx
-var __extends = (undefined && undefined.__extends) || (function () {
-    var extendStatics = function (d, b) {
-        extendStatics = Object.setPrototypeOf ||
-            ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
-            function (d, b) { for (var p in b) if (Object.prototype.hasOwnProperty.call(b, p)) d[p] = b[p]; };
-        return extendStatics(d, b);
-    };
-    return function (d, b) {
-        if (typeof b !== "function" && b !== null)
-            throw new TypeError("Class extends value " + String(b) + " is not a constructor or null");
-        extendStatics(d, b);
-        function __() { this.constructor = d; }
-        d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
-    };
-})();
-var __assign = (undefined && undefined.__assign) || function () {
-    __assign = Object.assign || function(t) {
-        for (var s, i = 1, n = arguments.length; i < n; i++) {
-            s = arguments[i];
-            for (var p in s) if (Object.prototype.hasOwnProperty.call(s, p))
-                t[p] = s[p];
-        }
-        return t;
-    };
-    return __assign.apply(this, arguments);
-};
-
-
-
-var LinkIcon = /** @class */ (function (_super) {
-    __extends(LinkIcon, _super);
-    function LinkIcon() {
-        return _super !== null && _super.apply(this, arguments) || this;
-    }
-    LinkIcon.prototype.render = function () {
-        var _a = this.props, link = _a.link, icon = _a.icon, title = _a.title;
-        return ((0,jsx_runtime.jsx)(jsx_runtime.Fragment, { children: (0,jsx_runtime.jsx)("a", __assign({ target: "_blank", className: "iconColor", href: link }, { children: (0,jsx_runtime.jsx)("i", __assign({ title: title }, { children: (0,jsx_runtime.jsx)(index_es/* FontAwesomeIcon */.G, { className: "iconColor", icon: ["fab", icon] }) })) })) }));
-    };
-    return LinkIcon;
-}(react.Component));
-/* harmony default export */ const components_LinkIcon = (LinkIcon);
-
-;// CONCATENATED MODULE: ./src/components/LinkWrapper.tsx
-var LinkWrapper_extends = (undefined && undefined.__extends) || (function () {
-    var extendStatics = function (d, b) {
-        extendStatics = Object.setPrototypeOf ||
-            ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
-            function (d, b) { for (var p in b) if (Object.prototype.hasOwnProperty.call(b, p)) d[p] = b[p]; };
-        return extendStatics(d, b);
-    };
-    return function (d, b) {
-        if (typeof b !== "function" && b !== null)
-            throw new TypeError("Class extends value " + String(b) + " is not a constructor or null");
-        extendStatics(d, b);
-        function __() { this.constructor = d; }
-        d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
-    };
-})();
-var LinkWrapper_assign = (undefined && undefined.__assign) || function () {
-    LinkWrapper_assign = Object.assign || function(t) {
-        for (var s, i = 1, n = arguments.length; i < n; i++) {
-            s = arguments[i];
-            for (var p in s) if (Object.prototype.hasOwnProperty.call(s, p))
-                t[p] = s[p];
-        }
-        return t;
-    };
-    return LinkWrapper_assign.apply(this, arguments);
-};
-
-
-var LinkWrapper = /** @class */ (function (_super) {
-    LinkWrapper_extends(LinkWrapper, _super);
-    function LinkWrapper() {
-        return _super !== null && _super.apply(this, arguments) || this;
-    }
-    LinkWrapper.prototype.render = function () {
-        var children = this.props.children;
-        return ((0,jsx_runtime.jsx)(jsx_runtime.Fragment, { children: (0,jsx_runtime.jsx)("div", LinkWrapper_assign({ className: "icons-social" }, { children: children })) }));
-    };
-    return LinkWrapper;
-}(react.Component));
-/* harmony default export */ const components_LinkWrapper = (LinkWrapper);
-
-// EXTERNAL MODULE: ./node_modules/scriptjs/dist/script.js
-var script = __webpack_require__(277);
-var script_default = /*#__PURE__*/__webpack_require__.n(script);
-// EXTERNAL MODULE: ./node_modules/react/package.json
-var react_package = __webpack_require__(102);
-// EXTERNAL MODULE: ./node_modules/react-dom/package.json
-var react_dom_package = __webpack_require__(839);
-;// CONCATENATED MODULE: ./src/AppRoot.ts
-var AppRoot_extends = (undefined && undefined.__extends) || (function () {
-    var extendStatics = function (d, b) {
-        extendStatics = Object.setPrototypeOf ||
-            ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
-            function (d, b) { for (var p in b) if (Object.prototype.hasOwnProperty.call(b, p)) d[p] = b[p]; };
-        return extendStatics(d, b);
-    };
-    return function (d, b) {
-        if (typeof b !== "function" && b !== null)
-            throw new TypeError("Class extends value " + String(b) + " is not a constructor or null");
-        extendStatics(d, b);
-        function __() { this.constructor = d; }
-        d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
-    };
-})();
-
-
-
-/**
- * Provides information about the app and frameworks
- * @extends HTMLElement
- */
-var AppRoot = /** @class */ (function (_super) {
-    AppRoot_extends(AppRoot, _super);
-    function AppRoot() {
-        var _this = _super.call(this) || this;
-        _this.initConfigStats([
-            { key: "version", value: package_namespaceObject.i8 },
-            { key: "react-version", value: react_package/* version */.i8 },
-            { key: "react-dom-version", value: react_dom_package/* version */.i8 },
-        ]);
-        return _this;
-    }
-    AppRoot.prototype.initConfigStats = function (data) {
-        var _this = this;
-        return data.map(function (element) {
-            return _this.setAttribute(element.key, element.value);
-        });
-    };
-    AppRoot.prototype.connectedCallback = function () {
-        // Element wurde ins DOM eingehängt
-    };
-    AppRoot.prototype.disconnectedCallback = function () {
-        // Element wurde entfernt
-    };
-    AppRoot.prototype.adoptedCallback = function () {
-        // Element ist in ein anderes Dokument umgezogen
-    };
-    AppRoot.prototype.attributeChangedCallback = function (name, oldValue, newValue) {
-        // Elementparameter wurden geändert
-        // Achtung attributeChangedCallback wird vor connectedCallback aufgerufen
-    };
-    return AppRoot;
-}(HTMLElement));
-/* harmony default export */ const src_AppRoot = (AppRoot);
-
+// EXTERNAL MODULE: ./node_modules/axios/index.js
+var axios = __webpack_require__(9669);
+var axios_default = /*#__PURE__*/__webpack_require__.n(axios);
+// EXTERNAL MODULE: ./node_modules/js-yaml/dist/js-yaml.mjs
+var js_yaml = __webpack_require__(1272);
 ;// CONCATENATED MODULE: ./src/App.tsx
 var App_extends = (undefined && undefined.__extends) || (function () {
     var extendStatics = function (d, b) {
@@ -486,21 +346,21 @@ var App_assign = (undefined && undefined.__assign) || function () {
 
 
 
-
-
-
-
-
 var App = /** @class */ (function (_super) {
     App_extends(App, _super);
     function App(props) {
         var _this = _super.call(this, props) || this;
+        _this.displayName = "Application";
         _this.componentDidMount = function () {
-            script_default()(util_path.getSubPath("dlp.config.js"), function () {
-                var isInstagram = /Instagram/i.test(window.navigator.userAgent);
-                var isFacebook = /Facebook/i.test(window.navigator.userAgent);
-                _this.setState(config(App_assign(App_assign({ isInstagram: isInstagram, isFacebook: isFacebook }, browsers), { osVersion: lib/* osVersion */.MM, osName: lib/* osName */.BF, fullBrowserVersion: lib/* fullBrowserVersion */.o3, getUA: lib/* getUA */.z$ }), Themes));
-            });
+            // Make a request for a user with a given ID
+            axios_default().get(dist.Link.getSubPath("dlp.config.yaml"))
+                .then(function (response) {
+                _this.setState(js_yaml/* default.load */.ZP.load(response.data));
+            })
+                .catch(function (error) {
+                dist.Dom.render((0,jsx_runtime.jsxs)("h1", { children: ["ERROR: ", error] }), "app");
+            })
+                .then(function () { });
         };
         _this.componentDidUpdate = function () {
             // Select pre-created theme or make yourself one
@@ -508,18 +368,22 @@ var App = /** @class */ (function (_super) {
             new themeSelector(theme);
             if (true) {
                 (0,devtools_detector.addListener)(function (isOpen) { return _this.setState({ devToolsOpen: isOpen }); });
+                _this.log.info((0,jsx_runtime.jsx)("div", App_assign({ style: { color: "red", fontStyle: "bold" } }, { children: "Running in production mode!" })));
                 (0,devtools_detector.launch)();
             }
+            else {}
         };
         _this.render = function () {
-            var _a = _this.state, intro = _a.intro, tagline = _a.tagline, links = _a.links, devToolsOpen = _a.devToolsOpen;
+            var _a = _this.state, intro = _a.intro, tagline = _a.tagline, links = _a.links, devToolsOpen = _a.devToolsOpen, devToolsOpenText = _a.devToolsOpenText;
             if (devToolsOpen) {
-                return ((0,jsx_runtime.jsx)("main", { children: (0,jsx_runtime.jsx)("div", App_assign({ className: "intro" }, { children: "Turn off DevTools" }), "intro") }));
+                return ((0,jsx_runtime.jsx)("main", { children: (0,jsx_runtime.jsx)("div", App_assign({ className: "intro" }, { children: devToolsOpenText ? devToolsOpenText : "Turn off DevTools" }), "intro") }));
             }
             else {
                 return ((0,jsx_runtime.jsxs)("main", { children: [(0,jsx_runtime.jsx)("div", App_assign({ className: "intro" }, { children: intro }), "intro"), (0,jsx_runtime.jsx)("div", App_assign({ className: "tagline" }, { children: tagline }), "tagline"), (0,jsx_runtime.jsx)(components_LinkWrapper, { children: links === null || links === void 0 ? void 0 : links.map(function (item) {
-                                if (!(item === null || item === void 0 ? void 0 : item.hide)) {
-                                    return ((0,jsx_runtime.jsx)(components_LinkIcon, { link: item === null || item === void 0 ? void 0 : item.link, icon: item === null || item === void 0 ? void 0 : item.icon, title: item === null || item === void 0 ? void 0 : item.title }, item === null || item === void 0 ? void 0 : item.icon));
+                                var ua = navigator.userAgent || navigator.vendor;
+                                var is = ua.indexOf(item.hideIn) > -1 ? true : false;
+                                if (!is) {
+                                    return (0,jsx_runtime.jsx)(components_LinkIcon, { link: item === null || item === void 0 ? void 0 : item.link, icon: item === null || item === void 0 ? void 0 : item.icon, title: item === null || item === void 0 ? void 0 : item.title }, item === null || item === void 0 ? void 0 : item.icon);
                                 }
                                 else {
                                     return null;
@@ -527,41 +391,17 @@ var App = /** @class */ (function (_super) {
                             }) }, "icons-social")] }));
             }
         };
-        _this.componentDidCatch = function (error, errorInfo) {
-            var container = document.querySelector("app");
-            var root = (0,client/* createRoot */.s)(container);
-            root.render((0,jsx_runtime.jsxs)(jsx_runtime.Fragment, { children: [(0,jsx_runtime.jsx)("div", App_assign({ className: "intro" }, { children: error.toString() })), (0,jsx_runtime.jsx)("div", App_assign({ className: "tagline" }, { children: errorInfo.toString() }))] }));
-        };
         _this.state = {
             devToolsOpen: false,
+            devToolsOpenText: "Turn off DevTools",
         };
+        _this.log = new dist.Dom.Logger(_this.constructor.name);
         return _this;
     }
-    App.render = function (component, prevents) {
-        var name = package_namespaceObject.u2;
-        // Setup root node where our React app will be attached to
-        var app = document.createElement(name);
-        document.body.prepend(app);
-        // Render the app component
-        var container = document.querySelector(name);
-        var root = (0,client/* createRoot */.s)(container);
-        root.render(component);
-        customElements.define(name, src_AppRoot);
-        prevents.map(function (item) {
-            window.addEventListener(item, function (e) {
-                e.preventDefault();
-                console.info("".concat(item, " is prevented from using"));
-            });
-        });
-    };
     return App;
 }(react.Component));
 /* harmony default export */ const src_App = (App);
 
-// EXTERNAL MODULE: ./node_modules/@fortawesome/fontawesome-svg-core/index.es.js
-var fontawesome_svg_core_index_es = __webpack_require__(947);
-// EXTERNAL MODULE: ./node_modules/@fortawesome/free-brands-svg-icons/index.es.js
-var free_brands_svg_icons_index_es = __webpack_require__(417);
 ;// CONCATENATED MODULE: ./src/index.tsx
 
 
@@ -571,8 +411,9 @@ var free_brands_svg_icons_index_es = __webpack_require__(417);
 
 
 // Add brands icons
-fontawesome_svg_core_index_es/* library.add */.vI.add(free_brands_svg_icons_index_es/* fab */.vnX);
-src_App.render((0,jsx_runtime.jsx)(src_App, {}), ["contextmenu", "mousedown"]);
+index_es/* library.add */.vI.add(free_brands_svg_icons_index_es/* fab */.vnX);
+dist.Dom.preventer(["contextmenu", "mousedown"]);
+dist.Dom.renderAuto(src_App);
 
 
 /***/ })
@@ -610,11 +451,6 @@ src_App.render((0,jsx_runtime.jsx)(src_App, {}), ["contextmenu", "mousedown"]);
 /******/ 	__webpack_require__.m = __webpack_modules__;
 /******/ 	
 /************************************************************************/
-/******/ 	/* webpack/runtime/amd options */
-/******/ 	(() => {
-/******/ 		__webpack_require__.amdO = {};
-/******/ 	})();
-/******/ 	
 /******/ 	/* webpack/runtime/chunk loaded */
 /******/ 	(() => {
 /******/ 		var deferred = [];
@@ -703,6 +539,15 @@ src_App.render((0,jsx_runtime.jsx)(src_App, {}), ["contextmenu", "mousedown"]);
 /******/ 		__webpack_require__.o = (obj, prop) => (Object.prototype.hasOwnProperty.call(obj, prop))
 /******/ 	})();
 /******/ 	
+/******/ 	/* webpack/runtime/node module decorator */
+/******/ 	(() => {
+/******/ 		__webpack_require__.nmd = (module) => {
+/******/ 			module.paths = [];
+/******/ 			if (!module.children) module.children = [];
+/******/ 			return module;
+/******/ 		};
+/******/ 	})();
+/******/ 	
 /******/ 	/* webpack/runtime/jsonp chunk loading */
 /******/ 	(() => {
 /******/ 		// no baseURI
@@ -761,7 +606,7 @@ src_App.render((0,jsx_runtime.jsx)(src_App, {}), ["contextmenu", "mousedown"]);
 /******/ 	// startup
 /******/ 	// Load entry module and return exports
 /******/ 	// This entry module depends on other loaded chunks and execution need to be delayed
-/******/ 	var __webpack_exports__ = __webpack_require__.O(undefined, [736], () => (__webpack_require__(884)))
+/******/ 	var __webpack_exports__ = __webpack_require__.O(undefined, [736], () => (__webpack_require__(8958)))
 /******/ 	__webpack_exports__ = __webpack_require__.O(__webpack_exports__);
 /******/ 	
 /******/ })()
