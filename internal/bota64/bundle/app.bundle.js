@@ -6334,7 +6334,7 @@ var BotaTab;
                             ? JSON.parse(event.target.result)
                             : {
                                 meta: {
-                                    usedMethod: "Bota64",
+                                    usedMethod: null,
                                 },
                                 content: event.target.result,
                             };
