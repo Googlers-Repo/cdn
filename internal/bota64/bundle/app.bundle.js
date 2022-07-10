@@ -2,7 +2,7 @@
 /******/ 	"use strict";
 /******/ 	var __webpack_modules__ = ({
 
-/***/ 8272:
+/***/ 5468:
 /***/ ((__unused_webpack_module, __unused_webpack___webpack_exports__, __webpack_require__) => {
 
 
@@ -5995,7 +5995,200 @@ var FileSaver_min_default = /*#__PURE__*/__webpack_require__.n(FileSaver_min);
 }
 
 ;// CONCATENATED MODULE: ./package.json
-const package_namespaceObject = {"i8":"1.0.0"};
+const package_namespaceObject = {"i8":"1.1.0"};
+;// CONCATENATED MODULE: ./src/util/UTF8.ts
+var UTF8 = /** @class */ (function () {
+    function UTF8() {
+        this.EOF_byte = -1;
+        this.EOF_code_point = -1;
+    }
+    UTF8.encode = function (str) {
+        return new UTF8().encode(str);
+    };
+    UTF8.decode = function (data) {
+        return new UTF8().decode(data);
+    };
+    UTF8.prototype.encoderError = function (code_point) {
+        console.error("UTF8 encoderError", code_point);
+    };
+    UTF8.prototype.decoderError = function (fatal, opt_code_point) {
+        if (fatal)
+            console.error("UTF8 decoderError", opt_code_point);
+        return opt_code_point || 0xfffd;
+    };
+    UTF8.prototype.inRange = function (a, min, max) {
+        return min <= a && a <= max;
+    };
+    UTF8.prototype.div = function (n, d) {
+        return Math.floor(n / d);
+    };
+    UTF8.prototype.stringToCodePoints = function (string) {
+        /** @type {Array.<number>} */
+        var cps = [];
+        // Based on http://www.w3.org/TR/WebIDL/#idl-DOMString
+        var i = 0, n = string.length;
+        while (i < string.length) {
+            var c = string.charCodeAt(i);
+            if (!this.inRange(c, 0xd800, 0xdfff)) {
+                cps.push(c);
+            }
+            else if (this.inRange(c, 0xdc00, 0xdfff)) {
+                cps.push(0xfffd);
+            }
+            else {
+                // (inRange(c, 0xD800, 0xDBFF))
+                if (i == n - 1) {
+                    cps.push(0xfffd);
+                }
+                else {
+                    var d = string.charCodeAt(i + 1);
+                    if (this.inRange(d, 0xdc00, 0xdfff)) {
+                        var a = c & 0x3ff;
+                        var b = d & 0x3ff;
+                        i += 1;
+                        cps.push(0x10000 + (a << 10) + b);
+                    }
+                    else {
+                        cps.push(0xfffd);
+                    }
+                }
+            }
+            i += 1;
+        }
+        return cps;
+    };
+    UTF8.prototype.encode = function (str) {
+        var pos = 0;
+        var codePoints = this.stringToCodePoints(str);
+        var outputBytes = [];
+        while (codePoints.length > pos) {
+            var code_point = codePoints[pos++];
+            if (this.inRange(code_point, 0xd800, 0xdfff)) {
+                this.encoderError(code_point);
+            }
+            else if (this.inRange(code_point, 0x0000, 0x007f)) {
+                outputBytes.push(code_point);
+            }
+            else {
+                var count = 0, offset = 0;
+                if (this.inRange(code_point, 0x0080, 0x07ff)) {
+                    count = 1;
+                    offset = 0xc0;
+                }
+                else if (this.inRange(code_point, 0x0800, 0xffff)) {
+                    count = 2;
+                    offset = 0xe0;
+                }
+                else if (this.inRange(code_point, 0x10000, 0x10ffff)) {
+                    count = 3;
+                    offset = 0xf0;
+                }
+                outputBytes.push(this.div(code_point, Math.pow(64, count)) + offset);
+                while (count > 0) {
+                    var temp = this.div(code_point, Math.pow(64, count - 1));
+                    outputBytes.push(0x80 + (temp % 64));
+                    count -= 1;
+                }
+            }
+        }
+        return new Uint8Array(outputBytes);
+    };
+    UTF8.prototype.decode = function (data) {
+        var fatal = false;
+        var pos = 0;
+        var result = "";
+        var code_point;
+        var utf8_code_point = 0;
+        var utf8_bytes_needed = 0;
+        var utf8_bytes_seen = 0;
+        var utf8_lower_boundary = 0;
+        while (data.length > pos) {
+            var _byte = data[pos++];
+            if (_byte == this.EOF_byte) {
+                if (utf8_bytes_needed != 0) {
+                    code_point = this.decoderError(fatal);
+                }
+                else {
+                    code_point = this.EOF_code_point;
+                }
+            }
+            else {
+                if (utf8_bytes_needed == 0) {
+                    if (this.inRange(_byte, 0x00, 0x7f)) {
+                        code_point = _byte;
+                    }
+                    else {
+                        if (this.inRange(_byte, 0xc2, 0xdf)) {
+                            utf8_bytes_needed = 1;
+                            utf8_lower_boundary = 0x80;
+                            utf8_code_point = _byte - 0xc0;
+                        }
+                        else if (this.inRange(_byte, 0xe0, 0xef)) {
+                            utf8_bytes_needed = 2;
+                            utf8_lower_boundary = 0x800;
+                            utf8_code_point = _byte - 0xe0;
+                        }
+                        else if (this.inRange(_byte, 0xf0, 0xf4)) {
+                            utf8_bytes_needed = 3;
+                            utf8_lower_boundary = 0x10000;
+                            utf8_code_point = _byte - 0xf0;
+                        }
+                        else {
+                            this.decoderError(fatal);
+                        }
+                        utf8_code_point = utf8_code_point * Math.pow(64, utf8_bytes_needed);
+                        code_point = null;
+                    }
+                }
+                else if (!this.inRange(_byte, 0x80, 0xbf)) {
+                    utf8_code_point = 0;
+                    utf8_bytes_needed = 0;
+                    utf8_bytes_seen = 0;
+                    utf8_lower_boundary = 0;
+                    pos--;
+                    code_point = this.decoderError(fatal, _byte);
+                }
+                else {
+                    utf8_bytes_seen += 1;
+                    utf8_code_point = utf8_code_point + (_byte - 0x80) * Math.pow(64, utf8_bytes_needed - utf8_bytes_seen);
+                    if (utf8_bytes_seen !== utf8_bytes_needed) {
+                        code_point = null;
+                    }
+                    else {
+                        var cp = utf8_code_point;
+                        var lower_boundary = utf8_lower_boundary;
+                        utf8_code_point = 0;
+                        utf8_bytes_needed = 0;
+                        utf8_bytes_seen = 0;
+                        utf8_lower_boundary = 0;
+                        if (this.inRange(cp, lower_boundary, 0x10ffff) && !this.inRange(cp, 0xd800, 0xdfff)) {
+                            code_point = cp;
+                        }
+                        else {
+                            code_point = this.decoderError(fatal, _byte);
+                        }
+                    }
+                }
+            }
+            //Decode string
+            if (code_point !== null && code_point !== this.EOF_code_point) {
+                if (code_point <= 0xffff) {
+                    if (code_point > 0)
+                        result += String.fromCharCode(code_point);
+                }
+                else {
+                    code_point -= 0x10000;
+                    result += String.fromCharCode(0xd800 + ((code_point >> 10) & 0x3ff));
+                    result += String.fromCharCode(0xdc00 + (code_point & 0x3ff));
+                }
+            }
+        }
+        return result;
+    };
+    return UTF8;
+}());
+/* harmony default export */ const util_UTF8 = (UTF8);
+
 ;// CONCATENATED MODULE: ./src/tabs/BotaTab.tsx
 var __extends = (undefined && undefined.__extends) || (function () {
     var extendStatics = function (d, b) {
@@ -6033,6 +6226,7 @@ var __assign = (undefined && undefined.__assign) || function () {
 
 
 
+
 var BotaTab;
 (function (BotaTab) {
     var Create = /** @class */ (function (_super) {
@@ -6044,8 +6238,14 @@ var BotaTab;
                 input: "",
                 output: "Empty",
                 clipboardState: "",
+                useUnit8Array: false,
+                dialogShown: false,
             };
             _this.bota = new bota64_dist["default"]();
+            _this.isEncode = _this.method === "encode";
+            _this.isDecode = _this.method === "decode";
+            _this.showDialog = _this.showDialog.bind(_this);
+            _this.hideDialog = _this.hideDialog.bind(_this);
             _this.handleFileChange = _this.handleFileChange.bind(_this);
             _this.handleInput = _this.handleInput.bind(_this);
             _this.handleCopy = _this.handleCopy.bind(_this);
@@ -6104,20 +6304,29 @@ var BotaTab;
         };
         Create.prototype.handleFileChange = function (event) {
             var _this = this;
+            var useUnit8Array = this.state.useUnit8Array;
             chooseFile(event, function (event, file, input) {
                 try {
                     // Keep that for debugging purposes
                     // console.log(input.files[0].name);
                     // console.log(event.target.result);
                     // console.log(this.bota[this.method](event.target.result));
-                    if (_this.method === "decode") {
-                        var ctnt = JSON.parse(event.target.result);
-                        if (ctnt.meta.usedBota64) {
-                            var blob = new Blob([_this.bota.decode(ctnt.content)], { type: "text/plain;charset=utf-8" });
-                            FileSaver_min_default()(blob, ctnt.file.originalName);
-                        }
-                        else {
-                            esm["default"].notification.alert("File isn't an Bota64 file");
+                    if (_this.isDecode) {
+                        var ctnt_1 = JSON.parse(event.target.result);
+                        var svfFile = function (blob) {
+                            var blob_ = new Blob(blob, { type: "text/plain;charset=utf-8" });
+                            FileSaver_min_default()(blob_, ctnt_1.file.originalName);
+                        };
+                        switch (ctnt_1.meta.usedMethod) {
+                            case "Bota64":
+                                svfFile([_this.bota.decode(ctnt_1.content)]);
+                                break;
+                            case "Bota64/Unit8Array":
+                                svfFile([_this.bota.decode(util_UTF8.decode(Object.values(ctnt_1.content)))]);
+                                break;
+                            default:
+                                esm["default"].notification.alert("File isn't an Bota64 file");
+                                break;
                         }
                     }
                     else {
@@ -6125,12 +6334,12 @@ var BotaTab;
                             ? JSON.parse(event.target.result)
                             : {
                                 meta: {
-                                    usedBota64: false,
+                                    usedMethod: "Bota64",
                                 },
                                 content: event.target.result,
                             };
                         var d = function () { return esm["default"].notification.alert("Re-encoding isn't allowed!"); };
-                        if (_P.meta.usedBota64) {
+                        if (_P.meta.usedMethod === "Bota64") {
                             d();
                         }
                         else {
@@ -6138,7 +6347,7 @@ var BotaTab;
                                 var content = {
                                     meta: {
                                         date: new Date().toString(),
-                                        usedBota64: true,
+                                        usedMethod: "Bota64",
                                         version: {
                                             app: package_namespaceObject.i8,
                                             lib: _this.bota.version,
@@ -6152,6 +6361,12 @@ var BotaTab;
                                     },
                                     content: _this.bota.encode(event.target.result),
                                 };
+                                console.log(content.content);
+                                if (useUnit8Array) {
+                                    content.meta.usedMethod = "Bota64/Unit8Array";
+                                    content.content = JSON.parse(JSON.stringify(util_UTF8.encode(_this.bota.encode(event.target.result))));
+                                    console.log(content.content);
+                                }
                                 var blob = new Blob([JSON.stringify(content, null, 4)], { type: "text/plain;charset=utf-8" });
                                 FileSaver_min_default()(blob, "".concat(input.files[0].name.replace(/\.[^/.]+$/, ""), ".bota64"));
                             }
@@ -6180,16 +6395,25 @@ var BotaTab;
                 esm["default"].notification.toast("We don't offer coping in Firefox", { timeout: 1000, animation: "fall" });
             }
         };
+        Create.prototype.showDialog = function () {
+            this.setState({ dialogShown: true });
+        };
+        Create.prototype.hideDialog = function () {
+            this.setState({ dialogShown: false });
+        };
         Create.prototype.render = function () {
-            var _a = this.state, input = _a.input, output = _a.output;
-            return ((0,jsx_runtime.jsxs)(react_onsenui.Page, { children: [(0,jsx_runtime.jsxs)("section", __assign({ style: { margin: "8px" } }, { children: [(0,jsx_runtime.jsx)("p", { children: (0,jsx_runtime.jsx)("textarea", { className: "textarea textarea--transparent", rows: 3, value: input, placeholder: "Your text to ".concat(this.method), onChange: this.handleInput, style: {
-                                        width: "100%",
-                                        borderRadius: "8px",
-                                        padding: "8px",
-                                        border: "solid #dbdbdb 1px",
-                                    } }) }), (0,jsx_runtime.jsxs)("div", __assign({ style: { display: "flex", width: "100%" } }, { children: [(0,jsx_runtime.jsxs)(react_onsenui.Button, __assign({ modifier: "large", onClick: this.handleFunction, style: { marginRight: "4px" } }, { children: [this.methodF, " ", (0,jsx_runtime.jsx)(react_onsenui.Icon, { icon: this.method === "encode" ? "md-lock" : "md-lock-open" })] })), (0,jsx_runtime.jsxs)(react_onsenui.Button, __assign({ modifier: "large", onClick: this.handleCopy, disabled: lib/* isFirefox */.vU, style: { marginLeft: "4px" } }, { children: ["Copy ", (0,jsx_runtime.jsx)(react_onsenui.Icon, { icon: "md-copy" })] }))] })), (0,jsx_runtime.jsxs)("label", __assign({ htmlFor: this.method + "_key", className: "button--large button--material button", style: { marginTop: "8px" } }, { children: [(0,jsx_runtime.jsx)(react_onsenui.Ripple, {}), "File to ", this.method, " ", (0,jsx_runtime.jsx)(react_onsenui.Icon, { icon: "md-file" })] })), (0,jsx_runtime.jsx)("input", { 
-                                // ...
-                                id: this.method + "_key", type: "file", style: { display: "none" }, accept: this.method === "decode" ? ".bota64" : "", onChange: this.handleFileChange }, this.method + "_key")] })), (0,jsx_runtime.jsxs)(react_onsenui.Card, { children: [(0,jsx_runtime.jsx)("div", __assign({ className: "title right" }, { children: "Output" })), (0,jsx_runtime.jsx)("div", __assign({ className: "content" }, { children: (0,jsx_runtime.jsx)("span", { children: output }) }))] })] }));
+            var _this = this;
+            var _a = this.state, input = _a.input, output = _a.output, useUnit8Array = _a.useUnit8Array, dialogShown = _a.dialogShown;
+            return ((0,jsx_runtime.jsx)(jsx_runtime.Fragment, { children: (0,jsx_runtime.jsxs)(react_onsenui.Page, { children: [(0,jsx_runtime.jsxs)("section", __assign({ style: { margin: "8px" } }, { children: [(0,jsx_runtime.jsx)("p", { children: (0,jsx_runtime.jsx)("textarea", { className: "textarea textarea--transparent", rows: 3, value: input, placeholder: "Your text to ".concat(this.method), onChange: this.handleInput, style: {
+                                            width: "100%",
+                                            borderRadius: "8px",
+                                            padding: "8px",
+                                            border: "solid #dbdbdb 1px",
+                                        } }) }), (0,jsx_runtime.jsxs)("div", __assign({ style: { display: "flex", width: "100%" } }, { children: [(0,jsx_runtime.jsxs)(react_onsenui.Button, __assign({ modifier: "large", onClick: this.handleFunction, style: { marginRight: "4px" } }, { children: [this.methodF, " ", (0,jsx_runtime.jsx)(react_onsenui.Icon, { icon: this.isEncode ? "md-lock" : "md-lock-open" })] })), (0,jsx_runtime.jsxs)(react_onsenui.Button, __assign({ modifier: "large", onClick: this.handleCopy, disabled: lib/* isFirefox */.vU, style: { marginLeft: "4px" } }, { children: ["Copy ", (0,jsx_runtime.jsx)(react_onsenui.Icon, { icon: "md-copy" })] }))] })), (0,jsx_runtime.jsxs)("div", __assign({ style: { display: "flex", width: "100%", marginTop: "8px" } }, { children: [(0,jsx_runtime.jsxs)("label", __assign({ htmlFor: this.method + "_key", className: "button--large button--material button", style: { marginRight: !this.isDecode ? "4px" : "none" } }, { children: [(0,jsx_runtime.jsx)(react_onsenui.Ripple, {}), "File to ", this.method, " ", (0,jsx_runtime.jsx)(react_onsenui.Icon, { icon: "md-file" })] })), !this.isDecode ? ((0,jsx_runtime.jsxs)(react_onsenui.Button, __assign({ modifier: "large", onClick: this.showDialog, style: { marginLeft: "4px" } }, { children: ["Options ", (0,jsx_runtime.jsx)(react_onsenui.Icon, { icon: "md-settings" })] }))) : null] }))] })), (0,jsx_runtime.jsxs)(react_onsenui.Card, { children: [(0,jsx_runtime.jsx)("div", __assign({ className: "title right" }, { children: "Output" })), (0,jsx_runtime.jsx)("div", __assign({ className: "content" }, { children: (0,jsx_runtime.jsx)("span", { children: output }) }))] }), (0,jsx_runtime.jsx)(react_onsenui.Dialog, __assign({ isOpen: dialogShown, isCancelable: true, onCancel: this.hideDialog }, { children: (0,jsx_runtime.jsx)("div", __assign({ style: { textAlign: "center", margin: "20px" } }, { children: (0,jsx_runtime.jsxs)(react_onsenui.List, { children: [(0,jsx_runtime.jsx)(react_onsenui.ListHeader, { children: "Options" }), (0,jsx_runtime.jsxs)(react_onsenui.ListItem, { children: [(0,jsx_runtime.jsx)("div", __assign({ className: "center" }, { children: "Use Unit8Array" })), (0,jsx_runtime.jsx)("div", __assign({ className: "right" }, { children: (0,jsx_runtime.jsx)(react_onsenui.Switch, { checked: useUnit8Array, value: useUnit8Array, disabled: this.isDecode, onChange: function (e) {
+                                                            _this.setState({ useUnit8Array: e.target.checked });
+                                                        } }) }))] })] }) })) })), (0,jsx_runtime.jsx)("input", { 
+                            // ...
+                            id: this.method + "_key", type: "file", style: { display: "none", marginRight: "4px" }, accept: this.method === "decode" ? ".bota64" : "", onChange: this.handleFileChange }, this.method + "_key")] }) }));
         };
         return Create;
     }(react.Component));
@@ -6553,7 +6777,7 @@ dist.Dom.renderAuto(App);
 /******/ 	// startup
 /******/ 	// Load entry module and return exports
 /******/ 	// This entry module depends on other loaded chunks and execution need to be delayed
-/******/ 	var __webpack_exports__ = __webpack_require__.O(undefined, [736], () => (__webpack_require__(8272)))
+/******/ 	var __webpack_exports__ = __webpack_require__.O(undefined, [736], () => (__webpack_require__(5468)))
 /******/ 	__webpack_exports__ = __webpack_require__.O(__webpack_exports__);
 /******/ 	
 /******/ })()
