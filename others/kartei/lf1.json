@@ -1,0 +1,282 @@
+{
+    "name": "Lernfeld 1",
+    "group": "lernfeld_1",
+    "karten": [
+        {
+            "shortDescription": "Was ist Logistik?",
+            "description": "Die Logistik umfasst den Prozess der Planung, Steuerung, Durchführung und Kontrolle des gesamten Materialflusses und des dazugehörigen Informationsflusses."
+        },
+        {
+            "shortDescription": "Was versteht man unter einem Materialfluss in der Logistik?",
+            "description": "Unter Materialfluss versteht man den Weg der Roh-, Hilfs-, und Betriebsstoffe, Handelswaren oder Betriebsmittel vom Lieferanten bis zum Kunden."
+        },
+        {
+            "shortDescription": "Was versteht man unter einem Informationsfluss in der Logistik?",
+            "description": "Unter Informationsfluss versteht man den Weg der Weitergabe von Informationen, z.B. Daten über Lieferanten und Kunden."
+        },
+        {
+            "shortDescription": "Welche Informationsflüsse können unterschieden werden?",
+            "description": "Es können vier Arten unterschieden werden\n- vorauslaufender Informationsfluss\n- begleitender Informationsfluss\n- nachlaufender Informationsfluss\n- zurücklaufender Informationsfluss"
+        },
+        {
+            "shortDescription": "Erläutern Sie die Aufgabe der Logistik.",
+            "description": "Aufgabe der Logistik ist es dafür zu sorgen, dass\n- die richtige Ware\n- in der richtigen Menge\n- am richtigen Ort\n- zum richtigen Zeitpunkt\n- in der richtigen Qualität\n- zu den richtigen Kosten\n- zur Verfügung steht."
+        },
+        {
+            "shortDescription": "Nennen Sie die Teilbereiche der Logistik innerhalb der Unternehmenslogistik",
+            "description": "Teilbereiche der Logistik innerhalb der Unternehmenslogistik\n- Beschaffungslogistik\n- Produktionslogistik\n- Distributionslogistik\n- Entsorgungslogistik\n- Lagerlogistik"
+        },
+        {
+            "shortDescription": "Nennen Sie drei Tätigkeiten im Wareneingang",
+            "description": "z. B. \n- Ware annehmen\n- Ware kontrollieren\n- Ware sortieren\n- Ware vorverpacken\n- Ware etikettiren\n- Ware befördern\n- Lagerplatz auswählen\n- Ware einlagern"
+        },
+        {
+            "shortDescription": "Nennen Sie drei Tätigkeiten im Warenlager",
+            "description": "z. B.\n- Ware kontrollieren\n- Ware pflegen\n- Ware umlagern\n- Ware sortieren\n- Auftrag kommissionen\n- Ladungseinheiten bilden\n- Ware verpacken\n- Ware befördern"
+        },
+        {
+            "shortDescription": "Nennen Sie drei Tätigkeiten im Warenausgang.",
+            "description": "z.B.\n- Transportmittel beladen\n- Ladungssicherung vornehmen\n- dem Fahrer die Versandpapiere übergeben"
+        },
+        {
+            "shortDescription": "Nennen Sie drei Tätigkeiten in der Lagerverwaltung.",
+            "description": "z.B.\n- Wareneingang erfassen\n- Lagerbestände verwalten\n- Kommissionierbelege erstellen\n- Lieferscheine und Frachtbriefe erstellen\n- Touren planen"
+        },
+        {
+            "shortDescription": "Definieren Sie den Begriff Arbeitsschutz.",
+            "description": "Arbeitsschutz ist die Bewahrung des Menschen vor Gefahren und Beeinträchtigungen in Verbindung mit seiner Berufsarbeit."
+        },
+        {
+            "shortDescription": "Was regeln die DGUV Vorschriften?",
+            "description": "Deutsche Gesetzliche Unfallversicherung, auch Unfallverhütungsvorschriften beinhalten Rechte und Pflichten des Arbeitgebers und -nehmers und regeln Anforderungen an Einrichtungen, Arbeitsmittel, Anlagen und Maschinen."
+        },
+        {
+            "shortDescription": "Wann muss eine Unterweisung erfolgen?",
+            "description": "Die Unterweisung muss vor Beginn der Beschäftigung erfolgen und dann in angemessenen Abständen, aber mindestens einmal jährlich wiederholt werden."
+        },
+        {
+            "shortDescription": "Nennen Sie die vier wichtigen Bereiche, auf die in einer Erstunterweisung eingegangen werden sollte.",
+            "description": "- Betriebsorganisation\n- Allgemeine Betriebsregelungen\n- Brandschutz und Erste Hilfe\n- Einweisung am Arbeitsplatz"
+        },
+        {
+            "shortDescription": "Welche Gliederung schlagen die Berufsgenossenschaften für die Betriebsanweisung vor?",
+            "description": "Gliederung einer Betriebsanweisung\n- Anwendungsbereich\n- Gefahren für Mensch und Umwelt\n- Schutzmaßnahmen und Verhaltensregeln\n- Verhalten bei Störungen\n- Verhalten bei Unfällen, Erste Hilfe\n- sachgerechte Entsorgungs/Instandhaltung"
+        },
+        {
+            "shortDescription": "Welche Gliederung schlagen die Berufsgenossenschaften für die Betriebsanweisung vor?",
+            "description": "Gliederung einer Betriebsanweisung:\n- Anwendungsbereich\n- Gefahren für Mensch und Umwelt\n- Schutzmaßnahmen und Verhaltensregeln\n- Verhalten bei Störungen\n- Verhalten bei Unfällen, Erste Hilfe\n- sachgerechte Entsorgung/Instandhaltung"
+        },
+        {
+            "shortDescription": "Nennen Sie drei Pflichtn des Arbeitnehmers zum Zwecke des Arbeitschutzes",
+            "description": "z. B.\n- Anweisungen des Arbeitgebers einhalten\n- persönliche Schutzausrüstung (PSA) tragen\n- Arbeitsmittel und Einrichtungen nur bestimmungsgemäß verwenden\n- Meldepflicht von Arbeitsunfällen\n- Einrichtungen von Arbeitsstoffe nur mit Befugnis nutzen\n- Verbot von Alkohol- und Betäubungsmittelkonsum einhalten"
+        },
+        {
+            "shortDescription": "Nennen Sie drei Pflichten des Arbeitnehmers zum Zwecke des Arbeitsschutzes.",
+            "description": "z.B.\n- Anweisungen des Arbeitsgebers einhalten\n- persönliche Schutzausrüstung tragen\n- Arbeitsmittel und Einrichtungen nur bestimmungsgemäß verwenden\n- Meldepflicht von Arbeitsunfällen einhalten\n- Einrichtungen und Arbeitsstoffe nur mit Befugnis nutzen\n- Verbot von Alkohol- und Betäubungsmittelkonsum einhalten"
+        },
+        {
+            "shortDescription": "Nennen Sie drei Anforderungen, die an die persönliche Schutzausrüstung (PSA) gestellt werden.",
+            "description": "z. B.\n- Die PSA is grundsätzlich nur für den Gebrauch durch eine Person bestimmt.\n- Die PSA muss den Beschäftigten individuell passen.\n- Die PSA muss ausreichend vor der jeweiligen Gefahr schützen\n- Die PSA muss mit einer CE-Kennzeichnung versehen sein.\n- Die PSA muss sich stets in hygienisch einwandfreien befinden."
+        },
+        {
+            "shortDescription": "Geben Sie drei Beispiele für persönliche Schutzausrüstungen und erklären Sie, vor welchen Gefahren diese schützen",
+            "description": "z. B.\n- Schutzschuhe: Schutz der Füße vor Überrollen, Einklemmen und das Hineintreten in spitze Gegenstände\n- Schutzhandschue: Schutz der Hände vor Verletzungen z. B. durcj Schneiden oder Quetschen\n- Schutzbrille: Schutz der Augen und des Gesichts vor Verletzungen z. B. durch wegfliegende Teile"
+        },
+        {
+            "shortDescription": "Geben Sie drei Beispiele für persönliche Schutzausrüstungen und erklären Sie, vor welchen Gefahren diese schützen sollen.",
+            "description": "z.B.\n- Schutzschuhe: Schutz der Füße vor Überrollen, Einklemmen und das Hineintreten in spitze Gegenstände\n- Schutzhandschuhe: Schutz der Hände vor Verletzungen z.B. durch Schneiden und Quetschen\n- Schutzbrille: Schutz der Augen und des Gesichts vor Verletzungen z.B. durch wegfliegende Teile"
+        },
+        {
+            "shortDescription": "Was versteht man unter Rechtsfähigkeit?",
+            "description": "Rechtsfähigkeit ist die Fähigkeit natürlicher und juristischer Personen, Träger von Rechten und Pflichten zu sein, wie z.B. dem Recht auf Eigentum oder der Pflicht, Steuern zu zahlen."
+        },
+        {
+            "shortDescription": "Wer ist eine natürliche Person; wann beginnt und wann endet die Rechtsfähigkeit?",
+            "description": "Jeder Mensch ist eine natürliche Person. Seine Rechtsfähigkeit beginnt mit der Geburt und endet mit dem Tod."
+        },
+        {
+            "shortDescription": "Wann beginnt die volle Geschäftsfähigkeit von juristischen Personen?",
+            "description": "Mit der Eintragung ist das jeweilige Register bzw. durch die staatliche Verleihung."
+        },
+        {
+            "shortDescription": "Geben Sie je zwei Beispiele für juristische Personen des öffentlichen Rechts und des Privatrechts.",
+            "description": "Juristische Personen des Privatrechts sind nicht wirtschaftliche Vereine (z.B. Sportvereine), wirtschaftliche Vereinigungen (z.B. Kapitalgesellschaften) und Stiftungen.\nJuristische Personen des öffentlichen Rechts sind Kammern (z.B. IHK) oder Anstalten (z.B. Rundfunk- und Fernsehanstalten und Schulen)."
+        },
+        {
+            "shortDescription": "Wer ist geschäftsunfähig?",
+            "description": "Geschäftsunfähig sind Personen im Alter von 0 bis unter 7 Jahren oder vorübergehend bzw. dauernd geistesgestörte Personen.\nRechtsgeschäfte sind nichtig (=nicht gültig)\nAusnahme: Kind handelt als Bote der Eltern"
+        },
+        {
+            "shortDescription": "Wer ist beschränkt geschäftsfähig?",
+            "description": "Beschränkt geschäftsfähig sind Personen im Alter von 7 bis unter 18 Jahren.\nRechtsgeschäfte sind schwebend unwirksam, d.h. sie werden nur dann voll gültig, wenn der gesetzliche Vertreter zustimmt."
+        },
+        {
+            "shortDescription": "Wie erfolgt der Eigentumserwerb bei beweglichen Sachen?",
+            "description": "Bei beweglichen Sachen erfolgt der Eigentumserwerb durch Einigung und Übergabe der Sache."
+        },
+        {
+            "shortDescription": "Erläutern Sie den Begriff Besitz und Eigentum.",
+            "description": "Besitz ist die tatsächliche Herrschaft einer Person über eine Sache.\nEigentum ist die rechtliche Herrschaft einer Person über eine Sache."
+        },
+        {
+            "shortDescription": "Wie erfolgt der Eigentumserwerb bei beweglichen Sachen?",
+            "description": "Bei beweglichen Sachen erfolgt der Eigentumserwerb durch Einigung und Übergabe der Sache."
+        },
+        {
+            "shortDescription": "Wie erfolgt der Eigentumserwerb bei unbeweglichen Sachen?",
+            "description": "Bei unbeweglichen Sachen ist zur Eigentumsübertragung ein schriftlicher Vertrag mit notarieller Beurkundung zu verfassen. Die Übertragung des Eigentums erfolgt durch Einigung (Auflassung), bei Häusern und Grundstücken z.B. durch Eintragung des neuen Eigentümers ins Grundbuch."
+        },
+        {
+            "shortDescription": "Was versteht man unter einer Willenserklärung?",
+            "description": "Unter Willenserklärung werden solche Äußerungen oder Handlungen verstanden, die darauf abzielen, ein Rechtsgeschäft herbeizuführen oder aber abzuändern."
+        },
+        {
+            "shortDescription": "Wie können Willenserklärungen abgegeben werden?",
+            "description": "Willenserklärungen können durch ausdrückliche Äußerung (mündlich, schriftlich, telefonisch), schlüssiges Handeln (z.B. Einsteigen in Straßenbahn) und Schweigen abgegeben werden."
+        },
+        {
+            "shortDescription": "Nennen Sie zwei Beispiele für Rechtsgeschäfte, bei den denen die Abgabe der Willenserklärung an eine bestimmte Form gebunden ist.",
+            "description": "Formgebundene Rechtsgeschäfte sind z. B. der Berufsausbildungsvertrag, des Testament oder der Grundstückskauf"
+        },
+        {
+            "shortDescription": "Unterscheiden Sie einseitige und mehrseitige Rechtsgeschäfte.",
+            "description": "Einseitige Rechtsgeschäfte bestehen aus nur einer Willenserkärung.\nMehrseitige Rechtsgeschäfte kommen durch mindestens zwei übereinstimmende Willenserklärungen zustande."
+        },
+        {
+            "shortDescription": "Nennen Sie zwei Beipiele für Rechtsgeschäfte, bei denen die Abgabe der Willenserklärung an keine besondere Form gebunden ist.",
+            "description": "Zu den formfreien Rechtsgeschäften zählen z.B. die Schenkung beweglicher Gegentstände und die meisten Kaufverträge des alltäglichen Lebens."
+        },
+        {
+            "shortDescription": "Nennen Sie zwei Beispiele für Rechtsgeschäfte, bei denen die Abgabe der Willenserklärung an eine bestimmte Form gebunden ist.",
+            "description": "Formgebundene Rechtsgeschäfte sind z.B. der Berufsausbildungsvertrag, das Testament oder der Grundstückkauf."
+        },
+        {
+            "shortDescription": "Unterscheiden Sie einseitig empfangsbedürftige und einseitig nicht empfangsbedürftige Rechtsgeschäfte.",
+            "description": "Einseitig empfangsbedürftige Rechtsgeschäfte:\nWerden erst dann rechtswirksam, wenn die Person, an die sie gerichtet sind, von ihnen Kenntnis erlangt (z.B. Kündigung).\n\nEinseitig nicht empfangsbedürftige Rechtsgeschäfte:\nPerson muss keine Kenntnis erlangen (z.B. Testament)."
+        },
+        {
+            "shortDescription": "Unterscheiden Sie mehrseitig einseitig verpflichtende und mehrseitig zweiseitig verpflichtende Rechtsgeschäfte.",
+            "description": "Mehrseitig einseitig verpflichtende Rechtsgeschäfte:\nPflichten entstehen nur für eine Vertragsseite (z.B. Schenkung)\n\nMehrseitig zweiseitig verpflichtende Rechtsgeschäfte:\nPflichten entstehen für beide Vertragsseiten (z.B. Kaufvertrag, Ausbildungsvertrag)."
+        },
+        {
+            "shortDescription": "Unterscheiden Sie zwischen der allgemeinen und der bestimmten Anfrage.",
+            "description": "Durch allgemeine Anfrage möchte sich der mögliche Käufer Informationen bezüglich des allgemeinen Sortiments und der gängigen Konditionen eines Anbieters einholen.\nDie bestimmte Anfrage richtet sich dagegen auf ein bestimmtes Produkt bzw. eine bestimmte Dienstleistung."
+        },
+        {
+            "shortDescription": "Wie kommt ein Kaufvertrag zustande?",
+            "description": "Ein Kaufvertrag kommt durch zwei übereinstimmende Willenserklärungen zustande:\nden Antrag und dessen Annahme."
+        },
+        {
+            "shortDescription": "Was ist ein Angebot?",
+            "description": "Ein Angebot ist ein Antrag auf Vertragsabschluss. Es ist eine rechtlich verbindliche Willenserklärung und an eine bestimmte Person oder Personengruppe gerichtet, jedoch nicht an die Allgemeinheit (z.B. Zeitungsanzeigen)."
+        },
+        {
+            "shortDescription": "Wie lange gilt ein Angebot unter Anwesenden?",
+            "description": "Ein Angebot unter Anwesenden gilt nur so lange, wie das Gespräch dauert."
+        },
+        {
+            "shortDescription": "Nennen Sie zwei Beispiele für Freizeichnungsklauseln.",
+            "description": "z.B.\n- unverbindlich (Änderung/Widerruf des Angebots ist jederzeit möglich)\n- Preis freibleibend (angegebener Preis könnte sich noch ändern)\n- Solange der Vorrat reicht (Preis und Lieferzeit stehen fest, aber nur, bis angebotene Menge ausverkauft ist)"
+        },
+        {
+            "shortDescription": "Welche Verpflichtungen ergeben sich aus einem Kaufvertrag für den Verkäufer?",
+            "description": "- Lieferung einwandfreier Ware\n- pünktlich Lieferung der Ware"
+        },
+        {
+            "shortDescription": "Welche Verpflichtungen ergeben sich aus einem Kaufvertrag für den Käufer?",
+            "description": "- Abnahme der Ware\n- Bezahlung der Ware"
+        },
+        {
+            "shortDescription": "Nennen Sie drei Warenbegleitpapiere (Transportpapiere) mit dem dazugehörigen Verkehrsträger.",
+            "description": "z.B.\n- Lieferschein -> Lkw des Lieferanten\n- Frachtbrief/Lieferschein -> Lkw einer Spedition\n- Paketschein oder beleglos mit Barcodelabel oder Transportlabel -> KEP-Dienste und Post\n- Bahnfrachtbrief -> Bahn\n- Ladeschein -> Binnenschiff\n- Konnossement -> Seeschiff\n- Luftfrachtbrief -> Flugzeug"
+        },
+        {
+            "shortDescription": "Welche Prüfverfahren können bei der Warenprüfung unterschieden werden? Nennen und erläutern Sie diese",
+            "description": "Zerstörungsfreies Prüfverfahren:\nHierbei wird die Ware nicht beschädigt, z. B. durch Zählen, Messen und Wiegen.\n\nZerstörendes Prüfverfahren:\nHierbei wird die Ware in der Regel veschädigt bzw. völlig zerstört. Durchgeführt werden z. B. Crash-, Brand-, Bruch-, und Belastungstests"
+        },
+        {
+            "shortDescription": "Was versteht man unter der Bildung \"logistischer Einheiten\" im Wareneingang",
+            "description": "Die Waren werden so zusammengestellt und verpackt, dasss die Lagereinheit gleich der Kommissioniereinheiten und diese gleich der Bestelleinheit der Kunden ist."
+        },
+        {
+            "shortDescription": "Nennen Sie die Funktionen eines Lieferscheins.",
+            "description": "Kontrollfunktion:\nAbgleich des der Bestellung mithilfe des Lieferscheins.\n\nBeweisfunktion:\nUnterschrift auf dem Lieferschein von Überbringer und Empfänger bestätigt ordnungsgemäße und einwandfreie Zustellung der Ware."
+        },
+        {
+            "shortDescription": "Welche Kaufvertragsstörungen können unterschieden werden?",
+            "description": "Kaufvertragsstörungen\n- Mngelhafte Lieferung\n- Lieferungsverzug\n- Annahmeverzug\n- Zahlungsverzug"
+        },
+        {
+            "shortDescription": "Welche Mangelarten können nach der Erkennbarkeit unterschieden werden?",
+            "description": "Mangearten nach der Erkennbarkeit\n- offender Mangel\n- versteckter Mangel\n- arglistih verschwiegerner Mangel"
+        },
+        {
+            "shortDescription": "Was ist ein Rechtsmangel?",
+            "description": "Der Verkäufer kann dem Käufer nicht das Eigentum an der Ware verschaffen. Bei de gelieferten Ware handelt es sich z. B. um Hehlerware oder verpfändete Ware."
+        },
+        {
+            "shortDescription": "Was bedeutet **NVE**?",
+            "description": "Nummer der Versandeinheit ist eine weltweit eindeutige Nummer zur Identifikation von Versandeinheiten."
+        },
+        {
+            "shortDescription": "Was ist die **GTIN**?",
+            "description": "Die GTIN (Global Trade Item Number) ist die globale Artikelidentnummer. Sie setzt sich zusammen aus der Nummer für das Hestellungsland, der Herstellernummer, der Artikelnummer und der Prüfziffer."
+        },
+        {
+            "shortDescription": "Was ist ein Barcode?",
+            "description": "Ein Barcode ist eine maschinenlesbare Schrift und besteht aus verschieden breiten, parallelen Strichen und Lücken, in denen Daten verschlüsselt sind."
+        },
+        {
+            "shortDescription": "Welche Barcodes können unterschieden werden?",
+            "description": "1-D-Code:\nInformationen sind nur waagrecht codiert, als eindimensional (z.B. GTIN, Code 128)\n2-D-Codes:\nInformationen sind waagrecht und senkrecht codiert, also zweidimensional (z.B. QR-Code, Code 49)"
+        },
+        {
+            "shortDescription": "Was versteht man unter der Bildung „logistischer Einheiten\" im Wareneingang?",
+            "description": "Die Waren werden so zusammengestellt und verpackt, dass die Lagereinheit gleich der Kommissionierheit und diese gleich der Bestelleinheit der Kunden ist."
+        },
+        {
+            "shortDescription": "Welche Arbeiten erfolgen nach der Warenkontrolle?",
+            "description": "- Erstellung eines Wareneingangsscheins\n- Bildung logistischer Einheiten\n- Bestandserfassung\n- Freigabe der Ware"
+        },
+        {
+            "shortDescription": "Welche Prüfverfahren können bei der Warenprüfung unterschieden werden? Nennen und erläutern Sie diese.",
+            "description": "Zerstörungsfreies Prüfverfahren:\nHierbei wird die Ware nicht beschädigt, z.B. durch Zählen, Messen und Wiegen.\nZerstörendes Prüfverfahren:\nHierbei wird die Ware in der Regel beschädigt bzw. völlig zerstört. Durchgeführt werden z.B. Crash-, Brand-, Bruch- und Belastungstests."
+        },
+        {
+            "shortDescription": "Welche Arten der Warenprüfung können unterschieden werden? Nennen und erläutern Sie diese.",
+            "description": "Stichprobenartige Kontrolle:\nNur einzelne Packstücke werden kontrolliert.\nVollständige Kontrolle:\nDie komplette Lieferung wird kontrolliert."
+        },
+        {
+            "shortDescription": "Was ist die Warenkontrolle?",
+            "description": "Die Warenkontrolle erfolgt unverzüglich nach der Warenannahme, hierbei wird die Ware auf offene Mängel überprüft:\n- Identität\n- Quantität\n- Beschaffenheit\n- Qualität"
+        },
+        {
+            "shortDescription": "Wie sollte mit Ware mit Transportschäden umgegangen werden?",
+            "description": "Sie sollte separiert werden, d.h. von den anderen Waren getrennt gelagert und evtl. mit einem Sperrvermerk versehen werden, bis geklärt ist, ob die Ware selbst auch Mängel aufweist."
+        },
+        {
+            "shortDescription": "Welche Rügefristen gelten bei Transportschäden?",
+            "description": "Offene Mängel müssen sofort bei der Anlieferung dem Frachtführer/Fahrer angezeigt werden.\n\nVersteckte Mängel sind unverzüglich nach Entdeckung, aber innerhalb von 7 Tagen nach Anlieferung dem Frachtführer anzuzeigen."
+        },
+        {
+            "shortDescription": "Nennen Sie drei Möglichkeiten zur Dokumentation festgestellter Transportschäden im Wareneingang.",
+            "description": "z.B.\n- Eintragung im Lieferschein oder Frachtbrief\n- Tatbestandsaufnahme\n- Reklamationsmeldung\n- Fotos und Skizzen\n- Transportschadenbericht\n- Heranziehung von Zeugen"
+        },
+        {
+            "shortDescription": "Nennen Sie drei mögliche Beschädigungen an EUR-Paletten.",
+            "description": "z.B.\n- abgesplittertes Boden- oder Deckenrandbrett\n- Markierungen fehlen\n- Bretter fehlen\n- Bretter sind gebrochen\n- fehlender Klotz\n- starke Absplitterungen oder morsches und faules Holz\n- starke Verunreinigungen\n- Reparaturen mit unzulässigen Bauteilen"
+        },
+        {
+            "shortDescription": "Wer haftet für die im Wareneingang festgestellten Transportschäden, und wer haftet für festgestellte Sachschäden?",
+            "description": "Für Transportschäden haftet der Frachtführer, und für Sachschäden haftet der Absender."
+        },
+        {
+            "shortDescription": "Welche Kontrollen sind in Anwesenheit des Zustellers durchzuführen?",
+            "description": "Folgende Kontrollen sind in Anwesenheit des Zustellers durchzuführen:\n- Kontrolle der Lieferanschrift\n- Kontrolle der Menge der Packstücke\n- Kontrolle der äußerlichen Unversehrtheit der Packstücke\n- Kontrolle der Mehrwegverpackungen auf Unversehrtheit\n- Quittierung der Warenannahme durch Unterschrift und Stempel"
+        },
+        {
+            "shortDescription": "Was ist der Frachtbrief?",
+            "description": "Der Frachtbrief wird vom Absender erstellt und beweist das Zustandekommen eines Frachtvertrages zwischen Absender und Frachtführer."
+        }
+    ]
+}
