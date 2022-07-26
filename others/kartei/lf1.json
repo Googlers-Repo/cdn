@@ -1,6 +1,7 @@
 {
     "name": "Lernfeld 1",
     "group": "lernfeld_1",
+    "description": "Warenannahme",
     "karten": [
         {
             "shortDescription": "Was ist Logistik?",
