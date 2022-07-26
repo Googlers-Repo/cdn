@@ -1,7 +1,7 @@
 {
     "name": "Lernfeld 1",
     "group": "lernfeld_1",
-    "description": "Warenannahme",
+    "description": "Güter annehmen und kontrolieren",
     "karten": [
         {
             "shortDescription": "Was ist Logistik?",
