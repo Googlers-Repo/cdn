@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Lagerlogistik",
+    "sets": [
+      {
+        "name": "Lernfeld 1",
+        "desc": "Güter annehmen und kontrolieren",
+        "cdn": "https://cdn.dergoogler.com/others/kartei/lf1.json"
+      },
+      {
+        "name": "Lernfeld 2",
+        "desc": "Güter lagern",
+        "cdn": "https://cdn.dergoogler.com/others/kartei/lf2.json"
+      },
+      {
+        "name": "Lernfeld 3",
+        "desc": "Güter bearbeiten",
+        "cdn": "https://cdn.dergoogler.com/others/kartei/lf3.json"
+      },
+      {
+        "name": "Lernfeld 4",
+        "desc": "Güter im Betrieb transportieren",
+        "cdn": "https://cdn.dergoogler.com/others/kartei/lf4.json"
+      }
+    ]
+  }
+]
