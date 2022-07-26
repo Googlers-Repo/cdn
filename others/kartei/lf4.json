@@ -1,0 +1,199 @@
+{
+    "name": "Lernfeld 4",
+    "group": "lernfeld_4",
+    "description": "Güter im Betrieb transportieren",
+    "karten": [
+        {
+            "shortDescription": "Nennen Sie die sechs **R** der Logistik",
+            "description": "Sechs **R** der Logistik\n- Richtige Ware\n- Richtige Qualität\n- Richtige Menge\n- Richtiger Ort\n- Richtige Kosten"
+        },
+        {
+            "shortDescription": "Was versteht man unter einer Lieferkette?",
+            "antwort": "Hierbei handelt es sich um einen Materialfluss, der sich vom Lieferanten bis zum Kunden durch das gesamte Unternehmen beweget"
+        },
+        {
+            "shortDescription": "Nennesie die vier Arten der Informationen, die zusammen den Informationsfluss bilden",
+            "description": "Den Informationsfluss bilden\n- Nachlaufende Informationen\n- Begleitende Informationen\n- Vorlaufende Informationen\n- Zurücklaufende Informationen"
+        },
+        {
+            "shortDescription": "Nennen sie zwei Gründe für eine Optimierung des Materialflusses",
+            "description": "z. B.\n- Durchlaufzeitenverkürzung\n- Ausschussreduzierung\n- Kostensenkung\n- Verringerung der Umweltbelastung"
+        },
+        {
+            "shortDescription": "Was versteht man unter Informationen Logistik",
+            "description": "Bereitstellung der benötigten Informationen für alle beteiligten"
+        },
+        {
+            "shortDescription": "Nennen Sie ein Hilfsmittel, ohne das die heutige Informationslogistik kaum mehr denkbar ist",
+            "description": "Rechnergeschütze Informationssysteme (PC-Netzwerke mit passenden Datenbanken und Warenwirtschaftssystemen)"
+        },
+        {
+            "shortDescription": "Welche Pflichten hat der Arbeitgeber in Bezug auf Hand Transporte",
+            "description": "Manuelles heben und tragen vermeiden. Ist dies nicht möglich, muss der\nArbeitgeber geeignete Arbeitsmittel bereitstellen und die Mitarbeiter im\nrichtigen tragen und heben unterweisen"
+        },
+        {
+            "shortDescription": "Nenne sie zwei Gegebenheiten am Arbeitsplatz, die sich auf das manuelle haben und tragen von lasten auswirken",
+            "description": "z. B.\n- Art der last\n- Zu erfüllende Arbeitsaufgabe\n- Beschaffenheit der Arbeitsprozesse\n- Arbeitsumgebeung"
+        },
+        {
+            "shortDescription": "Nennen sie zwei persönliche Faktoren, die Voraussetzung für richtiges tagen und heben sind",
+            "description": "z. B.\n- Körperliche Eignung des beschäftigten\n- Geeignete Kleidung und Schuhe\n- Kenntnisse des beschäftigten"
+        },
+        {
+            "shortDescription": "Nennen sie zwei Verhaltensregeln beim Anheben und absetzen lasten",
+            "description": "z. B.\n- Lasten nur mit geraden rücken anheben und absetzen\n- Beim Anheben und absetzen immer in die Hocke gehen\n- Ruckfreies anheben und absetzen\n- Verdrehen der Wirbelsäule vermeiden"
+        },
+        {
+            "shortDescription": "Nennen sie zwei Verhaltensregen beim Heben und Tragen von lasten",
+            "description": "z. B.\n- Möglichst eine gleichmäßige Verteilung der last erreichen\n- Last nah am Körper transportieren\n- Geeignete Hilfsmittel verwenden"
+        },
+        {
+            "shortDescription": "Wie viel Kilogramm dürfen schwangere gelegentlich haben und tragen",
+            "description": "Gelegentlich nicht mehr als 10 kg und häufig nicht mehr als 5kg ohne\nHilfsmittel"
+        },
+        {
+            "shortDescription": "Nennen sie zwei Maßnahmen zur Vorbeugung von Ermüdungserscheinungen beim Haben und tragen von lasten",
+            "description": "z. B.\n- Verringerung der Zahl der lasten Bewegung ja Zeiteinheit\n- Ausreichende Erholungspausen\n- Korrekte Körperhaltung\n- Angemessene Arbeitsmenge bei vernünftiger Zeit Einhaltung\n- Höhe der lasten Aufnahme und ablage zwischen 70 und 100 cm."
+        },
+        {
+            "shortDescription": "Nenne sie zwei Hilfsmittel für leichte Hand Transporte",
+            "description": "z. B.\n- Handsaugtragegriffe\n- Tragegurte\n- Handmagnete\n- Tragklauen"
+        },
+        {
+            "shortDescription": "Nenne sie zwei Hilfsmittel für das heben und tragen schwerer Lasten per Hand",
+            "description": "z. B.\n- rollen und walzen\n- Kant Eisen\n- Rohr Schlüssel\n- wälzwagen"
+        },
+        {
+            "shortDescription": "Nennen sie drei handbetriebene Transportmittel",
+            "description": "z. B.\n- Handwagen\n- Sackkarre\n- handhubwagen\n- handgabelhubwagen\n- rollprische"
+        },
+        {
+            "shortDescription": "Nenne sie drei Kriterien, die für die Auswahl des geeigneten Fördermittels wichtig sind",
+            "description": "z. B.\n- Art des transportgutes\n- transportumfang\n- Art der transportstrecke\n- Transport Vorschriften\n- Verfügbarer Platz im Lager\n- Automatisierungsgrad\n- Antriebstechnik\n- Flurbindung\n- Beweglichkeit der Fördermittel"
+        },
+        {
+            "shortDescription": "Nennen sie drei Merkmale einen optimalen Fördermittel Einsatzes",
+            "description": "z. B.\n- Wenige Leerfahrten\n- Kurze beförderszeiten\n- Flexibel einsetzbar\n- Hoher ausnutzungsgrad\n- Niedrige Betriebskosten\n- Umweltschonender Einsatz"
+        },
+        {
+            "shortDescription": "Unterscheiden sie stetig- und unstetig Förderer",
+            "description": "Stetig Förderer sind kontinurlich in Bewegung.\nUnstetig Förderer bewegen sich nur, wenn sie im Einsatz sind"
+        },
+        {
+            "shortDescription": "Erklären sie, was man unter einem flurgebundenen Fördermittel verstehen",
+            "description": "Flurgebundenene Fördermittel benötigen einen Fahrweg"
+        },
+        {
+            "shortDescription": "Erklären sie, was man unter einem flurfreien Fördermittel versteht",
+            "description": "Flur feie Fördermittel benötigen keine Fahrwege"
+        },
+        {
+            "shortDescription": "Nenne sie zwei Vorteile von stetig Förderern",
+            "description": "z. B.\n- Hoher Automatisierungsgrad\n- Einsatzbereitschaft rund um die Uhr\n- Geringe Betriebskosten"
+        },
+        {
+            "shortDescription": "Nennen sie zwei Nachteile von stetig Förderern",
+            "description": "z. B.\n- Hohe Investitions- und wartungskosten\n- Hohe Störanfälligkeit\n- Unflexibler Einsatz, da sie eine festgelegte Transproststreckte habe"
+        },
+        {
+            "shortDescription": "Nenne sie zwei Hebezeuge",
+            "description": "Krane und Aufzüge"
+        },
+        {
+            "shortDescription": "Nenne sie drei Kriterien, die bei Anschlagmittlen zu prüfen sind",
+            "description": "Das Anschlagmittel ist auf Schäden zu kontrollieren, z .B. auf\n- Brauchstellen\n- Risse\n- Lockerungen\n- Verschleiß\n- Rost"
+        },
+        {
+            "shortDescription": "Anschlagmittel sind jährlich zu prüfen. Wer führt diese Prüfung durch?",
+            "description": "Ein Sachkundiger z. B. vom TÜV"
+        },
+        {
+            "shortDescription": "Nennen Sie zwei Kennzeichungselements eines Anschlagmittels.",
+            "description": "z. B.\n- Tragfähigkeit\n- Neigungswinkel\n- Einsatztemperatur"
+        },
+        {
+            "shortDescription": "Nennen Sie zwei Vorteile von Hebezeugen",
+            "description": "z. B.\n- einsetzbar im Innen- und Außenbereich\n- große Hublasten sind möglich\n- schnelle Arbeitsgeschwindigkeit\n- variable Plattformen ermöglichen einen flexiblen Einsatz"
+        },
+        {
+            "shortDescription": "Nennen Sie zwei Nachteile von Habezeugen.",
+            "description": "- relativ hohe Investitionskosten\n- sie sind ortsgebunden"
+        },
+        {
+            "shortDescription": "Wofür steht die Abkürzung FTS?",
+            "description": "Fahrerlose Transportsysteme"
+        },
+        {
+            "shortDescription": "Nenne Sie zwei Vorteile von fahrerlosen Transport Systemen.",
+            "description": "- Hohe Anpassungsfähigkeit\n- Einfache Integration in bestehende Systeme / gut nachrüstbar\n- Unterschiedlichste Güterarten können transportiert werden\n- Verursachen kaum Personalkosten"
+        },
+        {
+            "shortDescription": "Nennen Sie wie Nachteile von fahrerlosen Transportsystemen.",
+            "description": "- Hohe Störanfälligkeit\n- Hohe Investitionskosten\n- Die benötigte Fahrspurbreite verursacht einen hohen Platzbedarf\n- Komplexe Datentechnische Vernetzung ist nötig"
+        },
+        {
+            "shortDescription": "Nennen Sie drei Sichtprüfungeninhalte vor der täglichen Inbetriebnahme von Flurförderfahrzeugen",
+            "description": "- Fahrzeugzustand (Risse, Leckagen, starke Verschmutzung)\n- Fahrwerkzustand (ordnungsmäßige Reifen, Reifendruck)\n- Zustand der Hubeinrichtung\n- Zustand sonstiger Einrichtungen"
+        },
+        {
+            "shortDescription": "Nennen Sie drei Funktionsprüfungen, die nach der Sichtprüfung täglich durchzuführen sind",
+            "description": "- Der Betriebs- und Feststellbremse\n- Der Sicherung gegen unbefugtes Benutzen\n- Der Warneinrichtungen (z. B. Hupe)\n- Der Beleuchtung und Bremslichter\n- Des Lenkungsspiels\n- Der Hydraulik\n- Der Lastenaufnahmemittel"
+        },
+        {
+            "shortDescription": "Nennen Sie drei Verhaltensregeln, die beim Beladen eines Flurförderfahrzeuges zu beachten sind.",
+            "description": "- Maximale Höchstlast nicht überschreiben\n- Last möglichst dich Gabelrücken/Hubmast aufnehmen\n- Last vor Verschmutzung und Herunterfallen schützen\n- Nie die Sicht durch die Last einschränken"
+        },
+        {
+            "shortDescription": "Nennen Sie drei Fahrregeln für Flurförderzeuge.",
+            "description": "- Angemessene Geschwindigkeit\n- Ladegabeln nur leicht anheben\n- Freie Sicht\n- Bergseitiger Transport bei Steigungen und Gefällen\n- Keine Person unter angehobener Last\n- Keine Person mitfahren lassen\n- Fahrstil an die Fahrbahnverhältnisse anpassen"
+        },
+        {
+            "shortDescription": "Nennen Sie die vier Voraussetzungen für das Führen von Gabelstaplern.",
+            "description": "Voraussetzung für das Führen von Gabelstaplern:\n- Mindestalter 18 Jahre\n- Geistige und körperliche Eignung\n- Schriftliche Beauftragung von Unternehmen (innerbetrieblicher Fahrausweiß)"
+        },
+        {
+            "shortDescription": "Nennen Sie drei Aufgaben von Förderhilfsmitteln.",
+            "description": "- Aufnehmen und Zusammenfassen des Lagergutes\n- Herstellen der Transportfähigkeit\n- Erleichtern des Auf- und Abladens\n- Herstellen der Lagerfähingkeit\n- Schutz des Lagergutes"
+        },
+        {
+            "shortDescription": "Nennen Sie drei Aufgaben der Lagerhilfsgeräte.",
+            "description": "- Wiegen, Messen, Zählen\n- Auspreisen\n- Ein- und Auspacken\n- Um- oder Auslagern\n- Pflegen und Reinigen\n- Verwalten und Identifizieren"
+        },
+        {
+            "shortDescription": "Nenne Sie die Anlässe für eine Zustand Prüfung von Leitern",
+            "description": "Vor jedem Gebrauch, bei häufiger und hoher Beanspruchung"
+        },
+        {
+            "shortDescription": "Wie viele ausgebildete Ersthelfer benötigt ein Produktionsunternehmen mit 100 Mitarbeiten?",
+            "description": "10% der Mitarbeiter, d. h. zahn Mitarbeiten"
+        },
+        {
+            "shortDescription": "Wem muss ein Arbeitsunfall unmittelbar gemeldet werden?",
+            "description": "Dem unmittelbaren Vorgesetzten"
+        },
+        {
+            "shortDescription": "Nennen Sie die 5 Ws eines Erste-Hilfe-Notrufs",
+            "description": "- Wo?\n- Wie viele?\n- Was?\n- Welche Verletzungen?\n- Warten!"
+        },
+        {
+            "shortDescription": "Nenne Sie die Beteiligten der Rettungskette.",
+            "description": "Rettungskette:\n- Ersthelfer (er sicher ab, ergreift Sofortmaßnahmen, setzt Notruf ab leistet Erste Hilfe)\n- Rettungsdienst\n- Krankenhaus"
+        },
+        {
+            "shortDescription": "Jede durchgeführte Erste Hilfe ist zu dokumentieren. Wo hat die Aufzeichnung zu erfolgen?",
+            "description": "Verbandburch"
+        },
+        {
+            "shortDescription": "Nennen Sie drei Angaben, die zur Dokumentation eines Unfalls im Vervandbuch festzuhalten sind.",
+            "description": "- Zeit, Ort und Hergang des Unfalls\n- Art und Umfang der Verletzung\n- Art und Weise der Erste-Hilfe-Maßnahme\n- Name des Verletzten\n- Name der beteiligten Ersthelfer"
+        },
+        {
+            "shortDescription": "Wann ist eine Unfallanzeige auszufüllen?",
+            "description": "Wenn die Folgen eines Arbeitsunfalls länger als drei Kalendertage andauern oder zum Tod des Mitarbeiters führen"
+        },
+        {
+            "shortDescription": "In welcher First ist eine Unfallanzeige wem vorzulegen?",
+            "description": "Binnen drei Tagen der zuständigen Berufsgenossenschaft, bei Schwerstverletzten, Massenunfällen und/oder toten sofort"
+        }
+    ]
+}
