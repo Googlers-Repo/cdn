@@ -1,0 +1,404 @@
+{
+    "name": "Lernfeld 2",
+    "group": "lernfeld_2",
+    "description": "Güter lagern",
+    "karten": [
+        {
+            "shortDescription": "Nennen Sie die Aufgaben der Lagerhaltung.",
+            "description": "- Sicherungsaufgabe\n- Ausgleichsaufgabe\n- Umformungsaufgabe\n- Spekulationsaufgabe\n- Veredelungsaufgabe"
+        },
+        {
+            "shortDescription": "Erläutern Sie die Sicherungsaufgabe.",
+            "description": "Güter werden gelagert, um den Produktionsprozess gegen Störungen bei der Warenbeschaffung zu sichern und eine stetige Lieferbereitschaft zu gewährleisten."
+        },
+        {
+            "shortDescription": "Erläutern Sie die Ausgleichsaufgabe.",
+            "description": "Güter werden gelagert, um einen zeitlichen und mengenmäßigen Ausgleich zwischen Warenbeschaffung, Produktion und Absatz zu erreichen."
+        },
+        {
+            "shortDescription": "Erläutern Sie die Umformungsaufgabe.",
+            "description": "Güter werden in großen Mengen und Behältern angeliefert und müssen dann in kleinere bedarfsgerechte Mengen und Portionen umgeformt werden."
+        },
+        {
+            "shortDescription": "Erläutern Sie die Spekulationsfunktion.",
+            "description": "Güter werden gelagert, um mit Kosten- und Preisvorteilen zu spekulieren."
+        },
+        {
+            "shortDescription": "Erläutern Sie die Veredelungsaufgabe.",
+            "description": "Erst durch die Lagerung gewinnen die Güter die gewünschte Reife und Qualität."
+        },
+        {
+            "shortDescription": "Nennen Sie die Grundsätze ordnungsgemäßer Lagerhaltung.",
+            "description": "- Sauberkeit\n- Geräumigkeit\n- Übersichtlichkeit\n- artgerechte Lagerung\n- sachgerechte Lagerhaltung"
+        },
+        {
+            "shortDescription": "Nennen Sie mindestens vier Gefahren, vor denen Güter während der Lagerung geschützt werden sollten.",
+            "description": "z.B.\n- Sonne/Licht\n- Geschmacksverlust\n- Feuchtigkeit\n- Schädlinge\n- Wärme/Kälte\n- Austrocknung"
+        },
+        {
+            "shortDescription": "Welche Lagerarten können entsprechend der Güterarten und Eigenschaften unterschieden werden? Nennen Sie vier Lagerarten.",
+            "description": "z.B.\n- Verschlusslager\n- Kleinteilelager\n- Schüttgutlager\n- Stückgutlager\n- temperaturgeführtes Lager\n- Sperrigwarenlager\n- Gefahrstofflager"
+        },
+        {
+            "shortDescription": "Was sind Rohstoffe?",
+            "description": "Rohstoffe sind Stoffe, die unmittelbar in das zu fertigende Produkt eingehen und dessen Hauptbestandteil bilden, z.B. Holz bei einem Kleiderschrank."
+        },
+        {
+            "shortDescription": "Was sind Betriebsstoffe?",
+            "nr": null,
+            "description": "Betriebsstoffe sind Stoffe, die nicht direkt in das zu fertigende Produkt eingehen, aber den Produktionsprozess in Gang halten, z.B. Benzin, Schmieröl oder Strom."
+        },
+        {
+            "shortDescription": "Was sind Hilfstoffe?",
+            "description": "Hilfstoffe sind Stoffe, die in das zu fertigende Produkt eingehen, aber nur eine Hilfsfunktion haben, z.B. Schrauben, Leim, Farben und Lacke."
+        },
+        {
+            "shortDescription": "Nennen Sie zwei Beispiele für ein Sonderlager im Industriebetrieb.",
+            "description": "z.B.\n- Ersatzteilelager\n- Werkzeuglager\n- Büromateriallager\n- Packmittellager"
+        },
+        {
+            "shortDescription": "Welche Lagerarten können im Industriebetrieb unterschieden werden?",
+            "description": "- Roh-, Hilfs- und Betriebsstofflager\n- Zwischenlager\n- Fertigwarenlager\n- Handlager\n- Sonderlager"
+        },
+        {
+            "shortDescription": "Welche Lagerarten können im Großhandel unterschieden werden?",
+            "description": "- Auslieferungslager\n- Kommissionslager"
+        },
+        {
+            "shortDescription": "Was ist ein Kommissionslager?",
+            "description": "Das Kommissionslager ist ein Lager des Lieferanten beim Kunden, aus dem sich der Kunde die benötigte Ware entnimmt."
+        },
+        {
+            "shortDescription": "Nennen Sie drei Maßnahmen, um Diebstählen im Lager vorzubeugen.",
+            "description": "z.B.\n- übersichtliche Lagerung\n- Unwickeln der Paletten mit Stretchfolie\n- Durchführen von Kontrollen\n- Alarmanlagen\n- elektronische Etiketten"
+        },
+        {
+            "shortDescription": "Welche Lagerarten können im Einzelhandel unterschieden werden?",
+            "description": "- Verkaufslager\n- Reservelager"
+        },
+        {
+            "shortDescription": "Welche Lagerarten können in der Spedition unterschieden werden?",
+            "description": "- Auslieferungslager\n- Umschlaglager"
+        },
+        {
+            "shortDescription": "Nennen Sie je zwei Vor- und Nachteile eines zentralen Lagers.",
+            "description": "Vorteile sind z.B.\n- Gesamtbedarf leichter feststellbar\n- niedrigere Kapitalbindung\n- höhere Flächen-/Raumausnutzung\n- größere Einkäufe senken die Beschaffungskosten\n\nNachteile sind z.B.\n- längere Transportwege\n- höhere Transportkosten\n- längere Transportzeiten"
+        },
+        {
+            "shortDescription": "Nennen Sie je zwei Vor- und Nachteile eines dezentralen Lagers.",
+            "description": "Vorteile sind z.B.\n- leichtere Abstimmung\n- schnellerer Informationsfluss\n- kürzere Transportwege\n- geringere Transportkosten\n- kürzere Transportzeiten\n\nNachteile sind z.B.\n- höhere Kosten für Einrichtung\n- höhere Kosten für Warenvorräte\n- höherer Personalbedarf"
+        },
+        {
+            "shortDescription": "Welche Lagerarten können nach dem Witterungsschutz unterschieden werden?",
+            "description": "- offenes Lager\n- halboffenes Lager\n- geschlossenes Lager"
+        },
+        {
+            "shortDescription": "Nennen Sie drei Gründe für die Fremdlagerung bei einem gewerblichen Lagerhalter oder einer Spedition.",
+            "description": "z.B.\n- als Spitzenausgleich bei schwankendem Bestand (z.B. Saisonware)\n- bei fehlenden Lagerkapazitäten\n- bei fehlenden besonderen Einrichtungen (z.B. Kühllager, Gefahrstofflager)\n- zur Nutzung des Know-How des Lagerhalters"
+        },
+        {
+            "shortDescription": "Wie lassen sich fixe Kosten und variable Kosten unterscheiden?",
+            "description": "Fixe Kosten:\nSie sind über einen bestimmten Zeitraum gleich, unabhängig von der eingelagerten Menge, z.B. Miete, Versicherungen, Gehälter.\n\nVariable Kosten:\nSie sind abhängig von der eingelagerten Menge, z.B. Energiekosten, Instandhaltungskosten, Überstundenzuschläge."
+        },
+        {
+            "shortDescription": "Welche Kosten fallen bei der Eigenlagerung und welche bei der Fremdlagerung an?",
+            "description": "Eigenlagerung:\nFixe Kosten und variable Kosten\n\nFremdlagerung:\nNur variable Kosten"
+        },
+        {
+            "shortDescription": "Was ist die kritische Lagermenge?",
+            "description": "Die kritische Lagermenge ist die Menge bei der die Kosten der Eigenlagerung und die Kosten der Fremdlagerung gleich hoch sind."
+        },
+        {
+            "shortDescription": "Wie wird die kritische Menge berechnet?",
+            "description": "Kosten Fremdlagerung = Kosten Eigenlagerung\nz.B. 40 x = 9000 + 25 X | - 25 x\n15 x = 9000 | : 15\nx = 600\nLiegt die geplante Lagermenge unterhalb der kritischen Lagermenge, dann ist die Fremdlagerung günstiger, liegt sie oberhalb, dann ist die Eigenlagerung günstiger."
+        },
+        {
+            "shortDescription": "Welche Lagerscheinarten können unterschieden werden?",
+            "description": "- Inhaberlagerschein\n- Namenslagerschein\n- Orderlagerschein"
+        },
+        {
+            "shortDescription": "Was versteht man unter „Outsourcing\"?",
+            "description": "Unter Outsourcing versteht man die Ausgliederung von Unternehmensleistungen, die bisher innerhalb des Unternehmens erbracht wurden, an Fremdfirmen, sogenannte Logistikdienstleister."
+        },
+        {
+            "shortDescription": "Das Lager lässt sich entsprechend dem Durchlauf der Güter in verschiedene Funktionsbereiche einteilen. Welche sind das?",
+            "description": "- Wareneingangsbereich\n- Lagerbereich\n- Kommissionierbereich\n- Verpackungsbereich\n- Warenausgangsbereich\n- Lagerverwaltung"
+        },
+        {
+            "shortDescription": "Welches sind die häufigsten Anordnungsformen von Wareneingangs- und Warenausgangsbereich im Lagergebäude?",
+            "description": "- I-Layout\n- U-Layout\n- L-Layout"
+        },
+        {
+            "shortDescription": "Was versteht man unter dem „I-Layout\"?",
+            "description": "Das I-Layout ist eine Anordnungsform von Wareneingangs- und Warenausgangsbereich im Lagergebäude. Beim I-Layout durchläuft die Ware geradlinig das gesamte Lager vom Wareneingang bis zum Warenausgang."
+        },
+        {
+            "shortDescription": "Nach welchen Kriterien kann die Aufteilung des Lagerbeichs in Lagerzonen erfolgen? Nennen Sie drei Kriterien.",
+            "description": "z.B.\n- nach dem Gewicht und dem Volumen der Güter\n- nach der Umschlagshäufigkeit der Güter\n- nach dem Wert der Güter\n- nach der Empfindlichkeit der Güter\n- nach der Gefährlichkeit der Güter"
+        },
+        {
+            "shortDescription": "Was versteht man unter einer numerischen Location nach dem dekadischen Prinzip?",
+            "description": "Numerisch bedeutet, dass das Lagerplatznummernsystem nur aus Zahlen besteht.\nDekadisch bedeutet, dass die einzelnen Nummern immer zweistellig sind, z.B. 03 02 05"
+        },
+        {
+            "shortDescription": "Welche beiden Wegstrategien können unterschieden werden?",
+            "description": "Rundgangstrategie und Stichgangstrategie"
+        },
+        {
+            "shortDescription": "Welche Verfahren gibt es zur Berechnung der Prüfziffer?",
+            "description": "- Modulo-11-Verfahren (bis 10 Stellen)\n- Modulo-10-Verfahren (11 oder mehr Stellen)"
+        },
+        {
+            "shortDescription": "Was ist ein Doppelspiel?",
+            "description": "Ein Regalbediengerät nimmt auf der Hinfahrt eine Einlagerung und auf der Rückfahrt gleichzeitig eine Auslagerung vor."
+        },
+        {
+            "shortDescription": "Erläutern Sie das Festplatzsystem und das Freiplatzsystem.",
+            "description": "Beim Festplatz wird jedem Artikel ein eigener, fester Lagerplatz zugeordnet.\nBeim Freiplatzsystem werden die Artikel dort eingelagert, wo gerade ein freier Lagerplatz vorhanden ist."
+        },
+        {
+            "shortDescription": "Nennen Sie je drei Vor- und Nachteile des Festplatzsystems.",
+            "description": "Vorteile sind z.B.\n- Mitarbeiter kennen die Einlagerungsplätze der einzelnen Artikel\n- kein EDV-System erforderlich\n- Verkürzung der Wegzeiten durch Einlagerung der Artikel nach der Gängigkeit\n\nNachteile sind z.B.\n- geringe Ausnutzung des Lagerfachvolumens bei geringem Bestand\n- hoher Änderungsaufwand bei Neubelegung von Fächern\n- Leerplätze bei Wegfall von Artikeln"
+        },
+        {
+            "shortDescription": "Nennen Sie je drei Vor- und Nachteile des Freiplatzsystems.",
+            "description": "Vorteile sind z.B.\n- bessere Ausnutzung der Lagerfläche\n- Sortiments- und Mengenänderungen sind problemlos möglich\n- Mitarbeiter müssen sich keine Lagerplätze merken\n\nNachteile sind z.B.\n- EDV-System erforderlich\n- Auffinden von Lagerplätzen fast nur mithilfe von EDV möglich\n- Gefahr des völligen Stillstands bei Ausfall der EDV-Anlage"
+        },
+        {
+            "shortDescription": "Nennen und erläutern Sie die drei Einlagerungsgrundsätze.",
+            "description": "FIFO-Prinzip (First-In-First-Out):\nZuerst eingelagerte Ware wird auch als erstes wieder ausgelagert.\nLIFO-Prinzip (Last-In-First-Out):\nZuletzt eingelagerte Ware wird als erstes wieder ausgelagert.\nHIFO-Prinzip (Highest-In-First-Out):\nRechnerisch wird so getan, als ob die am teuersten erworbenen Artikel als erstes verbraucht werden.\nFEFO-Prinzip (First-Expired-First-Out)"
+        },
+        {
+            "shortDescription": "Berechnung der Prüfziffer durch Module-11-Verfahren und Module-10-Verfahren.",
+            "description": "Modulo-11-Verfahren:\nFaktor von rechts nach links 2, 3, 4, 5, uws.\n\nModule-10-Verfahren:\nFaktor von rechts nach links 3, 1, 3, 1, 3, usw."
+        },
+        {
+            "shortDescription": "Was versteht man unter dem Begriff Komplettierung?",
+            "description": "Das Zusammenfassen von Sets bzw. Kombinationspackungen bezeichnet man als Komplettierung."
+        },
+        {
+            "shortDescription": "Wie können Einlagerungen dokumentiert werden?",
+            "description": "- Lagerfachkarte und Lagerkarte\n- EDV-gestütztes Warenwirtschaftssystem im Lager"
+        },
+        {
+            "shortDescription": "Wie kann Schüttgut gelagert werden?",
+            "description": "Schüttgut kann auf dem Boden (auf Halde) oder in speziellen Behältern (z.B. Silos oder Bunkern) gelagert werden."
+        },
+        {
+            "shortDescription": "Nennen Sie drei statische Lagersysteme.",
+            "description": "z.B.\n- Fachbodenregal\n- Palettenregal\n- Einfahr- und Durchfahrregale\n- Kragarmregal\n- Waben- bzw. Kassettenregal\n- Turmregal\n- Kanal- bzw. Tunnelregal\n- automatische Behälterregale\n- Hochregale"
+        },
+        {
+            "shortDescription": "Nennen Sie drei dynamische Lagersysteme.",
+            "description": "z.B.\n- Einschubregale\n- Durchlaufregale\n- Verschieberegale\n- Umlaufregale"
+        },
+        {
+            "shortDescription": "Wodurch unterscheiden sich Zeilenlagerung und Blocklagerung?",
+            "description": "Bei der ungestapelten Zeilenlagerung ist ein direkter Zugriff auf alle Lagereinheiten jederzeit möglich.\nBei einer Blocklagerung Ist dies nicht möglich."
+        },
+        {
+            "shortDescription": "Nennen Sie drei Kriterien, von denen die Stapelhöhe bei der Bodenlagerung abhängt.",
+            "description": "Nennen Sie drei Kriterien, von denen die Stapelhöhe bei der Bodenlagerung abhängt."
+        },
+        {
+            "shortDescription": "Nennen Sie drei Kriterien, von denen die Stapelhöhe bei der Bodenlagerung abhängt.",
+            "description": "Die Blocklagerung eignet sich für Güter gleicher Art in großen Mengen sowie zur Lagerung von Langsamdrehern. Außerdem sollte es sich um nicht verderbliche Güter bzw. Waren mit einem langen Haltbarkeitsdatum handeln."
+        },
+        {
+            "shortDescription": "Nennen Sie je zwei Vor- und Nachteile der Blocklagerung.",
+            "description": "Vorteile sind z.B.\n- keine Kosten für Lagereinrichtungen\n- hohe Flächen- und Raumausnutzung\n- einfache Organisation\n- geringe Störanfälligkeit\n        \nNachteile sind z.B.\n- LIFO-Prinzip\n- Zugriff auf jede Lagereinheit nur durch Umstapeln möglich\n- begrenzte Stapelhöhe\n- schlecht mechanisierbar"
+        },
+        {
+            "shortDescription": "Wie hoch ist die maximale Tragfähigkeit einer EUR-Palette?",
+            "description": "Maximal 1000 kg bis 2000 kg"
+        },
+        {
+            "shortDescription": "Wie hoch ist die maximale Tragfähigkeit einer Gitterboxpalette?",
+            "description": "Maximal 1000 kg"
+        },
+        {
+            "shortDescription": "Wie viele Gitterboxpaletten dürfen höchstens aufeinander gestapelt werden?",
+            "description": "Es dürfen höchstens 5 Gitterboxpaletten aufeinander gestapelt werden."
+        },
+        {
+            "shortDescription": "Was ist beim Stapeln schwerer und leichter Lasten zu beachten?",
+            "description": "Schwere Lasten sind unten, leichte Lasten oben zu stapeln."
+        },
+        {
+            "shortDescription": "Nennen Sie drei Zubehörteile für Fachbodenregale.",
+            "description": "z.B.\n- ausziehbare Fachböden\n- Schubladen\n- Trennbleche\n- Seiten- und Rückwände\n- Lagersichtkästen\n- Lagerwannen\n- Flügeltüren"
+        },
+        {
+            "shortDescription": "Welche beiden Arten von Palettenregalen können unterschieden werden?",
+            "description": "Längstraversenregal und Quertraversenregal"
+        },
+        {
+            "shortDescription": "Welches ist die maximale Höhe von Flachlagern, Hochflachlagern und Hochregallagern?",
+            "description": "Flachlager-> bis ca. 7 m Höhe\nHochflachlager -> bis ca. 12 m Höhe\nHochregallager -> bis ca. 45 m Höhe"
+        },
+        {
+            "shortDescription": "Nach welchem Einlagerungsgrundsatz erfolgt die Ein- und Auslagerung bei einem Einfahrregal?",
+            "description": "Nach dem LIFO-Prinzip"
+        },
+        {
+            "shortDescription": "Nach welchem Einlagerungsgrundsatz erfolgt die Ein- und Auslagerung bei einem Durchfahrregal?",
+            "description": "Nach welchem Einlagerungsgrundsatz erfolgt die Ein- und Auslagerung bei einem Durchfahrregal?"
+        },
+        {
+            "shortDescription": "Was versteht man unter einem „Kuli\" in einem Kanalregal?",
+            "description": "Kuli ist der Lastschlitten, der die Ladeeinheit im jeweiligen Kanal transportiert."
+        },
+        {
+            "shortDescription": "Nennen Sie je drei Vor- und Nachteile eines Durchlaufregals.",
+            "description": "Vorteile sind z.B.\n- hohe Flächenausnutzung\n- hohe Artikelvielfalt auf engstem Raum\n- Einhaltung des FIFO-Prinzips\n- hohe Kommissionierleistung\n- Trennung von Beschickung und Entnahme\nNachteile sind z.B.\n- hohe Investitionskosten\n- durch sortenreine Kanäle sind diese nur teilweise befüllt\n- Störanfälligkeit"
+        },
+        {
+            "shortDescription": "Über welche Seite erfolgt die Ein- und Auslagerung bei einem Wabenregal?",
+            "description": "Die Ein- und Auslagerung erfolgt über die Stirnseite."
+        },
+        {
+            "shortDescription": "Worin werden Kleinteile in einem automatischen Kleinteilelager gelagert?",
+            "description": "Die Lagerung erfolgt in Behältern, Tablaren, Lagerwannen oder Kartons."
+        },
+        {
+            "shortDescription": "Nennen Sie je drei Vor- und Nachteile eines automatischen Kleinteilelagers.",
+            "description": "Vorteile sind z.B.\n- hohe Flächen- und Raumausnutzung\n- Bereitstellung Ware zum Mann\n- vor Schmutz/Diebstahl geschützte Lagerung im geschlossenen System\n- keine Wegzeiten, da Ware zum Mann\nNachteile sind z.B.\n- hohe Investitionenskosten\n- regelmäßige Wartung\n- für große und sperrige Güter ungeeignet"
+        },
+        {
+            "shortDescription": "Was passiert im Hochregallager am sogenannten Identifikationspunkt?",
+            "description": "Beim Passieren des I-Punktes werden von den einzulagernden Lagergütern bestimmte Informationen (z.B. Warenart, Artikelnummer, Gewicht, Menge usw.) mittels Sensoren oder Scannern erfasst. Überprüft werden außerdem die Konturen der Lagereinheit und der Zustand der Paletten."
+        },
+        {
+            "shortDescription": "Was passiert im Hochregallager am sogenannten Kontrollpunkt?",
+            "description": "Bei der Auslagerung wird am Kontrollpunkt zum einen Überprüft, ob die richtige Lagereinheit ausgelagert wurde, und zum anderen wird die Auslagerung vom Lagerverwaltungssystem erfasst."
+        },
+        {
+            "shortDescription": "Welche Bauweisen für ein Hochregallager können unterschieden werden?",
+            "description": "Betonbauweise (das Einbauhochregallager) und Silobauweise"
+        },
+        {
+            "shortDescription": "Wo ist das Lagern von Gegenständen grundsätzlich verboten?",
+            "description": "Das Lagern von Gegenständen ist verboten\n- vor elektrischen Verteilern und Schaltanlagen\n- vor Einrichtungen zur Ersten Hilfe\n- vor Feuerlöschgeräten\n- in Verkehrs- und Rettungswegen."
+        },
+        {
+            "shortDescription": "Erläutern Sie die Begriffe Fachlast und Feldlast.",
+            "description": "Fachlast ist diejenige Last, die von einer Regalseite in ein Regalfach eingebracht werden kann.\nFeldlast ist die Summe aller Fachlasten in einem Regalfeld, wobei eine gleichmäßige Lastverteilung zugrunde gelegt wird."
+        },
+        {
+            "shortDescription": "Was versteht man unter der Stützweite bei einem Regal?",
+            "description": "Die Stützweite ist der Abstand zwischen zwei Auflagen in einem Regal."
+        },
+        {
+            "shortDescription": "Wie wird die maximale Durchbiegung bei Fächern berechnet?",
+            "description": "Bei metallischen Werkstoffen:\n1/200 der Stützweite in mm\nBei Holz und Kunststoff:\n1/150 der Stützweite in mm"
+        },
+        {
+            "shortDescription": "Was sind Gefahrstoffe?",
+            "description": "Gefahrstoffe sind Stoffe oder Zubereitung, die gefährliche oder schädliche Eigenschaften für Mensch und Unwelt haben."
+        },
+        {
+            "shortDescription": "Wie müssen Fußböden in einem Gefahrstofflager beschaffen sein?",
+            "description": "Die Fußböden müssen für das Lagergut undurchlässig sein und aus nicht brennbarem Material bestehen."
+        },
+        {
+            "shortDescription": "Wer erlässt die Gesetze, Verordnungen, Vorschriften und Regeln zum Arbeits- und Unweltschutz?",
+            "description": "Sie werden erlassen von Staat, den Berufsgenossenschaften und privaten Organisationen."
+        },
+        {
+            "shortDescription": "Wodurch können Gefährdungen am Arbeitsplatz entstehen? Nennen Sie zwei Möglichkeiten.",
+            "description": "z.B.\n- durch die Gestaltung und Einrichtung des Arbeitsplatzes\n- durch die Gestaltung von und den Umgang mit Arbeitsmitteln\n- durch die Gestaltung von Arbeitsverfahren\n- durch vorhandene Gefahrstoffe\n- durch mangelhafte Qualifikation und Unterweisung der Arbeitnehmer"
+        },
+        {
+            "shortDescription": "Was regelt die Arbeitsstättenverordnung?",
+            "description": "Die Arbeitsstättenverordnung regelt die Mindestanforderungen beim Einrichten und Betreiben von Arbeitsstätten."
+        },
+        {
+            "shortDescription": "Wie breit muss ein Verkehrsweg für einen Elektro-Gabelhubwagen sein, wenn der Elektro-Gabelhubwagen 60 cm breit ist?",
+            "description": "Der Verkehrsweg muss mindestens 1,60 m breit sein (Breite des Fördermittels + min. 0,5 m auf beiden Seiten des Verkehrsweges)."
+        },
+        {
+            "shortDescription": "Nennen Sie drei mögliche Folgen einer hohen Lärmbelastung am Arbeitsplatz.",
+            "description": "z.B.\n- Schwerhörigkeit\n- Herz-Kreislauf-Probleme\n- Magen-Darm-Beschwerden\n- psychische Probleme"
+        },
+        {
+            "shortDescription": "Wer vergibt das GS-Zeichen und was sagt es aus?",
+            "description": "Das GS-Zeichen (geprüfte Sicherheit) wird von einer zugelassenen Prüf- und Zertifizierungsstelle, z.B. vom TÜV vergeben. Das Zeichen kennzeichnet technische Produkte, die den Anforderungen des Gerätesicherheitsgesetzes und den DIN- und DIN-EN-Bestimmungen entsprechen."
+        },
+        {
+            "shortDescription": "Welchem Zweck dient das Chemikaliengesetz?",
+            "description": "Das Chemikaliengesetz dient dem Zweck, Mensch und Umwelt vor schädlichen Einwirkungen durch gefährliche Stoffe und Zubereitungen zu schützen. Diese Einwirkungen sollen erkennbar gemacht werden, abgewendet und ihren Entstehen vorgebeugt werden."
+        },
+        {
+            "shortDescription": "Welches sind die Kernpunkte der Gefahrstoffverordnung?",
+            "description": "- Gefährdungsbeurteilung\n- arbeitsmedizinische Vorsorge"
+        },
+        {
+            "shortDescription": "Was ist eine Gefährdungsbeurteilung?",
+            "description": "Der Arbeitgeber hat jeden Arbeitsplatz nach seiner Gefährdung zu beurteilen, um zu ermitteln, welche Arbeitsschutzmaßnahmen erforderlich sind."
+        },
+        {
+            "shortDescription": "Wer erstellt die Gefährdungsbeurteilung?",
+            "description": "Verantwortlich für die Erstellung ist der Arbeitgeber, vorgenommen wird die Gefährdungsbeurteilung durch die Fachkräfte für Arbeitssicherheit in Zusammenarbeit mit den Betriebsärzten."
+        },
+        {
+            "shortDescription": "Was sind Emissionen?",
+            "description": "Emissionen sind Luftverunreinigungen, Geräusche, Erschütterungen, Licht, Wärme, Strahlen usw., die von einer Anlage ausgehen. Anlagen sind Betriebsstätten, Maschinen, Geräte und Fahrzeuge."
+        },
+        {
+            "shortDescription": "Was sind Immissionen?",
+            "description": "Immissionen sind Luftverunreinigungen, Geräusche, Erschütterungen, Licht, Wärme, Strahlen usw., die auf Menschen, Umwelt, Atmosphäre sowie Kultur- und sonstige Sachgüter einwirken."
+        },
+        {
+            "shortDescription": "Welchem Zweck dient das Wasserhaushaltsgesetz?",
+            "description": "Das Wasserhaushaltsgesetz dient dem Schutz des Wassers vor Verunreinigungen."
+        },
+        {
+            "shortDescription": "Welche Bedingungen müssen zusammentreffen, damit ein Feuer entsteht?",
+            "description": "Brennbarer Stoff, Sauerstoff und Zündquelle"
+        },
+        {
+            "shortDescription": "Nennen Sie drei Ursachen für Brände.",
+            "description": "z.B.\n- unsachgemäßer Umgang mit Einrichtungen und Stoffen\n- Defekte in der Elektrik\n- fehlende Unterweisung der Beschäftigten\n- mangelndes Gefahrenbewusstsein beim Umgang mit Gefahrstoffen\n- Missachtung des Rauchverbotes\n- Brandstiftung"
+        },
+        {
+            "shortDescription": "In welche zwei Bereiche wird der Brandschutz unterteilt?",
+            "description": "- vorbeugender Brandschutz\n- abwehrender Brandschutz"
+        },
+        {
+            "shortDescription": "Welche drei Bereiche gehören zum vorbeugenden Brandschutz?",
+            "description": "- baulicher Brandschutz\n- technischer Brandschutz\n- betrieblicher Brandschutz"
+        },
+        {
+            "shortDescription": "Der technische Brandschutz wird in die Bereiche Vermeiden, Warnen und Löschen unterteilt. Nennen Sie zu allen drei Bereichen je ein Beispiel.",
+            "description": "Vermeiden: Durch Reduktion der Sauerstoffkonzentration in der Luft\nWarnen: Mithilfe von Feuermelder\nLöschen: Mithilfe von Feuerlöscher"
+        },
+        {
+            "shortDescription": "Nennen Sie drei Brandmeldeeinrichtungen.",
+            "description": "z.B.\n- Feuermelder\n- Rauchmelder\n- Thermo- oder Wärmemelder\n- Flammen- oder Strahlenmelder"
+        },
+        {
+            "shortDescription": "Nennen Sie drei verschiedene Brandbekämpfungsanlagen.",
+            "description": "z.B.\n- Sprinkleranlagen\n- Sprühwasseranlagen\n- Berieselungsanlagen\n- Schaumlöschanlagen\n- Pulverlöschanlage\n- Kohlendioxidanlage"
+        },
+        {
+            "shortDescription": "Welche Gefahr ist mit einer Kohlendioxidanlage für den Menschen verbunden?",
+            "description": "Durch das ausströmende Kohlendioxid wird dem Feuer der notwendige Sauerstoff entzogen und so das Feuer erstickt. Bei Betrieb dieser Anlage droht dem Menschen Erstickungsgefahr, und er muss diesen Bereich sofort verlassen."
+        },
+        {
+            "shortDescription": "Nennen Sie die verschiedenen Brandklassen und erklären Sie, für welche brennenden Stoffe sie gelten.",
+            "description": "- Brandklasse A:\nbrennbare feste Stoffe\n- Brandklasse B:\nbrennbare Flüssigkeiten\n- Brandklasse C:\nbrennbare gasförmige Stoffe\n- Brandklasse D:\nbrennbare Metalle\n- Brandklasse F:\nBrände von Speiseöl/-fetten"
+        },
+        {
+            "shortDescription": "Welches Löschmittel benötigen Sie, um brennendes Fett zu löschen?",
+            "description": "Brennendes Fett wird mit einem Speziallöschmittel gelöscht, niemals mit Wasser.\nHandelt es sich nur um ein kleines Feuer, sollte man versuchen, das Feuer zu ersticken."
+        },
+        {
+            "shortDescription": "Wie sollte ein Tropfbrand gelöscht werden?",
+            "description": "Ein Tropfbrand sollte von oben nach unten gelöscht werden."
+        },
+        {
+            "shortDescription": "Wie lautet die Reihenfolge der Maßnahmen zur Rettungs- und Brandbekämpfung?",
+            "description": "Melden -> Retten -> Löschen"
+        }
+    ]
+}
