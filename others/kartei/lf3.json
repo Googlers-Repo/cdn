@@ -1,0 +1,251 @@
+{
+    "name": "Lernfeld 3",
+    "group": "lernfeld_3",
+    "description": "Güter bearbeiten",
+    "karten": [
+        {
+            "shortDescription": "Nenen Sie eine Wiegeeinrichtung für hängende Lasten.",
+            "description": "- Kranwaage\n- Hängewaage"
+        },
+        {
+            "shortDescription": "Was unterscheidet eine Gabelwaae von einer Gabelhunwaage?",
+            "description": "Gabelwaagen sind Gabeln mit integrieter Waage, in die die Gabeln des Gabelstaplers oder Handgabelhubwagens eingeschoden werden.\nGabelhubwaagen sind Handhubwaage mit integriter Waage, es wird transportiert und gewogen."
+        },
+        {
+            "shortDescription": "Was bewirkt die Tara-Taste einer Waage?",
+            "description": "Sie zieht das Gewicht der Verpackung ab, sodass die Waage vor Einfüllen der Ware auf Null steht"
+        },
+        {
+            "shortDescription": "Wozu benötigt man die Referrenztaste einer Zählwaage?",
+            "description": "Die Referenztaste dient zur Eingabe der Bezugsmenge (= Referenzmenge). Wenn die Waage z. B. das Gewicht von zahn Stück kennt, kann sie das Stückgewicht errechnen und so die Anzahl der zusätzlich auf die Waage gelegten Teile ermitteln."
+        },
+        {
+            "shortDescription": "Nennen Sie zwei Hilfsmittel, um das Gewicht on Plaketten zu bestimmen.",
+            "description": "z. B.\n- Plakettenwaage\n- Platformwaage\n- Gabelhubwaage\n- Gabelwaage"
+        },
+        {
+            "shortDescription": "Nennen Sie zwei Vorteile eines Ultraschall-Entferungsmessers gegenüber einem Maßband oder einem Zollstock",
+            "description": "Vorteile sind z. B.\n- Messung auch an weniger gut zugänglichen Stellen möglich\n- einfache Messung langer Strecken\n- keine körperliche Belastung beim Messen"
+        },
+        {
+            "shortDescription": "Nennen Sie zwei Hilfsmittel zum Lesen von Barcode-Etiketten.",
+            "description": "z. B.\n- Handscanner\n- Barcodescanner\n- Barcode-Lesestift"
+        },
+        {
+            "shortDescription": "Nenen Sie zwei Hilfsmittel zur Preisauszeichnung.",
+            "description": "z. B.\n- Etikettenspender\n- Etikettendrucker\n- Barcodedrucker"
+        },
+        {
+            "shortDescription": "Durch welche Maßnahmen kann die Ware vor Schädlingsbefall geschützt werden? Nennen Sie drei Maßnahmen.",
+            "description": "- Saubarkeit auf den Lagerplätzen\n- Schädlingsbekämpfung mit chemischen Mitteln\n- Ververpackung\n- Einheiten der Kühlkette\n- Lagerräume trocken halten"
+        },
+        {
+            "shortDescription": "Nennen Sie drei Maßnahmen der Warenpflege.",
+            "description": "z. B.\n- Ware regelmäßig kontrolieren (Sichtkontrolle)\n- Haltbarkeitsdatum kontrolieren\n- Temperatur kontrolieren\n- Luftfeuchtigkeit kontrolieren\n- Güter entstauben\n- Güter umdrehen und belüften\n- Guter vor Lichteinwirkung schützen"
+        },
+        {
+            "shortDescription": "Erklären Sie den Unterschied zwischen MHD und Verfalldatum",
+            "description": "Bei Überschreiten des Verfalldatums dürfen Medikamente nicht mehr verwendet werden.\nBei Überschreiten des Mindesthaltbarkeitsdatum dürfen Lebensmittel noch verzehrt werden."
+        },
+        {
+            "shortDescription": "Begründen Sie, ob Lebensmittel, die das MHD überschritten haben, noch verkauft werden dürfen oder nicht",
+            "description": "Wenn sie nicht verdorben sind, dürfen Lebensmittel nach Ablauf des Mindesthaltbarkeitsdatum noch verkauft werden. Viele Lebensmittel halten sich etwas länger als bis zum Ablauf des Midesthaltbarkeitsdatum. Sensible Lebensmittel mit einem Verbrauchsdatum sollten nach Ablauf des Datums nicht mehr verzehrt werden."
+        },
+        {
+            "shortDescription": "Wer ist für die Arbeitsicherheut im Unternehmen in ertser Linie verantwortlich?",
+            "description": "Der Unternehmer"
+        },
+        {
+            "shortDescription": "Wer ist fü den technischen Arbeitsschutz im Betrieb neben dem Unternehmer hauptsächlich verantwortlich?",
+            "description": "Die Fachkraft für Arbeitssicherheit"
+        },
+        {
+            "shortDescription": "Nennen Sie zwei Aufgeben eines Sicherheitsbeauftragten.",
+            "description": "- Arbeitsplätze prüfen, welche Sicherheitseinrichtungen nötig sind.\n- Prüfen, ob die Sicherheitseinrichtungen funktionieren und angewendet werden\n- Betriebsanweisungen erstellen\n- Unternehmer in allen Fragen der Arbeitssicherheit beraten"
+        },
+        {
+            "shortDescription": "Untersuchen Sie die Fachkraft für Arbeitssicherheit und den Sicherheitsbeauftragten hinsichtlich der Verantwortlichkeit.",
+            "description": "Die Fachkaft für Abreitsschiheit geprüft und dabei Sicherheitsmängel übersehen hat\nDie Sicherheitsbeauftragten haften nicht und haben jein Weisungsrecht."
+        },
+        {
+            "shortDescription": "Welche Verpflichtugen haben die Beschäftigen selbst im Zusammenhang mit dem Arbeitsschutz? Nennen Sie zwei Verpflichtungen.",
+            "description": "z. B.\n- Sicherheitsvorschriften einhalten\n- persönliche Schutzausrüstung (PSA) tragen\n- konzentriert und achtsam arbeiten\n- sicherheitstechnische Mängel sofort anzeigen"
+        },
+        {
+            "shortDescription": "Welche Verpflichtent haben die Beschäftigten selbt im Zusammenhang mit dem Arbeitsschutz? Nennen Sie zwei Verpflichtugen.",
+            "description": "- Sicherheitsvorschriften einhalten\n- Persöhliche Schutzausrüstung tragen\n- Konzentriert und achtsam arbeiten\n- sicherheitstechnische Mängel sofort anzeigen\""
+        },
+        {
+            "shortDescription": "Wie setzt sich der Arbeitsscutzausschuss zusammen?",
+            "description": "Arbeitsschutzausschuss\n- Unternehmer\n- Betriebsartz\n- Fachkraft für Arbeitssicherheit\n- Sicherheitsfachkräfte\n- Zwei Betriebsratsmitglieder"
+        },
+        {
+            "shortDescription": "Nenen Sie zwei Aufgaben des Betriebs in Bezug auf den Arbeitsschutz.",
+            "description": "z. B.\n- auf Sicherheitsmängel hinweisen\n- Verbesserungen vorschlagen"
+        },
+        {
+            "shortDescription": "Welche Folgen kann es für einen Beschäftigen haben, wenn er gegen die Sicherheitsvorschriften verstößt? Nennen Sie zwei mögliche Folgen.",
+            "description": "- Verletzungen\n- Verlust des Anspruches auf Lohnfortzahlung im Krankheitsfall\n\nZustatzinformation:\nHaftung, falls Dritte zu Schaden kommen"
+        },
+        {
+            "shortDescription": "Nenne Sie drei Gesetze und/oder Verodnugen, in denen die Abfallentsogung geregelt ist.",
+            "description": "z. B.\n- Kreislaufwirtschaft- und Abfallgesetz\n- Batterieverordnung\n- Elektro- und Elektronikgerätegesetz\n- Altölverordnung\n- Verpackungsverordnung"
+        },
+        {
+            "shortDescription": "Nennen Sie die drei grundsätzlichen Ziele der Abfallentsorgung",
+            "description": "Ziele der Abfallentsorgung\n- Vermeiden\n- Verwerten\n- Beseitigen"
+        },
+        {
+            "shortDescription": "NenneSie zwei Aufgaben des Abfallbeauftragten.",
+            "description": "z. B.\n- Überwachung des Weges der Abfälle von ihrer Entscheidung bis zu ihrer Entsorgung\n- Aufklärung der Betriebsangehörigen über mögliche Gefährdung sowie Maßnahmen zu ihrer Vermeidung- Mitwirkung bei der Entwiklung/Einführung umweltfreundlicher und abfallarmer Verfahren und Erzeunisse\n- jährliche Berichterstattung"
+        },
+        {
+            "shortDescription": "Was versteh man unter \"Recycling\"?",
+            "description": "Unter Recycling versteht msn die stoffliche Verwertung von Abfällen. Die im Abfall enthaltenen Rohstoffe werden ganz oder teilweise zurückgewonnen"
+        },
+        {
+            "shortDescription": "Unterscheiden Sie Ist-Bestand und Soll-Bestand.",
+            "description": "Ist-Bestand ist der tatsächliche am Lagerplatz verhandene Bestand.\nSoll-Bestant ist der im PC oder auf der Lagerkarte angegebene Bestand"
+        },
+        {
+            "shortDescription": "Wofür ist der Mindestbestand da?",
+            "description": "Er deckt den Bedarf bei unvorhersehnarem Mehrverbrauch oder bei Lieferungsverzögerungen ab"
+        },
+        {
+            "shortDescription": "Wie wird der Meldebestand berechnet?",
+            "description": "Meldebestand = (Tagesverbrauch * Lieferzeit) + Mindestbestand"
+        },
+        {
+            "shortDescription": "Welche Bedeutung hat der Meldebestand?",
+            "description": "Wird der Meldebestand erreicht, muss neue Ware bestellt werden."
+        },
+        {
+            "shortDescription": "Woran hängt der Höchstbestand ab?",
+            "description": "Der Höchstbestand hängt von der Kapitalbindung, dem zur Verfügung stehenden Lagerraum, eventuellen Megenrabatten und dem Risiko des Veraltens bzw. des Verdebs der Ware ab."
+        },
+        {
+            "shortDescription": "Wie wird die maximale Bestellmenge bei gebgebem Höchstbestand ermittelt?",
+            "description": "Maximale Bestellmenge = Höchstbestand - Mindestbestand"
+        },
+        {
+            "shortDescription": "Wie wird der verfügbare Bestand ermittelt?",
+            "description": "Verfügbarer Bestand = tatsächlicher Bestand - Mindestbestand - reservierter Bestand"
+        },
+        {
+            "shortDescription": "Warum wird eine Inventur durchgeführt?",
+            "description": "Weil es gesetzlich vergeschrieben ist, aber auch aus Eigeninteresse des Unternehmens: Nur durch eine Inventur lässt sich feststellen, ob Soll-Bestände und Ist-Bestände übereinstimmen."
+        },
+        {
+            "shortDescription": "Nennen Sie die vier Inventurarten.",
+            "description": "Inventurarten\n- (zeitnahe) Stichtagsinventur\n- verlegte Inventur\n- permanente Inventur\n- Stichprobeninventur"
+        },
+        {
+            "shortDescription": "Wann findet bei der zeitnahen Stichtagsinventur die Zählung der Bestände statt",
+            "description": "In einem Zeitraum von zehn Tagen vor bis zahn Tagen nach dem Bilanzstichtag"
+        },
+        {
+            "shortDescription": "In welchem Zeitraum kann die verlegte Inventur durchgeführt werden?",
+            "description": "In einem Zeitraum von drei Monaten vor bis zwei Monaten nach den Bilanzstichtag"
+        },
+        {
+            "shortDescription": "Welche Voraussetzungen müssen für die Durchführung einer permanenten Inventur gegeben sein?",
+            "description": "Alle Zugänge werden, denn der Bestand muss nach dem Zähltag wertmäßig und mengenmäßig fortgeschrieben werden."
+        },
+        {
+            "shortDescription": "Nennen Sie zwei Voruteile der permanenten Inventur",
+            "description": "z. B.\n- Arbeiten können während des laufenden Betriebs durchgeführt werden.\n- Arbeiten können für jeden Artikel zu einem passenden Zeitpunkt durchgeführt werden, wenn der Bestand niedrig ist."
+        },
+        {
+            "shortDescription": "Geben Sie drei ursachen für Inventurdifferenzen an.",
+            "description": "z. B.\n- Schwund, Verderb oder Bruch\n- Diebstahl\n- Fehler bei der Erfassung und Buchung der Wareneingänge oder Warenausgänge\n- Fehler bei der Kommissionierung\n- Einschlag in ein falsches Lagerfach"
+        },
+        {
+            "shortDescription": "Mit welchem Preis müssen die Bestände bewertet werden?",
+            "description": "Mit dem Einstandspreis"
+        },
+        {
+            "shortDescription": "Was unterscheidet die Stichprobeninventur von den anderen Inventurverfahren?",
+            "description": "Bei der Stichprobeninventur werden nur doe wertvollen A-Güter gezählt, von allen anderen Gütern werden nur Teilmengen (Stichproben) gezählt. Bei allen anderen Verfahren muss der gesamte Bestand gezählt werden."
+        },
+        {
+            "shortDescription": "Nennen Sie drei Kostenarten im Lager.",
+            "description": "z. B.\n- Verwaltungskosten\n- Personalkosten\n- Raumkosten\n- Kapitalkosten\n- Risikokosten"
+        },
+        {
+            "shortDescription": "Nenne Sie drei Beispiele für Raumkosten.",
+            "description": "- Raummiete\n- Gebäudeabschreibung\n- Reinigung\n- Energiekosten für Heizung\n- Energiekisten für Licht\n- Wartung und Instandhaltung"
+        },
+        {
+            "shortDescription": "Was versteht man unter gebunden Kapital?",
+            "description": "Das in die Ware investierte Kapital ist gebunde, da es nicht anderwertig verwendet werden kann (z. B. für doe Geldanlage am Kapitalmarkt)"
+        },
+        {
+            "shortDescription": "Warum verursachen die im Lager liegenden Waren Zinsverlsute?",
+            "description": "Das in den Waren gebundene Kapital kann nicht am Kapitalmark investiert werden, dadurch entgehen dem Unternehmen Zisen und andere Kapitalerträge."
+        },
+        {
+            "shortDescription": "Nenne Sie drei Beispiele für Risikokosten",
+            "description": "z. B.\n- Verderb\n- Schwud\n- Alterung der Ware\n- Versicherungsprämien"
+        },
+        {
+            "shortDescription": "Was versteht man unter allgemeinen Verwaltungskosten?",
+            "description": "Das sind die Kosten, die im Bereich der Lagerverwaltung anfallen, z. B. Büromaterial, IT-Kosten"
+        },
+        {
+            "shortDescription": "Erklären Sie den Unterschied zwichen Absatz und Umsatz",
+            "description": "Absatz bezieht sich auf die verkaufte Menge\nUmsatz ist der durch den Verkauf eingenommene Geldbetrag"
+        },
+        {
+            "shortDescription": "Was versteht man unter dem Einstandspreis?",
+            "description": "Das ist der Preis, der beim Einkauf für die Ware bezahlt wird."
+        },
+        {
+            "shortDescription": "Wie wird der durchschnittliche Lagerbestand auf Basis von Quartalsendbeständen berechnet?",
+            "description": "Anfangsbestand plus vier Quartalsendbestände geteillt durch fünf."
+        },
+        {
+            "shortDescription": "Welches ist die einfachste, aber auch ungenauste Formel für die Berechnung des durchschnittlichen Lagerbestandes",
+            "description": "Anfangsbestand plus Schlussbestand geteilt durch zwei."
+        },
+        {
+            "shortDescription": "Welche Folgen haben hohr Lagerbestände?",
+            "description": "Große Bestände führen zu hohen Lagerkosten. Das Lagerrisiko steigt, die Güter können veralten, verderben oder verschwinden."
+        },
+        {
+            "shortDescription": "Welche Folgen haben niedrige Lagerbestände?",
+            "description": "Personal und Technik sind bei niedrigen Lagerbeständen nich ausgelastet. Es kann zu Lieferengpässen oder Störungen der Produktion kommen."
+        },
+        {
+            "shortDescription": "Erklären Sie die Umschlagshäufigkeit mit eigene Worten.",
+            "description": "z. B.\nDie Umschlagshäfigkeit gibt an, wie oft der durchschnittliche Lagerbestand pro Jahr ins Lager hineingeht und es wieder verlässt"
+        },
+        {
+            "shortDescription": "Wie wird die Umschlagshäufigkeit berechnet?",
+            "description": "Wareneinsatz geteilt durch durchschnittlichen Lagerbestand\n- in € oder\n- in Stück"
+        },
+        {
+            "shortDescription": "Nenne Sie zwei Möglichkeiten, wie der Wareneinsatz ermittelt werden kann.",
+            "description": "Anfangsbestand plus Summe aller Einkäufe minus Schlussbestand\noder\nSumme aller Warenausgänge"
+        },
+        {
+            "shortDescription": "Wie hoch ist die durchschnittliche Lagerdauer bei einer Umschalgshäufigkeit von 6?",
+            "description": "360 : 6\nDie durchschnittliche Lagerdauer beträgt 60 Tage"
+        },
+        {
+            "shortDescription": "Nennen Sie zwei Maßnahmen zur Erhöung der Umschlagshäufigkeit.",
+            "description": "- Senkung der durchschnittlichen Lagerbestands\n- Erhöhung des Absatzes z. B. durch Werbeaktionen, Preissenkung, Gewinnung neuer Käuferschichten"
+        },
+        {
+            "shortDescription": "Was ist die Lagerrichweite und wie wird sie ermittelt?",
+            "description": "Die Lagerrichweite drückt aus, wie lange der durchschnittliche Lagerbestand ausreicht, um die Kunden zu beleifern.\nErmitteln der Lagerreichweite:\ndurchschnittlicher Ligerbestand geteilt durch durchschnittlischen Absatz pro Tag."
+        },
+        {
+            "shortDescription": "Wie werden die Lagerzinsen berechnet, wenn der Lagerzinssatz gegeben ist?",
+            "description": "Durchschnittlicher Lagerbestand in € mal Lagerzinssatz"
+        },
+        {
+            "shortDescription": "Wie wird der Flächennutzungsgrad eines Lagers ermittelt?",
+            "description": "Belegte Lagerfläche in Quadratmetern mal 100 geteilt durch den verfügbaren Lagerraum in Quadratmetern."
+        }
+    ]
+}
