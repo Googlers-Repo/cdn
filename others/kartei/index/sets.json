@@ -1,5 +1,15 @@
 [
   {
+    "name": "App",
+    "sets": [
+      {
+        "name": "Einführung",
+        "desc": "Wie die App funktioniert und wie Du einfach damit umgehst",
+        "cdn": "https://cdn.dergoogler.com/others/kartei/einfuerung.json"
+      }
+    ]
+  },
+  {
     "name": "Lagerlogistik",
     "sets": [
       {
