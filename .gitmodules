@@ -1,0 +1,3 @@
+[submodule "others/kartei"]
+	path = cdn
+	url = git@repo.dergoogler.com:Der_Googler/Kartei.git
