@@ -5,7 +5,7 @@
       {
         "name": "Einführung",
         "desc": "Wie die App funktioniert und wie Du einfach damit umgehst",
-        "cdn": "https://cdn.dergoogler.com/others/kartei/einfuerung.json"
+        "cdn": "https://raw.githubusercontent.com/DerGoogler/cdn/master/others/kartei/einfuerung.json"
       }
     ]
   },
@@ -15,22 +15,22 @@
       {
         "name": "Lernfeld 1",
         "desc": "Güter annehmen und kontrolieren",
-        "cdn": "https://cdn.dergoogler.com/others/kartei/lf1.json"
+        "cdn": "https://raw.githubusercontent.com/DerGoogler/cdn/master/others/kartei/lf1.json"
       },
       {
         "name": "Lernfeld 2",
         "desc": "Güter lagern",
-        "cdn": "https://cdn.dergoogler.com/others/kartei/lf2.json"
+        "cdn": "https://raw.githubusercontent.com/DerGoogler/cdn/master/others/kartei/lf2.json"
       },
       {
         "name": "Lernfeld 3",
         "desc": "Güter bearbeiten",
-        "cdn": "https://cdn.dergoogler.com/others/kartei/lf3.json"
+        "cdn": "https://raw.githubusercontent.com/DerGoogler/cdn/master/others/kartei/lf3.json"
       },
       {
         "name": "Lernfeld 4",
         "desc": "Güter im Betrieb transportieren",
-        "cdn": "https://cdn.dergoogler.com/others/kartei/lf4.json"
+        "cdn": "https://raw.githubusercontent.com/DerGoogler/cdn/master/others/kartei/lf4.json"
       }
     ]
   }
