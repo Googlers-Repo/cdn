@@ -1,6 +1,8 @@
 {
   "group": "einfuerung",
   "name": "Einführung",
+  "disableDelete": true,
+  "disableEdit": true,
   "description": "Wie die App funktioniert und wie Du einfach damit umgehst",
   "karten": [
     {
