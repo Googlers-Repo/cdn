@@ -1,21 +1,23 @@
 {
-  "group": "einfuerung",
-  "name": "Einführung",
-  "disableDelete": true,
-  "disableEdit": true,
-  "description": "Wie die App funktioniert und wie Du einfach damit umgehst",
-  "karten": [
-    {
-      "shortDescription": "Markdown basics",
-      "description": "# Markdown basics\n\nMarkdown ist eine leichte Auszeichnungssprache zum Erstellen von formatiertem Text mit einem Nur-Text-Editor. John Gruber und Aaron Swartz haben Markdown im Jahr 2004 als Auszeichnungssprache entwickelt, die in ihrer Quellcodeform für menschliche Leser attraktiv ist.\n\n> [Quelle](https://www.google.com/search?q=markdown)\n\n## Links erstellen\n\nEs lassen sin einfache links ertsellen, die fuer jeden lesbar sind. \nSiehe Beispiel:\n```md\n[Quelle](https://www.google.com/search?q=markdown)\n```\n\n## Einfuegen von Bildern\n\nEs lassen sich auch Bilder einfuegen mit dem folgenden Beispiel\n\n```md\n![](https://www.markdownguide.org/assets/images/markdown-guide-og.jpg)\n```\n### z.B\n\n![](https://www.markdownguide.org/assets/images/markdown-guide-og.jpg)"
-    },
-    {
-      "shortDescription": "Listen und Formatierung",
-      "description": "# Listen und Formatierung\n\nEs lassen sich einfache Listen erstellen mit entsprechender Formatierung\n\n## Beispiel\n- Schritt **eins**\n- Schritt *zwei*\n- Schritt ~~drei~~\n- usw.\n\n## Mit Zahlen\n1. Schritt **eins**\n2. Schritt *zwei*\n3. Schritt ~~drei~~\n4. usw.\n\n# Core\n```md\n## Beispiel\n- Schritt **eins**\n- Schritt *zwei*\n- Schritt ~~drei~~\n- usw.\n```"
-    },
-    {
-      "shortDescription": "Custom Zeichen",
-      "description": "# Custom Zeichen\n\nAktuell haben wir diese Zeichen:\n\n- <checkmark/> Checkmark\n- <warnmark/> Warnmark\n- <dangermark/> Dangermark"
+        "group": "einfuerung",
+        "name": "Einführung",
+        "description": "Wie die App funktioniert und wie Du einfach damit umgehst",
+        "karten": [
+            {
+                "shortDescription": "Markdown basics",
+                "description": "# Markdown basics\n\nMarkdown ist eine leichte Auszeichnungssprache zum Erstellen von formatiertem Text mit einem Nur-Text-Editor. John Gruber und Aaron Swartz haben Markdown im Jahr 2004 als Auszeichnungssprache entwickelt, die in ihrer Quellcodeform für menschliche Leser attraktiv ist.\n\n> [Quelle](https://www.google.com/search?q=markdown)\n\n## Links erstellen\n\nEs lassen sin einfache links ertsellen, die fuer jeden lesbar sind. \nSiehe Beispiel:\n```md\n[Quelle](https://www.google.com/search?q=markdown)\n```\n\n## Einfuegen von Bildern\n\nEs lassen sich auch Bilder einfuegen mit dem folgenden Beispiel\n\n```md\n![](https://www.markdownguide.org/assets/images/markdown-guide-og.jpg)\n```\n### z.B\n\n![](https://www.markdownguide.org/assets/images/markdown-guide-og.jpg)"
+            },
+            {
+                "shortDescription": "Listen und Formatierung",
+                "description": "# Listen und Formatierung\n\nEs lassen sich einfache Listen erstellen mit entsprechender Formatierung\n\n## Beispiel\n- Schritt **eins**\n- Schritt *zwei*\n- Schritt ~~drei~~\n- usw.\n\n## Mit Zahlen\n1. Schritt **eins**\n2. Schritt *zwei*\n3. Schritt ~~drei~~\n4. usw.\n\n# Core\n```md\n## Beispiel\n- Schritt **eins**\n- Schritt *zwei*\n- Schritt ~~drei~~\n- usw.\n```"
+            },
+            {
+                "shortDescription": "Custom Zeichen",
+                "description": "# Custom Zeichen\n\nAktuell haben wir diese Zeichen:\n\n- {{checkmark}} Checkmark\n- {{warnmark}} Warnmark\n- {{dangermark}} Dangermark\n\n```\n- {{checkmark}} Checkmark\n- {{warnmark}} Warnmark\n- {{dangermark}} Dangermark\n```"
+            },
+            {
+                "shortDescription": "Headings",
+                "description": "# Heading 1\n## Heading 2\n### Heading 3\n#### Heading 4\n##### Heading 5\n###### Heading 6\n\n= Heading 1\n== Heading 2\n=== Heading 3\n==== Heading 4\n===== Heading 5\n====== Heading 6\n\n**Source**\n\n```\n# Heading 1\n## Heading 2\n### Heading 3\n#### Heading 4\n##### Heading 5\n###### Heading 6\n\n= Heading 1\n== Heading 2\n=== Heading 3\n==== Heading 4\n===== Heading 5\n====== Heading 6\n```"
+            }
+        ]
     }
-  ]
-}
