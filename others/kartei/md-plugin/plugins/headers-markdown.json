@@ -1,7 +1,7 @@
 {
-    "id": "extended_headers",
-    "name": "Extended Headers",
-    "description": "Extends headers with an middle divider.",
+    "id": "extended_markdown",
+    "name": "Extended Markdown",
+    "description": "Extends markdown with an many new things.",
     "rules": [
       ["#{6}\\s?(([^\n]+)?\\s)#{6}(?:\\n|$)", "<divider><h6>$2</h6></divider>"],
       ["#{5}\\s?(([^\n]+)?\\s)#{5}(?:\\n|$)", "<divider><h5>$2</h5></divider>"],
