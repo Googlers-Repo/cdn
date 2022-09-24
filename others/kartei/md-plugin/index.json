@@ -1,7 +1,7 @@
 [
   {
-    "name": "Extended Headers",
-    "description": "Extends headers with an middle divider.",
-    "cdn": "https://raw.githubusercontent.com/DerGoogler/cdn/master/others/kartei/md-plugin/plugins/headers-extended.json"
+    "name": "Extended Markdown",
+    "description": "Extends markdown with an many new things.",
+    "cdn": "https://raw.githubusercontent.com/DerGoogler/cdn/master/others/kartei/md-plugin/plugins/headers-markdown.json"
   }
 ]
