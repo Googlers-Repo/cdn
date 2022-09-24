@@ -2,6 +2,6 @@
   {
     "name": "Extended Markdown",
     "description": "Extends markdown with an many new things.",
-    "cdn": "https://raw.githubusercontent.com/DerGoogler/cdn/master/others/kartei/md-plugin/plugins/headers-markdown.json"
+    "plugin": "https://raw.githubusercontent.com/DerGoogler/cdn/master/others/kartei/md-plugin/plugins/extended-markdown.js"
   }
 ]
