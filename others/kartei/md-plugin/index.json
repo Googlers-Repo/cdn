@@ -1,5 +1,6 @@
 [
   {
+    "id": "extended_markdown",
     "name": "Extended Markdown",
     "description": "Extends markdown with an many new things.",
     "plugin": "https://raw.githubusercontent.com/DerGoogler/cdn/master/others/kartei/md-plugin/plugins/extended-markdown.js"
