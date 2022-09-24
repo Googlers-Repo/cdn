@@ -1,4 +1,5 @@
 {
+    "id": "extended_headers",
     "name": "Extended Headers",
     "description": "Extends headers with an middle divider.",
     "rules": [
