@@ -1,4 +1,4 @@
-init((plugin) => {
+init((plugin, theme) => {
   const MdPlugin = require("plugin:md");
 
   MdPlugin("extended_markdown").addRules([
@@ -8,5 +8,6 @@ init((plugin) => {
     ["#{3}\\s?(([^\n]+)?\\s)#{3}(?:\\n|$)", "<divider><h3>$2</h3></divider>"],
     ["#{2}\\s?(([^\n]+)?\\s)#{2}(?:\\n|$)", "<divider><h2>$2</h2></divider>"],
     ["#{1}\\s?(([^\n]+)?\\s)#{1}(?:\\n|$)", "<divider><h1>$2</h1></divider>"],
+    ["@(\\w+)", `<span style="color:${theme.palette.primary.main};">$1</span>`]
   ]);
 });
