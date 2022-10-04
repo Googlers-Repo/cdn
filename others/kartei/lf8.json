@@ -1,0 +1,264 @@
+{
+    "name": "Lernfeld 8",
+    "group": "lernfeld_8",
+    "description": "Güter verladen",
+    "karten": [
+        {
+            "shortDescription": "Nennen Sie die vier Kriterien, nach denen Rampen unterschieden werden können.",
+            "description": "z.B.\n• nach der Beweglichkeit\n• nach der Anordnung im oder am Gebäude\n• nach der Umschlagsart\n• nach dem Umschlagsort"
+        },
+        {
+            "shortDescription": "Nennen Sie drei Gefahrenpunkte bei der Verladung.",
+            "description": "z.B.\n• Lade-, Rangier- und Transportvorgänge unmittelbar an der Rampenkante\n• rutschige und verschmutzte Laderampen und Ladebrücken\n• Nichtbenutzung der Abgänge/Treppen\n• fehlende Absturzsicherungen\n• mangelhafte Sicherung der Fahrzeuge gegen Wegrollen oder Wegfahren\n• fehlende Sich und mangelhafte Einweisung der Fahrer beim Rückwärtsfahren"
+        },
+        {
+            "shortDescription": "Nennen Sie zwei Maßnahmen, um ein Wegrollen oder vorzeitiges Entfernen von Fahrzeugen von der Laderampe zu verhindern.",
+            "description": "Verwendung von z.B.\n• Unterlegkeilen\n• Elektrokeilen\n• Wegfahrsperren\n• Ampelanlagen"
+        },
+        {
+            "shortDescription": "Welche vier Tätigkeiten gehören zur Transportmittelbeladung?",
+            "description": "Tätigkeiten bei der Transportmittelbeladung:\n• Überprüfung des Ladegutes\n• Überprüfung des Transportmittels\n• Stauplanung\n• Ladungssicherung"
+        },
+        {
+            "shortDescription": "Welche Angaben werden zur Erstellung eines Stauplans benötigt?",
+            "description": "Notwendige Angaben zur Erstellung eines Stauplans:\n• Innenmaße des Transportmittels\n• zulässiges Gesamtgewicht\n• Außenmaße und Gewichte der Ladungsgüter"
+        },
+        {
+            "shortDescription": "Nennen Sie vier Regeln für die Erstellung eines Stauplans.",
+            "description": "z.B.\n• Nutzlasten beachten\n• Gewicht gleichmäßig verteilen\n• zulässige Achslasten nicht überschreiten\n• schwere Güter nach unten, leichte nach oben packen\n• flüssige Güter unten, feste Güter oben stauen\n• schwere Güter möglichst in Richtung Stirnwand verstauen\n• Fässer stets stehend stauen"
+        },
+        {
+            "shortDescription": "Was versteht man unter betriebssicherer Verladung und wer ist dafür verantwortlich?",
+            "description": "Betriebssichere Verladung bedeutet, dass Gesamtgewicht, Achslast und Abmessungen des Fahrzeugs und die Lastverteilung eingehalten werden und das richtige Fahrzeug gewählt ist. Verantwortlich ist der Fahrzeugführer/Fahrer."
+        },
+        {
+            "shortDescription": "Was versteht man unter beförderungssicherer Verladung und wer ist dafür verantwortlich?",
+            "description": "Beförderungssichere Verladung bedeutet, dass das Ladegut so zu laden ist, dass es allen verkehrsbedingten Situationen wie Notbremsung, Ausweichmanövern, Kurvenfahrten, schlechten Straßenverhältnissen und üblichen Rangierstößen standhält. Verantwortlich ist der Verladen."
+        },
+        {
+            "shortDescription": "Welche Kräfte wirken beim Anfahren, Bremsen und in Kurven?",
+            "description": "Beim Anfahren und Bremsen wirkt die Trägheitskraft und in Kurven die Fliehkraft. Immer wirken die Gewichtskraft und die Reibungskraft."
+        },
+        {
+            "shortDescription": "Was versteht man unter der Gewichtskraft?",
+            "description": "Die Gewichtskraft ist die Kraft, mit der ein Körper aufgrund der Erdanziehungskraft auf eine Unterlage drückt. Sie wird in Dekanewton (daN) angegeben."
+        },
+        {
+            "shortDescription": "Was besagt die Trägheitskraft?",
+            "description": "Die Trägheitskraft besagt, dass ein Körper das Bestreben hat, den Zustand (die Bewegungsrichtung) beizubehalten, in dem er sich gerade befindet."
+        },
+        {
+            "shortDescription": "Wovon ist die Fliehkraft abhängig?",
+            "description": "Sie ist abhängig von dem Gewicht der Ladung, der Geschwindigkeit und dem Kurvenradius."
+        },
+        {
+            "shortDescription": "Wie wird die Massenkraft berechnet?",
+            "description": "Ladungsgewicht •\n0,8 beim Abbremsen\n0,5 beim Anfahren\n0,5 bei Kurvenfahrt\n\nz.B. 10000 • 0,8 = 8000"
+        },
+        {
+            "shortDescription": "Wie wird die Reibungskraft berechnet?",
+            "description": "Ladungsgewicht • Gleitreibwert µ\n\nz.B. 10000 • 0,2 = 2000"
+        },
+        {
+            "shortDescription": "Was versteht man unter der Reibungskraft?",
+            "description": "Unter Reibungskraft versteht man die Reibung (Haftug), die der Ladungsverschiebung beim Anfahren, Bremsen und in Kurven entgegenwirkt."
+        },
+        {
+            "shortDescription": "Was versteht man unter der Sicherungskraft?",
+            "description": "Die Sicherungskraft ist die Kraft, die zusätzlich zur Reibungskraft vom Fahrzeugaufbau oder von den Sicherungsmitteln aufzubringen ist, um ein Verrutschen oder Kippen der Ladung zu verhindern.\n\nSicherungskraft = Massenkraft - Reibungskraft"
+        },
+        {
+            "shortDescription": "Wann ist ein Ladegut standsicher?",
+            "description": "Ein Ladegut ist standsicher, wenn die Schwerpunkthöhe kleiner ist als die halbe Breite seiner Grundfläche bzw. der halbe Durchmesser."
+        },
+        {
+            "shortDescription": "Nennen Sie den Gleitreibwert von:\nHolz auf Holz\nMetall auf Holz\nMetall auf Metal\nBeton auf Holz",
+            "description": "Holz auf Holz = 0,2 µ\nMetall auf Holz = 0,2 µ\nMetall auf Metal = 0,1 µ\nBeton auf Holz = 0,3 µ"
+        },
+        {
+            "shortDescription": "Welchen Belastungen müssen Stirnwand, Rückwand und Seitenwände eines Lkw (Code L) standhalten?",
+            "description": "Belastungen:\n• Stirnwand: 40 % der Nutzlast, maximal 5000 daN\n• Rückwand: 25 % der Nutzlast, maximal 3100 daN\n• Seitenwand: 30 % der Nutzlast"
+        },
+        {
+            "shortDescription": "Welche Arten von Zurrpunkten können unterschieden werden?",
+            "description": "Arten von Zurrpunkten\n• Zurrringe\n• Zurrschienen"
+        },
+        {
+            "shortDescription": "Ab welchem zulässigen Gesamtgewicht müssen Nutzfahrzeuge zur Güterbeförderung mit Zurrpunkten ausgerüstet sein?",
+            "description": "Ab einem zulässigen Gesamtgewicht von mehr als 3,5 t müssen Nutzfahrzeuge zur Güterbeförderung mit Zurrpunkten ausgerüstet sein."
+        },
+        {
+            "shortDescription": "Welche Information kann von einem Zurrpunktschild abgelesen werden?",
+            "description": "Die zulässige Zugkraft der Zurrpunkte"
+        },
+        {
+            "shortDescription": "Wo sollte in einem Lkw der Ladungsschwerpunkt liegen?",
+            "description": "Der Ladungsschwerpunkt solle möglichst immer auf der Längsmittellinie der Ladefläche des Fahrzeugs liegen und so niedrig wie möglich gehalten werden."
+        },
+        {
+            "shortDescription": "Wie wird der Gesamtschwerpunkt berechnet?",
+            "description": "[(Gewicht der Teilladung 1 • Schwerpunktabstand zur Stirnwand) + (Gewicht der Teilladung 2 • Schwerpunktabstand zur Stirnwand) + (Gewicht der Teilladung 3 • Schwerpunktabstand zur Stirnwand)] : Gewicht aller Teilladungen"
+        },
+        {
+            "shortDescription": "Nennen Sie drei Gründe für die Erstellung eines Stauplans.",
+            "description": "• platzsparende Güterverladung\n• besser Auslastung des Transportmittels\n• verkürzte Verladezeiten durch richtige Reihenfolge\n• erleichtert Planung, Vorbereitung und Durchführung der Ladungssicherung"
+        },
+        {
+            "shortDescription": "Wo kann man ablesen, ob die Lastverteilung auf dem Lkw zulässig ist?",
+            "description": "Im Lastverteilungsdiagramm"
+        },
+        {
+            "shortDescription": "Welche drei grundsätzlichen Möglichkeiten der Ladungssicherung können unterschieden werden?",
+            "description": "Möglichkeiten der Ladungssicherung:\n• formschlüssige Ladungssicherung\n• kraftschlüssige Ladungssicherung\n• Kombination aus Kraft- und Formschluss"
+        },
+        {
+            "shortDescription": "Nennen Sie zwei Möglichkeiten der formschlüssigen Ladungssicherung.",
+            "description": "Möglichkeiten der formschlüssigen Ladungssicherung:\n• Anlegen bzw. Festsetzen der Ladung\n• Direktzurren\n-> Diagonalzurren\n-> Schrägzurren\n-> Schlingenzurren"
+        },
+        {
+            "shortDescription": "Was versteht man unter formschlüssiger Ladungssicherung?",
+            "description": "Formschlüssige Ladungssicherung liegt vor, wenn die Ladung lückenlos verladen wird bzw. mit Zurrmitteln in Position gehalten wird und somit nicht mehr verrutschen kann."
+        },
+        {
+            "shortDescription": "Wie viele Zurrgurte werden mindestens für ein Diagonalzurren benötigt?",
+            "description": "Es werden mindestens vier Zurrgurte benötigt. Jeder Zurrgurt sichert eine Ecke des Ladegutes."
+        },
+        {
+            "shortDescription": "Wann wird das Schlingenzurren bzw. die Kopfschlinge zur Ladungssicherung angewendet?",
+            "description": "Das Schlingenzurren bzw. die Kopfschlinge wird angewendet, wenn die Ladung keine Zurrpunkte hat, in die die Zurrmittel eingehängt werden können."
+        },
+        {
+            "shortDescription": "Was versteht man unter kraftschlüssiger Ladungssicherung?",
+            "description": "Kraftschlüssige Ladungssicherung liegt vor, wenn die Ladung auf die Ladefläche gepresst wird (z.B. beim Niederzurren) und die Reibungskraft dadurch erhöht wird."
+        },
+        {
+            "shortDescription": "Was ist die Vorspannkraft?",
+            "description": "Die Anpresskraft, die durch das Spannen der Zurrmittel entsteht. Sie erhöht die Reibung zwischen Ladung und Ladefläche."
+        },
+        {
+            "shortDescription": "Nennen Sie 5 Dokumente, die ein LKW-Fahrer bei einem nationalen Transport bei einer Kontrolle vorzeigen muss.",
+            "description": "• Personalausweis\n• Führerschein\n• Fahrzeugschein\n• Anhängerschein\n• Erlaubnis oder EU-Lizenz\n• Warenbegleitpapiere (Lieferschein, Frachtbrief)\n• digitale Fahrerkarte (Aufzeichnung Fahrerzeit)"
+        },
+        {
+            "shortDescription": "Wie wird die Vorspannkraft berechnet?",
+            "description": "[(Sicherungsfaktor{0,8/0,5} - Gleitreibwert µ) : Gleitreibwert µ] • (Ladungsgewicht in daN : Korrekturfaktor 1,5)"
+        },
+        {
+            "shortDescription": "Nennen Sie drei Punkte, die beim Niederzurren zu beachten sind.",
+            "description": "z.B.\n• Ladungssicherung durch Niederzurren eignet sich nur für formstabile Güter\n• Kantengleiter sollten verwendet werden\n• die Spannelemente (Ratschen) sollten wechselseitig angebracht werden\n• alle Ladungsteile müssen durch die Zurrmittel erfasst werden\n• ein frei stehendes Ladegut sollte durch mindestens zwei Zurrmittel gesichert werden"
+        },
+        {
+            "shortDescription": "Wie können große Papierrollen gegen Rollbewegungen auf dem Lkw gesichert werden?",
+            "description": "Sie können in einer Coilmulde oder mithilfe von Keilen fixiert werden. Zusätzlich können noch Zurrgurte zur Ladungssicherung verwendet werden. Außerdem können Antirutschmatten untergelegt werden, um die Reibung zu erhöhen."
+        },
+        {
+            "shortDescription": "Nennen Sie die Bestandteile eines Zurrgurts.",
+            "description": "• Spannmittel (Gurt)\n• Spannelement (Ratsche)\n• Befestigungselement"
+        },
+        {
+            "shortDescription": "Was bedeutet der Begriff Ablegereife bei Zurrmitteln?",
+            "description": "Die Ablegereife beschreibt den Zustand von Ladungssicherungsmitteln, bei dem durch Abnutzungserscheinungen (Einschnitte, Brüche oder Verschleiß in Abhängigkeit zur Materialstärke) eine Verwendung nicht mehr vorgenommen werden darf."
+        },
+        {
+            "shortDescription": "Nennen Sie zwei Kriterien, die dazu führen, dass Zurrgurte abzulegen sind.",
+            "description": "z.B.\n• übermäßige Scheuerstellen\n• Garnbrüche oder -einschnitte von mehr als 10 %\n• Beschädigungen tragender Nähte\n• Verformung des Gurtes durch Wärmeeinfluss\n• Verschleiß, Brüche oder Korrosion an Spann- oder Befestigungselementen\n• Aufweitung des Hakenmauls um mehr als 5 %"
+        },
+        {
+            "shortDescription": "Nennen Sie drei Kriterien, die beim Einsatz von Zurrgurten zu beachten sind.",
+            "description": "z.B.\n• Zurrgurte dürfen nur bis zu der auf dem Etikett angegebenen Zurrkraft beansprucht werden\n• es dürfen nur unbeschädigte Zurrgurte verwendet werden\n• vor und nach jedem Einsatz ist ein Sichtprüfung durchzuführen\n• es dürfen nur Zurrgurte mit gut lesbarem Etikett verwendet werden\n• Zurrgurte dürfen nicht geknotet werden"
+        },
+        {
+            "shortDescription": "Nennen Sie drei Angaben auf dem Etikett eines Zurrgurts.",
+            "description": "• LC (Lashing Capacity) = zulässige Zurrkraft\n• STF (Standard Tension Force) = Vorspannkraft\n• SHF (Standard Hand Force) = normale Handkraft\n• Hersteller\n• Fertigungsdatum\n• Rückverfolgbarkeitscode\n• Vermerk: nicht heben, nur zurren!"
+        },
+        {
+            "shortDescription": "Nennen Sie zwei Gründe für den Einsatz von Kantenschonern bei der Ladungssicherung.",
+            "description": "z.B.\n• Kantenschoner vermindern die Reibung an den Zurrmitteln\n• Kantenschoner ermöglichen eine gleichmäßigere Verteilung der Vorspannkraft auf beiden Seiten der Ladung\n• Kantenschoner schützen das Ladegut vor Druckstellen"
+        },
+        {
+            "shortDescription": "Nennen Sie drei Einrichtungen zur Ladungssicherung.",
+            "description": "• Zurrpunkte\n• Loch- und Ankerschienen\n• Coilmulden"
+        },
+        {
+            "shortDescription": "Nennen Sie drei Zurrmittel.",
+            "description": "• Zurrgurt\n• Zurrketten\n• Zurrdrahtseil"
+        },
+        {
+            "shortDescription": "Nennen Sie drei sonstige Hilfsmittel zur Ladungssicherung.",
+            "description": "• Kantenschoner\n• Netze und Planen\n• Keile, Festlegehölzer und Holzkonstruktionen\n• Stausäcke\n• Rutschhemmende Materialien\n• Twistlock"
+        },
+        {
+            "shortDescription": "Was sind Twistlocks?",
+            "_shortDescriptionTtsUrl": "/tts/de.mp3?v=9&b=V2FzIHNpbmQgVHdpc3Rsb2Nrcz8&s=vEAGus2j",
+            "description": "Twistlocks sind Verriegelungen, die Wechselbehälter oder ISO-Container untereinander und/oder mit dem Trägerfahrzeug verbinden."
+        },
+        {
+            "shortDescription": "Nennen Sie drei Angaben, die Sie der CSC-Plakette entnehmen können.",
+            "description": "z.B.\n• Zulassungsland\n• Herstellungsdatum\n• Identifikationsnummer des Herstellers\n• zulässiges Bruttogewicht\n• zulässiges Stapelungsgewicht bei 1,8 G\n• Belastungswert bei Querverwindung"
+        },
+        {
+            "shortDescription": "Nennen Sie drei Kriterien, die beim Container-Check außen zu überprüfen sind.",
+            "description": "z.B.\n• Ist der Rahmen unversehrt?\n• Sind die Wände, der Boden und das Dach in einem guten Zustand und haben sie z.B. keine Risse, Löcher oder Verformungen?\n• Lassen sich die Türen einfach bedienen und ordnungsgemäß verschließen und verplomben?\n• Hat der Container ein CSC-Zulassungsschild?\n• Wurden alle Markierungen entfernt?"
+        },
+        {
+            "shortDescription": "Nennen Sie drei Kriterien, die beim Container-Check innen zu überprüfen sind.",
+            "description": "z.B.\n• Ist der Container wasserdicht?\n• Ist der Boden in gutem Zustand und frei von hervorstehenden Nägeln etc.?\n• Sind Verformungen oder sonstige Beschädigungen an den Innenwänden und der Decke erkennbar?\n• Ist der Container trocken?\n• Ist der Container sauber, frei von Ladungsrückständen und geruchsneutral?\n• Sind Laschaugen oder Laschringe zur Befestigung der Ladung vorhanden?"
+        },
+        {
+            "shortDescription": "Nennen Sie drei Kriterien, die nach der Beladung eines Containers geprüft werden sollten.",
+            "description": "z.B.\n• das Ladungsgewicht sollte möglichst gleichmäßig verteilt sein\n• der Container darf nicht überladen sein\n• die Ladung muss ausreichend gesichert sein\n• für z.B. Zollinspektionen muss eine Kopie der Packliste an einer gut sichtbaren Stelle im Container platziert sein\n• die Türen und Dachabdeckungen müssen sorgfälltig verschlossen werden"
+        },
+        {
+            "shortDescription": "Was sind gefährliche Güter?",
+            "description": "Gefährliche Güter sind Stoffe, die im öffentlichen Verkehrsraum (Straße, Schiene, Luftverkehr, Binnen- und Seeschifffahrt) befördert werden und von denen eine Gefahr für Menschen, Tiere, Umwelt, Sachgüter oder die öffentliche Sicherheit und Ordnung ausgeht."
+        },
+        {
+            "shortDescription": "Was regelt das Gefahrgutbeförderungsgesetz?",
+            "description": "Das Gefahrgutbeförderungsgesetz regelt in allgemeiner Form in Deutschland die Beförderung gefährlicher Güter mit verschiedenen Verkehrsträgern."
+        },
+        {
+            "shortDescription": "Nennen Sie die Dokumente, die bei einem Gefahrguttransport mitzuführen sind (mehr als 1000 Punkte).",
+            "description": "• Beförderungspapier (UN-Nr., Benennung Stoff, VG)\n• Schriftliche Weisung\n• ADR-Schulungsbescheinigung\n• Lichtbildausweis (für jedes Mitglied der Besatzung)\n• ADR-Zulassungsbescheinigung (Eignung des Fahrzeugs)"
+        },
+        {
+            "shortDescription": "Welche Befreiungen gibt es bei einem Gefahrguttransport mit unter 1000 Punkten?",
+            "description": "• Schriftliche Weisung nicht erforderlich\n• orangefarbene Tafeln nicht erforderlich\n• ADR-Schulungsbescheinigung nicht erforderlich, Fahrer muss trotzdem unterwiesen sein\n• Ausrüstung entfällt, bis auf einen 2 kg Feuerlöscher"
+        },
+        {
+            "shortDescription": "Nennen Sie die nationalen Gefahrgutverordnungen für\n- den Straßengüterverkehr\n- den Bahnverkehr\n- die Binnenschifffahrt\n- die Seeschifffahrt\n- die Luftfahrt",
+            "description": "Nationale Gefahrgutverordnungen:\n• Straße, Eisenbahn und Binnenschiff: GGVSEB (Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt)\n• Seeschiff: GGVSee (Gefahrgutverordung See)\n• Flugzeug: IATA-DGR und ICAO-TI (weltweit gültige Vorschriften für Gefahrguttransporte im Luftverkehr)"
+        },
+        {
+            "shortDescription": "Nennen Sie die internationalen Gefahrgutverordnungen für\n- den Straßengüterverkehr\n- den Bahnverkehr\n- die Binnenschifffahrt\n- die Seeschifffahrt\n- die Luftfahrt",
+            "description": "Internationale Gefahrgutveordnungen:\n• Straße: ADR\n• Eisenbahn: RID\n• Binnenschiff: ADN\n• Seeschiff: IMDG-Code\n• Flugzeug: IATA-DGR und ICAO-TI"
+        },
+        {
+            "shortDescription": "Nennen Sie drei Aufgaben eines Gefahrgutbeauftragten.",
+            "description": "z.B.\n• Überwachung der Einhaltung der Gefahrgutvorschriften\n• Anzeige von Mängeln, die die Sicherheit der Gefahrgutbeförderung beeinträchtigen können\n• Beratung des Unternehmers\n• Schulung von Mitarbeitern\n• Erstellung eines Unfallberichtes nach einem Unfall mit Gefahrgut"
+        },
+        {
+            "shortDescription": "Nennen Sie drei Informationen, die eine schriftliche Weisung enthalten muss.",
+            "description": "z.B.\n• das Gefahrgut (mit Abbildung der Gefahrzettel)\n• seine Gefahreneigenschaften\n• die erforderliche Ausrüstung für den Transport\n• einzuleitende Maßnahmen bei Unfällen oder Zwischenfällen"
+        },
+        {
+            "shortDescription": "Wie muss ein Container, in dem sich Versandstücke mit Gefahrgütern oder Gefahrgüter in loser Schüttung befinden, gekennzeichnet werden?",
+            "description": "Er muss an allen vier Seiten mit Großzetteln gekennzeichnet sein."
+        },
+        {
+            "shortDescription": "Wie muss ein Fahrzeuge gekennzeichnet werden, die gefährliche Güter in Tanks oder in loser Schüttung transportieren?",
+            "description": "Mit orangefarbenen Tafeln.\nOben = Nummer zur Kennzeichnung der Gefahr\nUnten = UN-Nummer"
+        },
+        {
+            "shortDescription": "Nennen Sie drei Regeln, die beim Be- und Entladen von Gefahrgutfahrzeugen zu beachten sind.",
+            "description": "z.B. \n• vor dem Be- und Entladen müssen die Fahrzeugbesatzung, das Fahrzeug, die Beförderungsmittel und die Papiere kontrolliert werden\n• Versandstücke mit gefährlichen Stoffen dürfen nicht geöffnet werden\n• beschädigte/unvollständige Versandstücke fürfen nicht verladen werden\n• beim Be- und Entladen ist der Motor abzustellen"
+        },
+        {
+            "shortDescription": "Was ist die IMO-Erklärung?",
+            "description": "Die IMO-Erklärung ist das Beförderungspapier für gefährliche Güter auf See."
+        },
+        {
+            "shortDescription": "Was sind die NOTOC-Papiere?",
+            "description": "NOTOC-Papiere (Notification To Captain) sind Beförderungspapiere im Luftverkehr. Sie enthalten Informationen über die Art und die Position der geladenen Gefahrgüter im Flugzeug."
+        }
+    ]
+}
