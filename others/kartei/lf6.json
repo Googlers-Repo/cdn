@@ -5,11 +5,11 @@
     "karten": [
         {
             "shortDescription": "Nennen Sie drei Vorteile von Verpackungen.",
-            "description": "z.B.\n• schützen vor Verderb und Qualitätseinbußen\n• ermöglichen Sebstbedienungssysteme\n• unterstützen eine rationelle Lagerung, Be- und Entladung sowie einen effizienten Transport der Produkte\n• schützen die Produkte\n• enthalten wichtige Informationen über das Produkt"
+            "description": "z.B.\n- schützen vor Verderb und Qualitätseinbußen\n- ermöglichen Sebstbedienungssysteme\n- unterstützen eine rationelle Lagerung, Be- und Entladung sowie einen\neffizienten Transport der Produkte\n- schützen die Produkte\n- enthalten wichtige Informationen über das Produkt"
         },
         {
             "shortDescription": "Nennen Sie drei Nachteile von Verpackungen.",
-            "description": "z.B.\n• erhöhen den Endpreis der Produkte\n• benötigen für ihre Herstellung wertvolle Rohstoffe\n• verursachen Kosten bei Entsorgung\n• täuschen mitunter den Käufer hinsichtlich Wert, Inhalt und Beschaffenheit des Produktes\n• belasten durch ihre Herstellung und Entsorgung die Umwelt"
+            "description": "z.B.\n- erhöhen den Endpreis der Produkte\n- benötigen für ihre Herstellung wertvolle Rohstoffe\n- verursachen Kosten bei Entsorgung\n- täuschen mitunter den Käufer hinsichtlich Wert, Inhalt und\nBeschaffenheit des Produktes\n- belasten durch ihre Herstellung und Entsorgung die Umwelt"
         },
         {
             "shortDescription": "Erklären Sie, was man unter einem Packstück versteht.",
@@ -25,191 +25,191 @@
         },
         {
             "shortDescription": "Erklären Sie, was man unter einem Packhilfsmittel versteht.",
-            "description": "Packhilfsmittel sind Materialien, die das Packmittel ergänzen, ausfüllen, sichern und die Festigkeit der Packmittel ermöglichen bzw. erhöhen."
+            "description": "Packhilfsmittel sind Materialien, die das Packmittel ergänzen, ausfüllen,\nsichern und die Festigkeit der Packmittel ermöglichen bzw. erhöhen."
         },
         {
             "shortDescription": "Nennen Sie drei verschiedene Packstoffe.",
-            "description": "z.B.\n• Holz\n• Kunststoff\n• Pappe\n• Metall\n• Glas"
+            "description": "z.B.\n- Holz\n- Kunststoff\n- Pappe\n- Metall\n- Glas"
         },
         {
             "shortDescription": "Erklären Sie, was ein Verbundpackmittel ist.",
-            "description": "Verbundpackmittel bestehen aus mehreren Packstoffen, die nicht von Hand trennbar sind."
+            "description": "Verbundpackmittel bestehen aus mehreren Packstoffen, die nicht von Hand\ntrennbar sind."
         },
         {
             "shortDescription": "Nennen Sie die Funktionen der Verpackung.",
-            "description": "Funktionen der Verpackung:\n• Schutzfunktion\n• Informationsfunktion\n• Lagerfunktion\n• Verkaufsfunktion\n• Lade- und Transportfunktion"
+            "description": "Funktionen der Verpackung:\n- Schutzfunktion\n- Informationsfunktion\n- Lagerfunktion\n- Verkaufsfunktion\n- Lade- und Transportfunktion"
         },
         {
             "shortDescription": "Erklären Sie den Zusammenhang zwischen Packung, Packgut und Verpackung.",
             "description": "Packung = Packgut + Verpackung"
         },
         {
-            "shortDescription": "Die Verpackung hat eine Schutzfunktion. Was und wen soll die Verpackung schützen?",
-            "description": "Menschen, Umwelt, Transportmittel, andere Packgüter und das eigentliche Packgut"
+            "shortDescription": "Die Verpackung hat eine Schutzfunktion. Was und wen soll die Verpackung\nschützen?",
+            "description": "Menschen, Umwelt, Transportmittel, andere Packgüter und das eigentliche\nPackgut"
         },
         {
-            "shortDescription": "Verpackungen ermöglichen eine einfachere und schnellere Be- und Entladung. Erklären Sie dies mit einem passenden Beispiel.",
-            "description": "z.B.\n70 Kartons müssen in einen Lkw verladen werden. Werden die Kartons auf eine Palette gepackt, reduzieren sich der Weg und die Dauer der Beladung."
+            "shortDescription": "Verpackungen ermöglichen eine einfachere und schnellere Be- und Entladung.\nErklären Sie dies mit einem passenden Beispiel.",
+            "description": "z.B.\n\n70 Kartons müssen in einen Lkw verladen werden. Werden die Kartons auf\neine Palette gepackt, reduzieren sich der Weg und die Dauer der Beladung."
         },
         {
-            "shortDescription": "Nennen Sie vier Informationen, die auf Verpackungen angebracht werden können.",
-            "description": "z.B.\n• Mindesthalbbarkeitsdatum\n• Hersteller\n• Zutaten\n• Zubereitungshinweise\n• Gewicht\n• Gefährlichkeit\n• Preis\n• Barcode"
+            "shortDescription": "Nennen Sie vier Informationen, die auf Verpackungen angebracht werden\nkönnen.",
+            "description": "z.B.\n- Mindesthalbbarkeitsdatum\n- Hersteller\n- Zutaten\n- Zubereitungshinweise\n- Gewicht\n- Gefährlichkeit\n- Preis\n- Barcode"
         },
         {
-            "shortDescription": "Erklären Sie, warum eine Gitterbox ein gutes Beispiel für die Lagefunktion der Verpackung ist.",
-            "description": "• Gitterboxen lassen sich gut stapeln\n-> gute Raumausnutzung\n• Ware, die nicht gestapelt werden kann, wird so stapelbar\n• Gitterboxen ermöglichen mehr Übersichtlichkeit im Lager\n• Gitterboxen nehmen viele Teile auf\n-> schnelles Ein- und Auslagern größerer Mengen"
+            "shortDescription": "Erklären Sie, warum eine Gitterbox ein gutes Beispiel für die Lagefunktion\nder Verpackung ist.",
+            "description": "- Gitterboxen lassen sich gut stapeln\n  - gute Raumausnutzung\n- Ware, die nicht gestapelt werden kann, wird so stapelbar\n- Gitterboxen ermöglichen mehr Übersichtlichkeit im Lager\n- Gitterboxen nehmen viele Teile auf\n  - schnelles Ein- und Auslagern größerer Mengen"
         },
         {
-            "shortDescription": "Nennen Sie drei verschiedene Beanspruchungen, denen Verpackungen unterliegen.",
-            "description": "z.B.\n• mechanische Beanspruchung durch Schub, Stoß, Fall, Druck und Erschütterung\n• Beanspruchung durch Diebstahl\n• Beanspruchung durch Lebewesen\n• klimatische Beanspruchung"
+            "shortDescription": "Nennen Sie drei verschiedene Beanspruchungen, denen Verpackungen\nunterliegen.",
+            "description": "z.B.\n- mechanische Beanspruchung durch Schub, Stoß, Fall, Druck und\nErschütterung\n- Beanspruchung durch Diebstahl\n- Beanspruchung durch Lebewesen\n- klimatische Beanspruchung"
         },
         {
             "shortDescription": "Welche Verpackungsmaßnahmen können die Ware gegen Diebstahl schützen?\nBeschreiben Sie drei Möglichkeiten.",
-            "description": "z.B.\n• Verschluss durch Plomben, Schlösser, Sicherheitsband\n• Verwendung schwarzer Stretchfolie (Sichtschutz und Entnahmeerschwerung)\n• Verwendung stabiler und unauffälliger Verpackungen"
+            "description": "z.B.\n- Verschluss durch Plomben, Schlösser, Sicherheitsband\n- Verwendung schwarzer Stretchfolie (Sichtschutz und Entnahmeerschwerung)\n- Verwendung stabiler und unauffälliger Verpackungen"
         },
         {
-            "shortDescription": "Nennen Sie zwei vorbeugende Maßnahmen bei Beanspruchungen durch Erschütterungen.",
-            "description": "z.B.\n• Folienumhüllungen oder Umreifungen\n• Verbundstapelung\n• Festzurren und Verkeilen der Packstücke\n• Anbringung luftgefederter Dämpfungselemente\n• Leerräume in Packmitteln ausfüllen"
+            "shortDescription": "Nennen Sie zwei vorbeugende Maßnahmen bei Beanspruchungen durch\nErschütterungen.",
+            "description": "z.B.\n- Folienumhüllungen oder Umreifungen\n- Verbundstapelung\n- Festzurren und Verkeilen der Packstücke\n- Anbringung luftgefederter Dämpfungselemente\n- Leerräume in Packmitteln ausfüllen"
         },
         {
             "shortDescription": "Nennen Sie zwei verschiedene klimatische Beanspruchungen.",
-            "description": "z.B.\n• extreme Klimabedingungen der unterschiedlichen Klimazonen\n• Witterungseinflüsse: Hitze, Kälte, Regen, Sonne, Schnee, Nebel\n•Schwitzwasserbildung\n• Kondenswasserbildung"
+            "description": "z.B.\n- extreme Klimabedingungen der unterschiedlichen Klimazonen\n- Witterungseinflüsse: Hitze, Kälte, Regen, Sonne, Schnee, Nebel\n-Schwitzwasserbildung\n- Kondenswasserbildung"
         },
         {
-            "shortDescription": "Nennen Sie drei Schäden, die durch klimatische Beanspruchung entstehen können.",
-            "description": "z.B.\n• Qualitätsverlust\n• Verderb\n• Gärung\n• Korrosion\n• Frostrisse\n• Verdunstung\n• Verfärbung"
+            "shortDescription": "Nennen Sie drei Schäden, die durch klimatische Beanspruchung entstehen\nkönnen.",
+            "description": "z.B.\n- Qualitätsverlust\n- Verderb\n- Gärung\n- Korrosion\n- Frostrisse\n- Verdunstung\n- Verfärbung"
         },
         {
-            "shortDescription": "Welche Möglichkeiten gibt es, Schäden durch klimatische Beanspruchung zu verhindern?\nGeben Sie drei Beispiele.",
-            "description": "z.B.\n• Verwendung von Packmitteln, die den klimatischen Anforderungen entsprechen, z.B. Kühlcontainer\n• Verwendung luftdurchlässiger Verpackungen aus Holz oder Pappe\n• Verwendung wasserabweisender Papiere, z.B. Ölpapier\n• Korrosionsschutzbehandlung\n• Verwendung von Trockenmitteln"
+            "shortDescription": "Welche Möglichkeiten gibt es, Schäden durch klimatische Beanspruchung zu\nverhindern?\n\nGeben Sie drei Beispiele.",
+            "description": "z.B.\n- Verwendung von Packmitteln, die den klimatischen Anforderungen\nentsprechen, z.B. Kühlcontainer\n- Verwendung luftdurchlässiger Verpackungen aus Holz oder Pappe\n- Verwendung wasserabweisender Papiere, z.B. Ölpapier\n- Korrosionsschutzbehandlung\n- Verwendung von Trockenmitteln"
         },
         {
-            "shortDescription": "Was sollte man verbeugend tun, wenn man damit rechnet, dass es bei der Lagerung zur Beanspruchung durch Lebewesen kommen kann.\nNennen Sie zwei Vorbeugemaßnahmen.",
-            "description": "z.B.\n• absolute Sauberkeit im Lager\n• Ordnung im Lager, um Spuren, die Lebewesen hinterlassen, erkennen zu können\n• Schutzmittel verwenden\n• schützende Verpackungen auswählen"
+            "shortDescription": "Was sollte man verbeugend tun, wenn man damit rechnet, dass es bei der\nLagerung zur Beanspruchung durch Lebewesen kommen kann.\n\nNennen Sie zwei Vorbeugemaßnahmen.",
+            "description": "z.B.\n- absolute Sauberkeit im Lager\n- Ordnung im Lager, um Spuren, die Lebewesen hinterlassen, erkennen zu\nkönnen\n- Schutzmittel verwenden\n- schützende Verpackungen auswählen"
         },
         {
             "shortDescription": "Was versteht man unter einer Beanspruchung durch Schub?",
-            "description": "Beanspruchungen durch Schub entstehen durch plötzliches Abstoppen, schnelles Anfahren oder Abbremsen, Verrutschen an Steigungen oder Gefälle"
+            "description": "Beanspruchungen durch Schub entstehen durch plötzliches Abstoppen,\nschnelles Anfahren oder Abbremsen, Verrutschen an Steigungen oder Gefälle"
         },
         {
-            "shortDescription": "Nennen Sie zwei Maßnahmen, die die Beanspruchungen durch Schub abmildern können.",
-            "description": "z.B. \n• Packgüter ausreichend festzurren und verkeilen\n• Verbundstapelung\n• Leerräume in Packmitteln ausfüllen\n• Leerräume in den Transportmitteln vermeiden bzw. ausfüllen, z.B. mit Luftsäcken\n• Folienumhüllungen und Umreifungen"
+            "shortDescription": "Nennen Sie zwei Maßnahmen, die die Beanspruchungen durch Schub abmildern\nkönnen.",
+            "description": "z.B. \n- Packgüter ausreichend festzurren und verkeilen\n- Verbundstapelung\n- Leerräume in Packmitteln ausfüllen\n- Leerräume in den Transportmitteln vermeiden bzw. ausfüllen, z.B. mit\nLuftsäcken\n- Folienumhüllungen und Umreifungen"
         },
         {
-            "shortDescription": "Nennen Sie zwei Maßnahmen, die die Beanspruchung durch Stoß abmildern können.",
-            "description": "z.B. \n• beim Stapeln, Lagern und Transportieren umsichtig handeln\n• Personal gut ausbilden\n• ausreichend breite und übersichtliche Fahrwege/Durchlässe schaffen\n• Leerräume in Packmitteln verwenden\n• stabile Packmittel verwenden\n• Folienumhüllungen/Umreifungen\n• Stoß-/Kippindikatoren anbringen"
+            "shortDescription": "Nennen Sie zwei Maßnahmen, die die Beanspruchung durch Stoß abmildern\nkönnen.",
+            "description": "z.B. \n- beim Stapeln, Lagern und Transportieren umsichtig handeln\n- Personal gut ausbilden\n- ausreichend breite und übersichtliche Fahrwege/Durchlässe schaffen\n- Leerräume in Packmitteln verwenden\n- stabile Packmittel verwenden\n- Folienumhüllungen/Umreifungen\n- Stoß-/Kippindikatoren anbringen"
         },
         {
             "shortDescription": "Nennen Sie zwei Ursachen für eine Beanspruchung durch Druck.",
-            "description": "z.B.\n• Stapelung von schweren Gütern auf leichte Güter\n• ruckartiges Anheben\n• Verwendung falscher Lastaufnahmemittel bzw. falsches Ansetzen der Lastaufnahmemittel\n• ungleichmäßige Lastverteilung beim Stapeln (Punktbelastung)"
+            "description": "z.B.\n- Stapelung von schweren Gütern auf leichte Güter\n- ruckartiges Anheben\n- Verwendung falscher Lastaufnahmemittel bzw. falsches Ansetzen der\nLastaufnahmemittel\n- ungleichmäßige Lastverteilung beim Stapeln (Punktbelastung)"
         },
         {
-            "shortDescription": "Sie sehen die Kennzeichnung \"IPPC\" auf einer Holzpalette. Wo befindet sich diese Kennzeichnung? Was erfahren Sie durch diese Kennzeichnung?",
-            "description": "Die IPPC-Kennzeichnung befindet sich am mittleren Klotz der Holzpalette und bedeutet, dass die Palette zum Schutz von Pflanzen gegen Schädlinge behandelt wurde."
+            "shortDescription": "Sie sehen die Kennzeichnung \"IPPC\" auf einer Holzpalette. Wo befindet sich\ndiese Kennzeichnung? Was erfahren Sie durch diese Kennzeichnung?",
+            "description": "Die IPPC-Kennzeichnung befindet sich am mittleren Klotz der Holzpalette\nund bedeutet, dass die Palette zum Schutz von Pflanzen gegen Schädlinge\nbehandelt wurde."
         },
         {
             "shortDescription": "Nennen Sie drei Vorteile von Packmitteln aus Holz.",
-            "description": "z.B.\n• Holz ist ein nachwachsender Rohstoff\n• Holz ist ein einheimischer Rohstoff\n• Packmittel aus Holz sind sehr stabil\n• Packmittel aus Holz können für jedes Packgut individuell angefertigt und nach Gebrauch ohne Probleme entsorgt werden"
+            "description": "z.B.\n- Holz ist ein nachwachsender Rohstoff\n- Holz ist ein einheimischer Rohstoff\n- Packmittel aus Holz sind sehr stabil\n- Packmittel aus Holz können für jedes Packgut individuell angefertigt und\nnach Gebrauch ohne Probleme entsorgt werden"
         },
         {
             "shortDescription": "Nennen Sie drei Vorteile von Packmitteln aus Metall und Kunststoff.",
-            "description": "z.B.\n• sie sind sehr stabil\n• sie haben eine lange Haltbarkeit und damit verbunden eine lange Nutzungsdauer\n• sie sind leicht zu reinigen\n• sie sind umweltfreundlich, da sie mehrfach verwendbar sind\n• sie unterliegen keinerlei Einfuhrbeschränkungen"
+            "description": "z.B.\n- sie sind sehr stabil\n- sie haben eine lange Haltbarkeit und damit verbunden eine lange\nNutzungsdauer\n- sie sind leicht zu reinigen\n- sie sind umweltfreundlich, da sie mehrfach verwendbar sind\n- sie unterliegen keinerlei Einfuhrbeschränkungen"
         },
         {
             "shortDescription": "Nennen Sie drei Vorteile von Packmitteln aus Papier, Karton und Pappe.",
-            "description": "z.B.\n• geringe Anschaffungskosten\n• sparen Transport- und Lagerkosten, da flach zusammenlegbar\n• sind leicht und trotzdem stabil\n• hohe Informations- und Werbewirksamkeit, da sehr gut bedruckbar\n• mehrfach wiederverwendbar\n• problemlos entsorg- und recycelbar"
+            "description": "z.B.\n- geringe Anschaffungskosten\n- sparen Transport- und Lagerkosten, da flach zusammenlegbar\n- sind leicht und trotzdem stabil\n- hohe Informations- und Werbewirksamkeit, da sehr gut bedruckbar\n- mehrfach wiederverwendbar\n- problemlos entsorg- und recycelbar"
         },
         {
-            "shortDescription": "Nennen Sie je zwei Beispiele für Packmittel aus Holz, Kunststoff und Pappe/Karton.",
+            "shortDescription": "Nennen Sie je zwei Beispiele für Packmittel aus Holz, Kunststoff und\nPappe/Karton.",
             "description": "Holz:\nz.B. Flachpalette, Verschlag, Kiste\nKunststoff:\nz.B. Palette, Faltbehälter, Drehstapelbehälter\nPappe/Karton:\nz.B. Schachtel, Steige, faltbarer Palettenbehälter"
         },
         {
             "shortDescription": "Nennen Sie ein technisches Hilfsgerät für Paletten.",
-            "description": "• Palettenumladegeräte und -stationen\n• Palettensammler"
+            "description": "- Palettenumladegeräte und -stationen\n- Palettensammler"
         },
         {
             "shortDescription": "Nennen Sie drei Arten von Kisten.",
-            "description": "• geschlossene Kisten (Inlandskisten, Seekisten)\n• zusammenlegbare Kisten\n• Steigen, Harasse\n• Verschläge\n• Holz-Aufsetzrahmen\n• Kantholzkonstruktion"
+            "description": "- geschlossene Kisten (Inlandskisten, Seekisten)\n- zusammenlegbare Kisten\n- Steigen, Harasse\n- Verschläge\n- Holz-Aufsetzrahmen\n- Kantholzkonstruktion"
         },
         {
             "shortDescription": "Nennen Sie drei Arten von Kleinbehältern.",
-            "description": "• stapelbare Behälter\n• falt- und klappbare Behälter\n• Collico\n• nestbare Behälter (inneinanderstellen im Leerzustand, stapelbar wenn voll)\n• Euro-Behälter"
+            "description": "- stapelbare Behälter\n- falt- und klappbare Behälter\n- Collico\n- nestbare Behälter (inneinanderstellen im Leerzustand, stapelbar wenn\nvoll)\n- Euro-Behälter"
         },
         {
-            "shortDescription": "Nennen Sie zwei typische Beispiele für Produkte, die in Steigen verpackt werden.",
+            "shortDescription": "Nennen Sie zwei typische Beispiele für Produkte, die in Steigen verpackt\nwerden.",
             "description": "z.B. Obst, Gemüse"
         },
         {
-            "shortDescription": "Erklären Sie, warum EUR-Behälter immer mit EUR-Paletten verwendet werden sollten.",
+            "shortDescription": "Erklären Sie, warum EUR-Behälter immer mit EUR-Paletten verwendet werden\nsollten.",
             "description": "Sie sind in ihren Maßen genau auf die EUR-Flachpalette zugeschnitten."
         },
         {
-            "shortDescription": "Erklären Sie, warum der Collico besonders geeignet ist für Güter, die feuchtigkeitsempfindlich, druckempfindlich und diebstahlgefährdet sind.",
-            "description": "Der Collico ist ein sehr stabiler, geschlossener Behälter. Zusatzaustattungen wie Schlösser und Plomben erhöhen den Diebstahlschutz."
+            "shortDescription": "Erklären Sie, warum der Collico besonders geeignet ist für Güter, die\nfeuchtigkeitsempfindlich, druckempfindlich und diebstahlgefährdet sind.",
+            "description": "Der Collico ist ein sehr stabiler, geschlossener Behälter.\nZusatzaustattungen wie Schlösser und Plomben erhöhen den Diebstahlschutz."
         },
         {
             "shortDescription": "Nennen Sie die drei Arten von Fixierverpackungen.",
-            "description": "Fixierverpackungen:\n• Wellpappeschachtel mit Fixierfolie\n• Blisterverpackung\n• Skinverpackung"
+            "description": "Fixierverpackungen:\n- Wellpappeschachtel mit Fixierfolie\n- Blisterverpackung\n- Skinverpackung"
         },
         {
-            "shortDescription": "Nennen Sie die Maße einer EUR-Flachpalette, ihre Tara und ihre maximale Tragfähigkeit und Auflast.",
-            "description": "Länge 120 cm, Breite 80 cm, Höhe 15 cm\nTara 20 bis 24 kg\nmaximale Tragfähigkeit bei Punktbelastung 1000 kg, bei gleichförmiger und vollflächiger Belastung bis 2000 kg\nAuflast 4000 kg"
+            "shortDescription": "Nennen Sie die Maße einer EUR-Flachpalette, ihre Tara und ihre maximale\nTragfähigkeit und Auflast.",
+            "description": "Länge 120 cm, Breite 80 cm, Höhe 15 cm\n\nTara 20 bis 24 kg\n\nmaximale Tragfähigkeit bei Punktbelastung 1000 kg, bei gleichförmiger und\nvollflächiger Belastung bis 2000 kg\n\nAuflast 4000 kg"
         },
         {
             "shortDescription": "Nennen Sie drei Vorteile einer Holzpalette.",
-            "description": "z.B.\n• Ein- und Mehrwegpalette\n• äußerst stabil\n• preiswert in der Anschaffung\n• in fast allen Bereichen einsetzbar\n• leicht zu entsorgen\n• für den Transport stapelbarer oder schwerer Waren geeignet"
+            "description": "z.B.\n- Ein- und Mehrwegpalette\n- äußerst stabil\n- preiswert in der Anschaffung\n- in fast allen Bereichen einsetzbar\n- leicht zu entsorgen\n- für den Transport stapelbarer oder schwerer Waren geeignet"
         },
         {
             "shortDescription": "Nennen Sie drei Nachteile einer Kunststoffpalette.",
-            "description": "z.B.\n• nicht so stabil wie Holzpaletten\n• teilweise teurer in der Anschaffung als Holzpaletten\n• empfindlicher gegenüber Chemikalien als Holzpaletten\n• gesonderte Entsorgung erforderlich\n• nicht zu reparieren"
+            "description": "z.B.\n- nicht so stabil wie Holzpaletten\n- teilweise teurer in der Anschaffung als Holzpaletten\n- empfindlicher gegenüber Chemikalien als Holzpaletten\n- gesonderte Entsorgung erforderlich\n- nicht zu reparieren"
         },
         {
             "shortDescription": "Woran kann man erkennen, ob es sich um eine EUR-Flachpalette handelt?\nNennen Sie alle vier Merkmale.",
-            "description": "Merkmale einer EUR-Flachpalette:\n• EPAL-Kennzeichnung mit ovaler Umrandung am linken Klotz\n• Kennzeichnung des jeweiligen Unternehmens mit Umrandung, z.B. DB für Deutsche Bahn AG am mittleren Klotz\n• Güteprüfklammer am mittleren Klotz\n• EUR-Markenzeichen mit ovaler Umrandung am rechten Klotz"
+            "description": "Merkmale einer EUR-Flachpalette:\n- EPAL-Kennzeichnung mit ovaler Umrandung am linken Klotz\n- Kennzeichnung des jeweiligen Unternehmens mit Umrandung, z.B. DB für\nDeutsche Bahn AG am mittleren Klotz\n- Güteprüfklammer am mittleren Klotz\n- EUR-Markenzeichen mit ovaler Umrandung am rechten Klotz"
         },
         {
             "shortDescription": "Nennen Sie vier Palettenarten.",
-            "description": "z.B.\n• EUR-Palette\n• Chep-Palette\n• Industriepalette\n• Inka-Palette\n• Düsseldorfer-Palette"
+            "description": "z.B.\n- EUR-Palette\n- Chep-Palette\n- Industriepalette\n- Inka-Palette\n- Düsseldorfer-Palette"
         },
         {
             "shortDescription": "Nennen Sie drei Paletten mit Aufbau",
-            "description": "• Gitterboxpalette\n• Rungenpalette\n• Trays\n• Vollwandpalette\n• Palettenbox"
+            "description": "- Gitterboxpalette\n- Rungenpalette\n- Trays\n- Vollwandpalette\n- Palettenbox"
         },
         {
             "shortDescription": "Welche Vorteile ergeben sich bei der Verwendung von Paletten?\nNennen Sie drei Vorteile",
-            "description": "z.B.\n• die meisten Paletten sind sehr stabil, dadurch sinkt die Gefahr von Beschädigungen des Transport- und Lagergutes\n• Paletten sind sowohl für verpackte als auch für unverpackte Güter geeignet\n• kleine Güter sind durch das Palettieren zu großen Einheiten stapelbar\n• der Palettentausch im Palettenpool ist möglich"
+            "description": "z.B.\n- die meisten Paletten sind sehr stabil, dadurch sinkt die Gefahr von\nBeschädigungen des Transport- und Lagergutes\n- Paletten sind sowohl für verpackte als auch für unverpackte Güter\ngeeignet\n- kleine Güter sind durch das Palettieren zu großen Einheiten stapelbar\n- der Palettentausch im Palettenpool ist möglich"
         },
         {
             "shortDescription": "Nennen Sie die vier Containerarten.",
-            "description": "• Übersee-/ISO-Container\n• Binnencontainer\n• Wechselbehälter\n• Luftfracht-Container"
+            "description": "- Übersee-/ISO-Container\n- Binnencontainer\n- Wechselbehälter\n- Luftfracht-Container"
         },
         {
             "shortDescription": "Nennen Sie drei Überseecontainer.",
-            "description": "• Standard-Container\n• Hard-Top-Container\n• Open-Top-Container\n• Flat-Rack-Container\n• Bulk-Container\n• Intermediate Bulk-Container\n• Tank-Container\n• Kühlcontainer\n• High-Cube-Container\n• Isolierter Container\n• Ventilierter Container"
+            "description": "- Standard-Container\n- Hard-Top-Container\n- Open-Top-Container\n- Flat-Rack-Container\n- Bulk-Container\n- Intermediate Bulk-Container\n- Tank-Container\n- Kühlcontainer\n- High-Cube-Container\n- Isolierter Container\n- Ventilierter Container"
         },
         {
-            "shortDescription": "Erklären Sie, warum EUR-Flachpaletten nicht optimal für die Beladung von ISO-Containern sind.",
-            "description": "Die Maße der EUR-Flachpalette sind nicht auf die Maße des ISO-Containers abgestimmt."
+            "shortDescription": "Erklären Sie, warum EUR-Flachpaletten nicht optimal für die Beladung von\nISO-Containern sind.",
+            "description": "Die Maße der EUR-Flachpalette sind nicht auf die Maße des ISO-Containers\nabgestimmt."
         },
         {
             "shortDescription": "Wodurch unterscheidet sich ein Wechselbehälter von einem Binnencontainer?",
-            "description": "Wechselcontainer haben im Gegensatz zum Binnencontainer einklappbare Stützen bzw. Füße. Sie können unabhängig von Transportmitteln be- und entladen werden. Sie sind breiter und länger als der Binnencontainer und fassen deshalb mehr Paletten pro Tour."
+            "description": "Wechselcontainer haben im Gegensatz zum Binnencontainer einklappbare\nStützen bzw. Füße. Sie können unabhängig von Transportmitteln be- und\nentladen werden. Sie sind breiter und länger als der Binnencontainer und\nfassen deshalb mehr Paletten pro Tour."
         },
         {
             "shortDescription": "Erklären Sie, warum die Luftfrachtcontainer nicht quaderförmig sind.",
-            "description": "Die abgewinkelten Ecken ermöglichen ein passgenaues Verstauen im Rumpf des Flugzeuges. Dadurch ist ein hoher Raumnutzungsgrad erreichbar."
+            "description": "Die abgewinkelten Ecken ermöglichen ein passgenaues Verstauen im Rumpf des\nFlugzeuges. Dadurch ist ein hoher Raumnutzungsgrad erreichbar."
         },
         {
             "shortDescription": "Für welche Güter eignet sich die Verwendung von Containersäcken?",
-            "description": "Der Containersack ist zur Lagerung und zum Transport von schweren und groben Stückgütern aber auch von Schüttgütern einsetzbar."
+            "description": "Der Containersack ist zur Lagerung und zum Transport von schweren und\ngroben Stückgütern aber auch von Schüttgütern einsetzbar."
         },
         {
             "shortDescription": "Nennen Sie drei allgemeine Vorteile des Containereinsatzes.",
-            "description": "• Transportgut wird optimal geschützt\n• Waren müssen beim Wechsel auf ein anderes Verkehrsmittel nicht umgepackt werden\n• Umschlag teilweise automatisch möglich, durch Normung\n• Container können zur Zwischenlagerung verwendet werden"
+            "description": "- Transportgut wird optimal geschützt\n- Waren müssen beim Wechsel auf ein anderes Verkehrsmittel nicht umgepackt\nwerden\n- Umschlag teilweise automatisch möglich, durch Normung\n- Container können zur Zwischenlagerung verwendet werden"
         },
         {
             "shortDescription": "Nennen Sie die drei Arten von Packhilfsmitteln.",
-            "description": "• Schutzmittel\n• Verschließmittel\n• Kennzeichnungsmittel"
+            "description": "- Schutzmittel\n- Verschließmittel\n- Kennzeichnungsmittel"
         },
         {
             "shortDescription": "In was werden Schutzmittel unterteilt?",
@@ -217,63 +217,63 @@
         },
         {
             "shortDescription": "Nennen Sie zwei Beispiele für Füllmittel.",
-            "description": "z.B.\n• Holzwolle\n• Papierwolle\n• Chips\n• Papierpolster\n• Luftkissenpolster"
+            "description": "z.B.\n- Holzwolle\n- Papierwolle\n- Chips\n- Papierpolster\n- Luftkissenpolster"
         },
         {
             "shortDescription": "Nennen Sie drei Beispiele für Polstermittel.",
-            "description": "z.B.\n• Papierpolster\n• Luftkissenpolster\n• Luftpolsterfolie\n• Schaumstofffolie\n• Schaumstoff-Formteile\n• Schaumstoffbeutel\n• Styropor-Formteile"
+            "description": "z.B.\n- Papierpolster\n- Luftkissenpolster\n- Luftpolsterfolie\n- Schaumstofffolie\n- Schaumstoff-Formteile\n- Schaumstoffbeutel\n- Styropor-Formteile"
         },
         {
             "shortDescription": "Welche besonderen Vorteile bieten Luftkissenpolster?\nNennen Sie drei Vorteile.",
-            "description": "z.B.\n• geringes Gewicht\n• völlig staubfrei\n• sauber\n• feuchtigkeitsunempfindlich\n• stabil\n• mehrfach verwendbar\n• recycelbar"
+            "description": "z.B.\n- geringes Gewicht\n- völlig staubfrei\n- sauber\n- feuchtigkeitsunempfindlich\n- stabil\n- mehrfach verwendbar\n- recycelbar"
         },
         {
             "shortDescription": "Nennen Sie zwei Kantenschutzmittel.",
-            "description": "z.B.\n• Kantenschutzwinkel\n• Katenschutzleisten\n• Kantenschutzstreifen\n• Kantenschutzecken"
+            "description": "z.B.\n- Kantenschutzwinkel\n- Katenschutzleisten\n- Kantenschutzstreifen\n- Kantenschutzecken"
         },
         {
             "shortDescription": "Nennen Sie drei Verschließmittel.",
-            "description": "z.B.\n• Folienumhüllung\n• Bindeband\n• Kordel\n• Schnur\n• Klebeband\n• Packband\n• Heftklammern\n• Umreifung"
+            "description": "z.B.\n- Folienumhüllung\n- Bindeband\n- Kordel\n- Schnur\n- Klebeband\n- Packband\n- Heftklammern\n- Umreifung"
         },
         {
             "shortDescription": "Nennen Sie drei Kennzeichnungsmittel.",
-            "description": "• Vorsichtsmarkierungen\n• Etiketten\n• Indikatoren\n• Datenlogger\n• Begleittaschen"
+            "description": "- Vorsichtsmarkierungen\n- Etiketten\n- Indikatoren\n- Datenlogger\n- Begleittaschen"
         },
         {
-            "shortDescription": "Beschreiben Sie vier Möglichkeiten, Güter auf Paletten gegen Verrutschen zu sichern.",
-            "description": "z.B.\n• Verbundstapelung\n• Verwendung von Zwischenlagen\n• Kleben der einzelnen Lagen\n• Umwicklung mit Stretchfolie\n• Umreifung\n• Umhüllung mit Schrumpffolie"
+            "shortDescription": "Beschreiben Sie vier Möglichkeiten, Güter auf Paletten gegen Verrutschen\nzu sichern.",
+            "description": "z.B.\n- Verbundstapelung\n- Verwendung von Zwischenlagen\n- Kleben der einzelnen Lagen\n- Umwicklung mit Stretchfolie\n- Umreifung\n- Umhüllung mit Schrumpffolie"
         },
         {
             "shortDescription": "Was sind Indikatoren?",
-            "description": "Indikatoren sind Anzeiger oder auch sogenannte Erkennungsmittel. Sie werden am Packgut oder am bzw. im Packmittel angebracht und zeigen an, ob ein Packgut ordnungsgemäß transportiert wurde."
+            "description": "Indikatoren sind Anzeiger oder auch sogenannte Erkennungsmittel. Sie\nwerden am Packgut oder am bzw. im Packmittel angebracht und zeigen an, ob\nein Packgut ordnungsgemäß transportiert wurde."
         },
         {
             "shortDescription": "Nennen Sie drei Indikatoren und erklären Sie, was sie anzeigen.",
-            "description": "z.B.\n• Stoßindikator: Er zeigt an, ob ein Packstück zu stark gestoßen, erschüttert oder fallen gelassen wurde\n• Kippindikator: Er zeigt an, ob ein Packstück zu stark gekippt wurde\n• Feuchtigkeitsindikator: Er zeigt die tatsächliche Luftfeuchtigkeit an\n• Temperatur- und Verderblichkeitsindikator: Er zeigt die Höchst- und die Tiefsttemperatur an"
+            "description": "z.B.\n\n- Stoßindikator: Er zeigt an, ob ein Packstück zu stark gestoßen,\nerschüttert oder fallen gelassen wurde\n- Kippindikator: Er zeigt an, ob ein Packstück zu stark gekippt wurde\n- Feuchtigkeitsindikator: Er zeigt die tatsächliche Luftfeuchtigkeit an\n- Temperatur- und Verderblichkeitsindikator: Er zeigt die Höchst- und die\nTiefsttemperatur an"
         },
         {
             "shortDescription": "Nennen Sie zwei Packhilfsmittel, die im Container Anwendung finden.",
-            "description": "z.B.\n• Trockenmittel\n• Plomben\n• Gefahrensymbole\n• verschiedene Indikatoren"
+            "description": "z.B.\n- Trockenmittel\n- Plomben\n- Gefahrensymbole\n- verschiedene Indikatoren"
         },
         {
             "shortDescription": "Wozu dienen Plomben?",
-            "description": "Plomben dienen zum Verschließen und gleichzeitigen Versiegeln von Behältern."
+            "description": "Plomben dienen zum Verschließen und gleichzeitigen Versiegeln von\nBehältern."
         },
         {
-            "shortDescription": "Aus welchen drei Teilen besteht die eine ordnungsgemäße Markierung der Verpackung?",
-            "description": "• Leitmarke\n• Informationsmarkierung\n• Handhabungsmarkierung"
+            "shortDescription": "Aus welchen drei Teilen besteht die eine ordnungsgemäße Markierung der\nVerpackung?",
+            "description": "- Leitmarke\n- Informationsmarkierung\n- Handhabungsmarkierung"
         },
         {
             "shortDescription": "Nennen Sie die Bestandteile einer Informationsmarkierung.",
-            "description": "Bestandteile einer Informationsmarkierung:\n• Ursprungsland\n• Nettogewicht\n• Bruttogewicht\n• Abmessungen des Packstücks"
+            "description": "Bestandteile einer Informationsmarkierung:\n- Ursprungsland\n- Nettogewicht\n- Bruttogewicht\n- Abmessungen des Packstücks"
         },
         {
-            "shortDescription": "In welcher Form können Handhabungsmarkierungen auf Verpackungen aufgebracht werden?",
-            "description": "Handhabungsmarkierungen\n• in Form von Aufklebern\n• in aufgedruckter Form\n• durch wasserfeste Farbmarkierungen mittels Schablonen"
+            "shortDescription": "In welcher Form können Handhabungsmarkierungen auf Verpackungen\naufgebracht werden?",
+            "description": "Handhabungsmarkierungen\n- in Form von Aufklebern\n- in aufgedruckter Form\n- durch wasserfeste Farbmarkierungen mittels Schablonen"
         },
         {
-            "shortDescription": "Erklären Sie, welche Bedeutung die Handhabungsmarkierungen auf Verpackungen haben.",
-            "description": "Handhabungsmarkierungen ermöglichen eine erhöhte Sorgfalt bei den Umschlagsarbeiten, da sie Informationen für die vorschriftsmäßige Beförderung und Lagerung geben."
+            "shortDescription": "Erklären Sie, welche Bedeutung die Handhabungsmarkierungen auf\nVerpackungen haben.",
+            "description": "Handhabungsmarkierungen ermöglichen eine erhöhte Sorgfalt bei den\nUmschlagsarbeiten, da sie Informationen für die vorschriftsmäßige\nBeförderung und Lagerung geben."
         },
         {
             "shortDescription": "Welchen Zweck verfolgen Verpackungssymbole?",
@@ -281,43 +281,43 @@
         },
         {
             "shortDescription": "Welchen Vorteil haben Handhabungsmarkierungen in Bildform?",
-            "description": "Handhabungsmarkierungen in Bildform sind international, d.h., sie werden - unabhängig von der Sprache - überall verstanden."
+            "description": "Handhabungsmarkierungen in Bildform sind international, d.h., sie werden -\nunabhängig von der Sprache - überall verstanden."
         },
         {
             "shortDescription": "Nennen Sie die Inhalte einer UN-Bauartzulassung.",
-            "description": "UN = Vereinte Nationen\nz.B. 1B2 = Packmittelbezeichnung nach Tabelle\nX/Y/Z = Verpackungsgruppe X=1 Gefahrgut mit hoher Gefahr Y=2 mittlere Gefahr Z=3 geringe Gefahr\nz.B. 65 = Bruttohöchstmasse\nS/L = nur für feste/flüssige Stoffe geeignet\nz.B. 09 = Herstellungsjahr\nz.B. D = Herstellungsland\nBAM 123 = Zulassungsbehörde\nXYZ = Hersteller bzw. Kurzzeichen der Herstellers"
+            "description": "UN = Vereinte Nationen\n\nz.B. 1B2 = Packmittelbezeichnung nach Tabelle\n\nX/Y/Z = Verpackungsgruppe X=1 Gefahrgut mit hoher Gefahr Y=2 mittlere\nGefahr Z=3 geringe Gefahr\n\nz.B. 65 = Bruttohöchstmasse\n\nS/L = nur für feste/flüssige Stoffe geeignet\n\nz.B. 09 = Herstellungsjahr\n\nz.B. D = Herstellungsland\n\nBAM 123 = Zulassungsbehörde\n\nXYZ = Hersteller bzw. Kurzzeichen der Herstellers"
         },
         {
             "shortDescription": "Welche Fragen sind vor dem Verpacken zu klären?\nNennen Sie drei.",
-            "description": "z.B.\n• Welche Art von Gütern soll verpackt werden?\n• Vor welchen Gefahren soll die Verpackung schützen?\n• Welchen Beanspruchungen ist die Verpackung während des Transportes ausgesetzt?\n• In welches Land wird das Packgut geliefert?"
+            "description": "z.B.\n- Welche Art von Gütern soll verpackt werden?\n- Vor welchen Gefahren soll die Verpackung schützen?\n- Welchen Beanspruchungen ist die Verpackung während des Transportes\nausgesetzt?\n- In welches Land wird das Packgut geliefert?"
         },
         {
-            "shortDescription": "Nennen Sie vier mögliche Ausstattungen bzw. Ausstattungsgegenstände eines Packtischs.",
-            "description": "z.B.\n• Waage\n• Computerarbeitsplatz\n• Schneidgeräte\n• Formularablage\n• Arbeitsplatzbeleuchtung"
+            "shortDescription": "Nennen Sie vier mögliche Ausstattungen bzw. Ausstattungsgegenstände eines\nPacktischs.",
+            "description": "z.B.\n- Waage\n- Computerarbeitsplatz\n- Schneidgeräte\n- Formularablage\n- Arbeitsplatzbeleuchtung"
         },
         {
             "shortDescription": "Nennen Sie vier Arbeitsschritte beim Verpacken.",
-            "description": "z.B.\n• Verpackungsauftrag entgegennehmen\n• Kontrolle/Vergleich der zu verpackenden Artikel mit Packliste/Lieferschein\n• Versandart festlegen\n• geeignetes Packmittel auswählen\n• Packgut mit Schutzmitteln versehen\n• Packgut in das Packmittel legen\n• Packmittel mit Füllmitteln ausfüllen\n• Packmittel verschließen"
+            "description": "z.B.\n- Verpackungsauftrag entgegennehmen\n- Kontrolle/Vergleich der zu verpackenden Artikel mit\nPackliste/Lieferschein\n- Versandart festlegen\n- geeignetes Packmittel auswählen\n- Packgut mit Schutzmitteln versehen\n- Packgut in das Packmittel legen\n- Packmittel mit Füllmitteln ausfüllen\n- Packmittel verschließen"
         },
         {
             "shortDescription": "Worauf achten Sie beim Beladen von Paletten? \nNennen Sie drei Aspekte.",
-            "description": "z.B.\n• Ware darf nicht überstehen\n• leichte Ware auf schwere Ware packen\n• große Teile unten, kleine Teile oben\n• im Verbund packen"
+            "description": "z.B.\n- Ware darf nicht überstehen\n- leichte Ware auf schwere Ware packen\n- große Teile unten, kleine Teile oben\n- im Verbund packen"
         },
         {
             "shortDescription": "Wozu benötigt der Packer am Packplatz den Lieferschein?",
-            "description": "Falls er z.B. keine Packliste hat, kann er mithilfe des Lieferscheins kontrollieren, ob er die richtige Ware verpackt. Außerdem kann er mithilfe des Lieferscheins feststellen, wohin die Ware geliefert werden soll und eventuell auch, mit welchem Transportmittel und die Ware dann entsprechend verpacken und sichern."
+            "description": "Falls er z.B. keine Packliste hat, kann er mithilfe des Lieferscheins\nkontrollieren, ob er die richtige Ware verpackt. Außerdem kann er mithilfe\ndes Lieferscheins feststellen, wohin die Ware geliefert werden soll und\neventuell auch, mit welchem Transportmittel und die Ware dann entsprechend\nverpacken und sichern."
         },
         {
             "shortDescription": "Was geschieht mit dem Lieferschein, nachdem die Ware verpackt ist?",
-            "description": "Er kann in einer Begleitpapiertasche mit der Ware an den Empfänger geschickt werden."
+            "description": "Er kann in einer Begleitpapiertasche mit der Ware an den Empfänger\ngeschickt werden."
         },
         {
             "shortDescription": "Nennen Sie zwei technische Verpackungshilfsmittel.",
-            "description": "z.B.\n• Cuttermesser\n• Etikettenspender\n• Schrumpfpistole\n• Klebebandabroller\n• Kartonverschlusshefter\n• Umreifungsbandspanner und Abrollwagen für Umreifungsbänder"
+            "description": "z.B.\n- Cuttermesser\n- Etikettenspender\n- Schrumpfpistole\n- Klebebandabroller\n- Kartonverschlusshefter\n- Umreifungsbandspanner und Abrollwagen für Umreifungsbänder"
         },
         {
-            "shortDescription": "Nennen Sie eine halb- bzw. vollautomatische Verpackungsmaschine oder -anlage.",
-            "description": "• Umreifungsautomat\n• Palettenwickler\n• Kartonverschlussmaschine"
+            "shortDescription": "Nennen Sie eine halb- bzw. vollautomatische Verpackungsmaschine oder\n-anlage.",
+            "description": "- Umreifungsautomat\n- Palettenwickler\n- Kartonverschlussmaschine"
         },
         {
             "shortDescription": "Wie kann eine Umreifung ohne Umreifungsautomat angebracht werden?",
@@ -325,123 +325,123 @@
         },
         {
             "shortDescription": "Worauf ist bei der Verwendung von Umreifungsmaschinen zu achten?",
-            "description": "Es ist darauf zu achten, dass die Hände nicht zwischen die Umreifungsbänder gelangen."
+            "description": "Es ist darauf zu achten, dass die Hände nicht zwischen die\nUmreifungsbänder gelangen."
         },
         {
             "shortDescription": "Unterscheiden Sie Gefahrstoff und Gefahrgut.",
-            "description": "Um Gefahrstoffe handelt es sich, wenn gefährliche Güter verwendet, abgefüllt, verpackt, gelagert oder innerbetrieblich transportiert werden.\nUm Gefahrgut handelt es sich, wenn gefährliche Stoffe außerhalb des Betriebes auf der Straße, auf der Schiene, dem Schiff oder im Flugzeug transportiert werden."
+            "description": "Um Gefahrstoffe handelt es sich, wenn gefährliche Güter verwendet,\nabgefüllt, verpackt, gelagert oder innerbetrieblich transportiert werden.\n\nUm Gefahrgut handelt es sich, wenn gefährliche Stoffe außerhalb des\nBetriebes auf der Straße, auf der Schiene, dem Schiff oder im Flugzeug\ntransportiert werden."
         },
         {
             "shortDescription": "Nennen Sie die Gefahrgutklassen und ihre Gefährlichkeit",
-            "description": "Klasse 1: explosive Stoffe\nKlasse 2: Gase\nKlasse 3: entzünbare flüssige Stoffe\nKlasse 4: entzündbare Stoffe\nKlasse 5: brandfördernde Stoffe\nKlasse 6: giftige Stoffe\nKlasse 7: radioaktive Stoffe\nKlasse 8: ätzende Stoffe\nKlasse 9: verschiedene gefährliche Stoffe z.B. mit Gefahr spontaner heftiger Reaktion"
+            "description": "Klasse 1: explosive Stoffe\n\nKlasse 2: Gase\n\nKlasse 3: entzünbare flüssige Stoffe\n\nKlasse 4: entzündbare Stoffe\n\nKlasse 5: brandfördernde Stoffe\n\nKlasse 6: giftige Stoffe\n\nKlasse 7: radioaktive Stoffe\n\nKlasse 8: ätzende Stoffe\n\nKlasse 9: verschiedene gefährliche Stoffe z.B. mit Gefahr spontaner\nheftiger Reaktion"
         },
         {
             "shortDescription": "Unterscheiden Sie zwischen UN-Nummer und UN-Code.",
-            "description": "Die UN-Nummer ist eine vierstellige Zahl zur Kennzeichnung von gefährlichen Stoffen oder Gegenständen. Anhand der UN-Nummer können Gefahrstoffe genau identifiziert bzw. klassifiziert werden.\nDer UN-Code ist die UN-Bauartzulassung. Begutachtete Gefahrgutverpackungen erhalten die UN-Bauartzulassung."
+            "description": "Die UN-Nummer ist eine vierstellige Zahl zur Kennzeichnung von\ngefährlichen Stoffen oder Gegenständen. Anhand der UN-Nummer können\nGefahrstoffe genau identifiziert bzw. klassifiziert werden.\n\nDer UN-Code ist die UN-Bauartzulassung. Begutachtete Gefahrgutverpackungen\nerhalten die UN-Bauartzulassung."
         },
         {
             "shortDescription": "Nennen Sie zwei Pflichten beim Verpacken von Gefahrgut.",
-            "description": "z.B.\n• Zusammenladeverbote beachten\n• nur Packmittel mit UN-Bauartzulassung verwenden\n• Flüssigkeiten immer stehend verpacken\n• zum Verpacken von Gefahrstoffen besondere Füllmaterialien, d.h. Aufsaugmaterialien wie Vermiculite verwenden"
+            "description": "z.B.\n- Zusammenladeverbote beachten\n- nur Packmittel mit UN-Bauartzulassung verwenden\n- Flüssigkeiten immer stehend verpacken\n- zum Verpacken von Gefahrstoffen besondere Füllmaterialien, d.h.\nAufsaugmaterialien wie Vermiculite verwenden"
         },
         {
             "shortDescription": "Nennen Sie zwei Pflichten beim Kennzeichnen von Gefahrgut.",
-            "description": "z.B. \n• Gefahrgutkennzeichnung auf Packstück, in Begleitpapieren und am Transportmittel\n• Gefahrzettel anbringen\n• falls der zu verpackende Gefahrstoff aufrecht zu befördern ist, an zwei gegenüberliegenden Seiten der Umverpackung Ausrichtungspfeile anbringen\n• jedes Versandstück mit der UN-Nummer und den Buchstaben \"UN\" vorangestellt kennzeichnen"
+            "description": "z.B. \n- Gefahrgutkennzeichnung auf Packstück, in Begleitpapieren und am\nTransportmittel\n- Gefahrzettel anbringen\n- falls der zu verpackende Gefahrstoff aufrecht zu befördern ist, an zwei\ngegenüberliegenden Seiten der Umverpackung Ausrichtungspfeile anbringen\n- jedes Versandstück mit der UN-Nummer und den Buchstaben \"UN\"\nvorangestellt kennzeichnen"
         },
         {
             "shortDescription": "Warum muss die UN-Nummer außen auf der Verpackung angebracht sein?",
-            "description": "Anhand der UN-Nummer können Gefahrstoffe genau identifiziert bzw. klassifiziert werden. Dies ist auch für Rettungskräfte wichtig, um nach Unfällen oder Zwischenfällen geeignete Maßnahmen treffen zu können."
+            "description": "Anhand der UN-Nummer können Gefahrstoffe genau identifiziert bzw.\nklassifiziert werden. Dies ist auch für Rettungskräfte wichtig, um nach\nUnfällen oder Zwischenfällen geeignete Maßnahmen treffen zu können."
         },
         {
             "shortDescription": "Was bedeutet die Abkürzung \"LQ\" auf einer Gefahrgutverpackung?",
-            "description": "Bei der Kennzeichnung mit LQ (Limited Quantities = Begrenzte Mengen) sind Regelungen über begrenzte Mengen einzuhalten."
+            "description": "Bei der Kennzeichnung mit LQ (Limited Quantities = Begrenzte Mengen) sind\nRegelungen über begrenzte Mengen einzuhalten."
         },
         {
             "shortDescription": "Nennen Sie zwei Aufgaben eines Gefahrgutbeauftragten.",
-            "description": "z.B.\n• Überwachen, ob die Gefahrgutvorschriften eingehalten werden\n• Beratung des Unternehmens bezüglich des Umgangs mit gefährlichen Gütern\n• Erstellung eines Gefahrgutjahresberichtes\n• Schulung der Mitarbeiter"
+            "description": "z.B.\n- Überwachen, ob die Gefahrgutvorschriften eingehalten werden\n- Beratung des Unternehmens bezüglich des Umgangs mit gefährlichen Gütern\n- Erstellung eines Gefahrgutjahresberichtes\n- Schulung der Mitarbeiter"
         },
         {
-            "shortDescription": "Für welche Unternehmen ist die Benennung eines Gefahrgutbeauftragten vorgeschrieben?",
+            "shortDescription": "Für welche Unternehmen ist die Benennung eines Gefahrgutbeauftragten\nvorgeschrieben?",
             "description": "Für alle Unternehmen, die Gefahrgut befördern, befüllen oder verpacken."
         },
         {
             "shortDescription": "Wie lange gilt der Schulungsnachweis für Gefahrgutbeauftragte?",
-            "description": "Der Schulungsnachweis gilt für fünf Jahre, kann aber vor Ablauf der Gültigkeit durch eine bestandene weitere Prüfung verlängert werden."
+            "description": "Der Schulungsnachweis gilt für fünf Jahre, kann aber vor Ablauf der\nGültigkeit durch eine bestandene weitere Prüfung verlängert werden."
         },
         {
-            "shortDescription": "Für welche Kosten bei der Verpackung muss der Käufer nach der gesetzlichen Regelung aufkommen?",
-            "description": "Der Käufer trägt die Kosten für die Versandverpackung (z.B. für Paletten, Gitterboxen, Kisten, Container)."
+            "shortDescription": "Für welche Kosten bei der Verpackung muss der Käufer nach der gesetzlichen\nRegelung aufkommen?",
+            "description": "Der Käufer trägt die Kosten für die Versandverpackung (z.B. für Paletten,\nGitterboxen, Kisten, Container)."
         },
         {
-            "shortDescription": "Für welche Kosten bei der Verpackung muss der Verkäufer nach der gesetzlichen Regelung aufkommen?",
-            "description": "Der Verkäufer trägt die Kosten für\n• das Abpacken des Produkts\n• die Verkaufsverpackung (d.h. für die Verpackung, die mit der Ware an den Endverbraucher verkauft wird)\n• die Umverpackung (d.h. für die Verpackung, die die einzelnen Verkaufseinheiten enthält)"
+            "shortDescription": "Für welche Kosten bei der Verpackung muss der Verkäufer nach der\ngesetzlichen Regelung aufkommen?",
+            "description": "Der Verkäufer trägt die Kosten für\n\n- das Abpacken des Produkts\n- die Verkaufsverpackung (d.h. für die Verpackung, die mit der Ware an den\nEndverbraucher verkauft wird)\n- die Umverpackung (d.h. für die Verpackung, die die einzelnen\nVerkaufseinheiten enthält)"
         },
         {
             "shortDescription": "Was bedeutet \"brutto für netto\"?",
-            "description": "Der Kaufpreis wird vom Bruttogewicht berechnet. Für die Verpackung wird pro kg der gleiche Preis gezahlt wie für die Ware selbst."
+            "description": "Der Kaufpreis wird vom Bruttogewicht berechnet. Für die Verpackung wird\npro kg der gleiche Preis gezahlt wie für die Ware selbst."
         },
         {
             "shortDescription": "Was bedeutet \"Preis einschließlich Verpackung\"?",
-            "description": "Der Kaufpreis wird vom Nettogewicht der Ware berechnet. Der Verkäufer trägt alle Kosten der Verpackung einschließlich Versandverpackung."
+            "description": "Der Kaufpreis wird vom Nettogewicht der Ware berechnet. Der Verkäufer\nträgt alle Kosten der Verpackung einschließlich Versandverpackung."
         },
         {
             "shortDescription": "Was bedeutet \"Preis ausschließlich Verpackung\"?",
-            "description": "Der Kaufpreis wird vom Nettogewicht der Ware berechnet. Der Käufer trägt alle Kosten der Verpackung einschließlich der Versandverpackung. Die Verpackungskosten werden dem Käufer extra in Rechnung gestellt."
+            "description": "Der Kaufpreis wird vom Nettogewicht der Ware berechnet. Der Käufer trägt\nalle Kosten der Verpackung einschließlich der Versandverpackung. Die\nVerpackungskosten werden dem Käufer extra in Rechnung gestellt."
         },
         {
             "shortDescription": "Nennen Sie die Verpackungskostenarten und zu jeder Kostenart ein Beispiel.",
-            "description": "Materialkosten:\nz.B. Kosten für die Beschaffung und Entsorgung der Packhilfmittel\nLohnkosten:\nz.B. Löhne der Arbeitnehmer im Verpackungsbereich oder im Bereich der Entsorgung\nMaschinenkosten:\nz.B. Kosten der Abschreibung der Verpackungstechnik, Kosten für Wartung und Reparatur der Verpackungstechnik"
+            "description": "Materialkosten:\n\nz.B. Kosten für die Beschaffung und Entsorgung der Packhilfmittel\n\nLohnkosten:\n\nz.B. Löhne der Arbeitnehmer im Verpackungsbereich oder im Bereich der\nEntsorgung\n\nMaschinenkosten:\n\nz.B. Kosten der Abschreibung der Verpackungstechnik, Kosten für Wartung\nund Reparatur der Verpackungstechnik"
         },
         {
             "shortDescription": "Welche Ziele verfolgt das Kreislaufwirtschafts- und Abfallgesetz?",
-            "description": "Ziele des Kreislaufwirtschafts- und Abfallgesetzes:\n• Sicherung der umweltverträglichen Beseitigung von Abfällen\n• Förderung der Kreislaufwirtschaft zur Schonung der natürlich Ressourcen"
+            "description": "Ziele des Kreislaufwirtschafts- und Abfallgesetzes:\n- Sicherung der umweltverträglichen Beseitigung von Abfällen\n- Förderung der Kreislaufwirtschaft zur Schonung der natürlich Ressourcen"
         },
         {
-            "shortDescription": "Nennen Sie die drei Prioritäten des Kreislaufwirtschafts- und Abfallgesetzes in der richtigen Reihenfolge.",
-            "description": "Drei Prioritäten:\n• Abfälle vermeiden\n• Abfälle verwerten\n• Abfälle beseitigen"
+            "shortDescription": "Nennen Sie die drei Prioritäten des Kreislaufwirtschafts- und\nAbfallgesetzes in der richtigen Reihenfolge.",
+            "description": "Drei Prioritäten:\n- Abfälle vermeiden\n- Abfälle verwerten\n- Abfälle beseitigen"
         },
         {
             "shortDescription": "Für welche Verpackungen besteht Rücknahmepflicht des Herstellers?",
-            "description": "Rücknahmepflicht besteht für\n• Verkaufsverpackungen\n• Umverpackungen\n• Transportverpackungen"
+            "description": "Rücknahmepflicht besteht für\n- Verkaufsverpackungen\n- Umverpackungen\n- Transportverpackungen"
         },
         {
             "shortDescription": "Nennen Sie die beiden Ziele der Verpackungsverordnung.",
-            "description": "Ziele der Verpackungsverordnung:\n• Verringerung der Umweltbelastung aus Verpackungsabfällen\n• Wiederverwendung oder Wiederverwertung von Verpackungen"
+            "description": "Ziele der Verpackungsverordnung:\n- Verringerung der Umweltbelastung aus Verpackungsabfällen\n- Wiederverwendung oder Wiederverwertung von Verpackungen"
         },
         {
             "shortDescription": "Warum heißt das Duale System dual?",
-            "description": "Es heißt \"dual\", weil es sich hier im ein zusätzliches Entsorgungsunternehmen neben der kommunalen Abfallentsorgung handelt."
+            "description": "Es heißt \"dual\", weil es sich hier im ein zusätzliches\nEntsorgungsunternehmen neben der kommunalen Abfallentsorgung handelt."
         },
         {
-            "shortDescription": "Erklären Sie, wie die dualen Systeme wie Grüner Punkt, Eko-Punkt oder Interseroh funktionieren.",
-            "description": "Der Hersteller von Gütern zahlen für jede Verkaufsverpackung Lizenzgebühren an das duale Entsorgungssunternehmen. Die Verpackungen können mit dem Symbol des Entsorgungsunternehmens gekennzeichnet werden. Die Verbraucher dürfen alle restentleerten Verkaufsverpackungen über die gelbe Tonne/gelben Sack entsorgen. Die Betreiber der dualen Systeme sammeln die Wertstoffe ein und verwerten sie."
+            "shortDescription": "Erklären Sie, wie die dualen Systeme wie Grüner Punkt, Eko-Punkt oder\nInterseroh funktionieren.",
+            "description": "Der Hersteller von Gütern zahlen für jede Verkaufsverpackung\nLizenzgebühren an das duale Entsorgungssunternehmen. Die Verpackungen\nkönnen mit dem Symbol des Entsorgungsunternehmens gekennzeichnet werden.\nDie Verbraucher dürfen alle restentleerten Verkaufsverpackungen über die\ngelbe Tonne/gelben Sack entsorgen. Die Betreiber der dualen Systeme\nsammeln die Wertstoffe ein und verwerten sie."
         },
         {
             "shortDescription": "Nennen Sie zwei Vorteile des Dualen Systems.",
-            "description": "• befreit Hersteller und Vertreiber von der Rücknahme- und Verwertungspflicht\n• keine Kosten für Staat oder Verbraucher durch Anwendung des Verursacherprinzips"
+            "description": "- befreit Hersteller und Vertreiber von der Rücknahme- und\nVerwertungspflicht\n- keine Kosten für Staat oder Verbraucher durch Anwendung des\nVerursacherprinzips"
         },
         {
-            "shortDescription": "Wer zahlt die Entsorgungskosten, wenn auf einer Verpackung der Grüne Punkt aufgedruckt ist?",
+            "shortDescription": "Wer zahlt die Entsorgungskosten, wenn auf einer Verpackung der Grüne Punkt\naufgedruckt ist?",
             "description": "Der Hersteller"
         },
         {
-            "shortDescription": "Worin besteht der Unterschied zwischen einer Versandverpackung und einer Transportverpackung?",
-            "description": "Sowohl Versandverpackung als auch Transportverpackung sind zum Transport der Ware bestimmt. Die Transportverpackung wird nach dem Transport entfernt und verbleibt beim Hersteller oder Vertreiber. Die Versandverpackung hingegen verbleibt beim Endverbraucher. Sie wird wie eine Verkaufsverpackung behandelt."
+            "shortDescription": "Worin besteht der Unterschied zwischen einer Versandverpackung und einer\nTransportverpackung?",
+            "description": "Sowohl Versandverpackung als auch Transportverpackung sind zum Transport\nder Ware bestimmt. Die Transportverpackung wird nach dem Transport\nentfernt und verbleibt beim Hersteller oder Vertreiber. Die\nVersandverpackung hingegen verbleibt beim Endverbraucher. Sie wird wie\neine Verkaufsverpackung behandelt."
         },
         {
             "shortDescription": "Unterschieden Sie geschlossene und offene Mehrwegsysteme.",
-            "description": "Geschlossene Systeme:\nAnwendung nur innerhalb eines begrenzten Teilnehmerkreises, z.B. firmeninterne, brachenspezifische und bilaterale (nur zwischen Lieferant und Kunde) Systeme\n\nOffene Systeme:\nAllgemein verwendbare Systeme, an denen verschiedene Unternehmen aus beliebigen Branchen beteiligt sind, z.B. multilaterale Systeme (Palettenpoolsystem)"
+            "description": "Geschlossene Systeme:\n\nAnwendung nur innerhalb eines begrenzten Teilnehmerkreises, z.B.\nfirmeninterne, brachenspezifische und bilaterale (nur zwischen Lieferant\nund Kunde) Systeme\n\n\nOffene Systeme:\n\nAllgemein verwendbare Systeme, an denen verschiedene Unternehmen aus\nbeliebigen Branchen beteiligt sind, z.B. multilaterale Systeme\n(Palettenpoolsystem)"
         },
         {
             "shortDescription": "Erläutern Sie, was unter dem Begriff Abfallvermeidung zu verstehen ist.",
-            "description": "Abfälle sollen vermieden werden durch:\n• Kreislaufführung der eingesetzten Stoffe im Produktionsprozess\n• abfallarme Produktgestaltung (z.B. langlebige Produkte, sparsame Verpackung)\n• verändertes Verhalten der Konsumenten"
+            "description": "Abfälle sollen vermieden werden durch:\n\n- Kreislaufführung der eingesetzten Stoffe im Produktionsprozess\n- abfallarme Produktgestaltung (z.B. langlebige Produkte, sparsame\nVerpackung)\n- verändertes Verhalten der Konsumenten"
         },
         {
             "shortDescription": "Erläutern Sie, was unter dem Begriff Abfallverwertung zu verstehen ist.",
-            "description": "Abfälle sollen verwertet werden durch:\n• stoffliche Verwertung (Recycling)\n• energetische Verwertung (Nutzung des Abfalls als Ersatzbrennstoff zur Energiegewinnung)"
+            "description": "Abfälle sollen verwertet werden durch:\n\n- stoffliche Verwertung (Recycling)\n- energetische Verwertung (Nutzung des Abfalls als Ersatzbrennstoff zur\nEnergiegewinnung)"
         },
         {
             "shortDescription": "Erläutern Sie, was unter dem Begriff Abfallentsorgung zu verstehen ist.",
-            "description": "Abfälle werden beseitigt durch:\n• Müllverbrennung\n• Ablagern auf Deponien"
+            "description": "Abfälle werden beseitigt durch:\n- Müllverbrennung\n- Ablagern auf Deponien"
         }
     ]
 }
