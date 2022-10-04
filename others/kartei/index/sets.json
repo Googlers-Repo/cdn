@@ -31,6 +31,16 @@
         "name": "Lernfeld 4",
         "desc": "Güter im Betrieb transportieren",
         "cdn": "https://raw.githubusercontent.com/DerGoogler/cdn/master/others/kartei/lf4.json"
+      },
+      {
+        "name": "Lernfeld 6",
+        "desc": "Güter verpacken",
+        "cdn": "https://raw.githubusercontent.com/DerGoogler/cdn/master/others/kartei/lf6.json"
+      },
+      {
+        "name": "Lernfeld 8",
+        "desc": "Güter verladen",
+        "cdn": "https://raw.githubusercontent.com/DerGoogler/cdn/master/others/kartei/lf8.json"
       }
     ]
   }
