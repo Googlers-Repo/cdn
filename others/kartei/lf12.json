@@ -1,0 +1,331 @@
+{
+  "name": "Lernfeld 12",
+  "group": "lernfeld_12",
+  "description": "Kennzahlen ermitteln und auswerten",
+  "karten": [
+    {
+      "shortDescription": "Wie viele Jahre muss der Kaufmann Inventare, Bilanzen und Belege aufbewahren?",
+      "description": "10 Jahre"
+    },
+    {
+      "shortDescription": "Wie müssen die Buchungsbelege aufbewahrt werden?",
+      "description": "Buchungsbelege müssen fortlaufend nummeriert und geordnet aufbewahrt werden."
+    },
+    {
+      "shortDescription": "Wie viele Jahre müssen Geschäftsbriefe aufbewahrt werden?",
+      "description": "6 Jahre"
+    },
+    {
+      "shortDescription": "Erläutern Sie den Unterschied zwischen den Aufzeichnungen im Grundbuch und denen im Hauptbuch.",
+      "description": "Das Grundbuch (Journal) erfasst die Buchungssätze in zeitlicher\nReihenfolge.\n\nIm Hauptbuch werden die Geschäftsfälle in den Konten festgehalten."
+    },
+    {
+      "shortDescription": "Nennen Sie drei Merkmale, wie Geschäftsfälle ordnungsgemäß erfasst werden.",
+      "description": "Die Erfassung der Geschäftsfälle muss\n- vollständig\n- fortlaufend\n- richtig\n- zeitgerecht\n- sachlich\nzugeordnet sein."
+    },
+    {
+      "shortDescription": "Ab welchem Jahresumsatz oder ab welchem Jahresgewinn unterliegt der Unternehmer der Buchführungspflicht?",
+      "description": "Buchführungspflicht:\nAb einem Jahresumsatz von 600000€ oder einem Jahresgewinn von 60000€"
+    },
+    {
+      "shortDescription": "In welchen beiden Positionen wird die linke Seite der Bilanz unterteilt?",
+      "description": "Positionen auf der linken Seite der Bilanz:\n- Anlagevermögen\n- Umlaufvermögen"
+    },
+    {
+      "shortDescription": "Wie wird das Vermögen bezeichnet, das langfristig im Unternehmen verbleiben soll?",
+      "description": "Analgevermögen"
+    },
+    {
+      "shortDescription": "Welche beiden Positionen werden in der Bilanz gegenübergestellt?",
+      "description": "Vermögen und Schulden bzw. Aktiva und Passiva"
+    },
+    {
+      "shortDescription": "In welchen beiden Positionen wird die rechte Seite der Bilanz unterteilt?",
+      "description": "Positionen auf der rechten Seite der Bilanz:\n- Eigenkapital\n- Fremdkapital"
+    },
+    {
+      "shortDescription": "Nennen Sie drei Beispiele für Anlagevermögen.",
+      "description": "z.B.\n- Grundstücke\n- Gebäude\n- Fuhrpark\n- Lagereinrichtungen\n- Betriebs- und Geschäftsausstattung"
+    },
+    {
+      "shortDescription": "Wie wird das Vermögen bezeichnet, das kurzfristig im Unternehmen verbleiben soll?",
+      "description": "Umlaufvermögen"
+    },
+    {
+      "shortDescription": "Nennen Sie drei Beispiele für Umlaufvermögen.",
+      "description": "z.B.\n- Waren\n- Forderungen a.LL.\n- Bankguthaben\n- Kasse"
+    },
+    {
+      "shortDescription": "Was ist eine Inventur?",
+      "description": "Inventur ist die Erfassung sämtlicher Vermögens- und Schuldenwerte."
+    },
+    {
+      "shortDescription": "Was ist ein Inventar?",
+      "description": "Im Inventar werden die Vermögens- und Schuldenwerte gegenübergestellt und das Eigenkapital ermittelt."
+    },
+    {
+      "shortDescription": "Welche Vermögensbestandteile sollen langfristig im Unternehmen verbleiben?",
+      "description": "Anlagevermögen"
+    },
+    {
+      "shortDescription": "Welche Vermögensbestandteile sollen kurzfristig im Unternehmen verbleiben?",
+      "description": "Umlaufvermögen"
+    },
+    {
+      "shortDescription": "Auf welcher Kontoseite nimmt ein Aktivkonto zu?",
+      "description": "Soll-Seite (linke Kontoseite)"
+    },
+    {
+      "shortDescription": "Auf welches Kontoseite nimmt ein Aktivkonto ab?",
+      "description": "Haben-Seite (rechte Kontoseite)"
+    },
+    {
+      "shortDescription": "Nennen Sie drei Aktivkonto.",
+      "description": "z.B.\n- Grundstücke\n- Gebäude\n- Fuhrpark\n- Lagereinrichtungen\n- Waren\n- Forderungen a.LL.\n- Bankguthaben\n- Kasse"
+    },
+    {
+      "shortDescription": "Auf welches Kontoseite nimmt ein Passivkonto ab?",
+      "description": "Soll-Seite (linke Kontoseite)"
+    },
+    {
+      "shortDescription": "Auf welches Kontoseite nimmt ein Passivkonto zu?",
+      "description": "Haben-Seite (rechte Kontoseite)"
+    },
+    {
+      "shortDescription": "Nennen sie drei Passivkonten.",
+      "description": "z.B.\n- Eigenkapital\n- Hypothek\n- Darlehensschulden\n- Verbindlichkeiten a.LL."
+    },
+    {
+      "shortDescription": "Wie viele Konten werden beim einfachen Buchungssatz berührt?",
+      "description": "Einfacher Buchungssatz:\nzwei Konten"
+    },
+    {
+      "shortDescription": "Wie viele Konten werden beim zusammengesetzten Buchungssatz mindestens berührt?",
+      "description": "Zusammengesetzter Buchungssatz:\nmindestens drei Konten"
+    },
+    {
+      "shortDescription": "Nennen Sie drei Erfolgskonten.",
+      "description": "z.B.\n- Umsatzerlöse\n- Mieterträge\n- Zinserträge"
+    },
+    {
+      "shortDescription": "Nennen Sie drei Aufwandskonten.",
+      "description": "z.B.\n- Löhne\n- Abschreibungen\n- Zinsaufwendungen\n- Steuern\n- Büromaterial"
+    },
+    {
+      "shortDescription": "Was wird auf dem Gewinn- und Verlustkonto gegenübergestellt?",
+      "description": "Aufwendungen und Ertäge"
+    },
+    {
+      "shortDescription": "Wann bezeichnet man einen Geschäftsfall als erfolgsneutral?",
+      "description": "Erfolgsneutral ist ein Vorgang, der das Eigenkapitalkonto nicht verändert."
+    },
+    {
+      "shortDescription": "Wann bezeichnet man einen Geschäftsfall als erfolgswirksam?",
+      "description": "Erfolgswirksam ist ein Vorgang, der das Eigenkapitalkonto verändert."
+    },
+    {
+      "shortDescription": "Über welches Konto wird der auf dem GuV-Konto ermittelte Gewinn bzw. Verlust abgeschlossen?",
+      "description": "Eigenkapitalkonto"
+    },
+    {
+      "shortDescription": "Auf welcher Kontoseite wird ein Ertragsvorgang auf dem Ertragskonto gebucht?",
+      "description": "Haben-Seite (rechte Kontoseite)"
+    },
+    {
+      "shortDescription": "Auf welches Kontoseite wird ein Aufwandsvorgang auf dem Aufwandskonto gebucht?",
+      "description": "Soll-Seite (linke Kontoseite)"
+    },
+    {
+      "shortDescription": "Wie verändert sich das Eigenkapitalkonto, wenn ein Gewinn erzielt wird?",
+      "description": "Das Eigenkapital erhöht sich."
+    },
+    {
+      "shortDescription": "Wie verändert sich das Eigenkapitalkonto, wenn ein Verlust erzielt wird?",
+      "description": "Das Eigenkapital verringert sich."
+    },
+    {
+      "shortDescription": "Was legt der Kontenrahmen fest?",
+      "description": "Der Kontenrahmen legt branchenspezifisch den Ordnungsrahmen der Buchführung fest."
+    },
+    {
+      "shortDescription": "Was legt der Kontenplan fest?",
+      "description": "Der Kontenplan legt unternehmensspezifisch die jeweilige Buchführung fest."
+    },
+    {
+      "shortDescription": "Welche Bedeutung hat die erste Ziffer der Kontonummer?",
+      "description": "Kontenklasse"
+    },
+    {
+      "shortDescription": "Welche Bedeutung hat die zweite Ziffer der Kontonummer?",
+      "description": "Kontengruppe"
+    },
+    {
+      "shortDescription": "Welche Bedeutung hat die dritte Ziffer der Kontonummer?",
+      "description": "Kontenart"
+    },
+    {
+      "shortDescription": "Nennen Sie die Tätigkeit, die nach der Auflösung der Eröffnungsbilanz in Bestandskonten zu erledigen ist.",
+      "description": "Geschäftsfälle buchen und Abschlussbuchungen durchführen."
+    },
+    {
+      "shortDescription": "Über welches Konto werden die Erfolgskonten abgeschlossen?",
+      "description": "Gewinn- und Verlustkonto"
+    },
+    {
+      "shortDescription": "Über welches Konto werden die Bestandskonten abgeschlossen?",
+      "description": "Schlussbilanzkonto"
+    },
+    {
+      "shortDescription": "Was versteht man unter Warenrohgewinn und wie wird er berechnet?",
+      "description": "Warenrohgewinn\n= Verkaufspreis der verkauften Waren\n\\- Einkaufpreis der verkaufen Waren\n\nbzw. Warenumsatz - Wareneinsatz"
+    },
+    {
+      "shortDescription": "Was stellt der Wareneinsatz dar?",
+      "description": "Wareneinsatz\n= Einkaufspreis der verkauften Waren"
+    },
+    {
+      "shortDescription": "Über welches Konto wird der Wert des Warenendbestandes abgeschlossen?",
+      "description": "Schlussbilanzkonto"
+    },
+    {
+      "shortDescription": "Welche Warenvorgänge werden in der Kontenklasse 2 gebucht?",
+      "description": "Kontenklasse 2:\nWareneinkauf zu Einstandspreisen"
+    },
+    {
+      "shortDescription": "Welche Warenvorgänge werden in der Kontenklasse 5 gebucht?",
+      "description": "Kontenklasse 5:\nWarenverkauf zu Verkaufspreisen"
+    },
+    {
+      "shortDescription": "Welche Warenvorgänge werden in der Kontenklasse 6 gebucht?",
+      "description": "Kontenklasse 6:\nEinkaufspreis der verkauften Waren (Wareneinsatz)"
+    },
+    {
+      "shortDescription": "Nennen Sie drei Güter, die mit 19 % Umsatzsteuer belastet werden.",
+      "description": "z.B.\n- Kleidung\n- Möbel\n- Benzin\n- Mineralwasser"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Güter, die mit dem ermäßigten Umsatzsteuersatz von 7 % belastet werden.",
+      "description": "z.B.\n- Zeitschriften\n- Bücher\n- Lebensmittel"
+    },
+    {
+      "shortDescription": "Was stellt die Umsatzsteuer in einer Eingangsrechnung gegenüber dem Finanzamt dar?",
+      "description": "Forderung an das Finanzamt (Vorsteuer)"
+    },
+    {
+      "shortDescription": "Auf welchem Konto wird vom Unternehmen gezahlte Umsatzsteuer gebucht?",
+      "description": "260 Vorsteuer"
+    },
+    {
+      "shortDescription": "Auf welchem Konto wird die vom Unternehmen vereinnahmte Umsatzsteuer gebucht?",
+      "description": "480 Umsatzsteuer"
+    },
+    {
+      "shortDescription": "Wie wird die Zahllast berechnet?",
+      "description": "Zahllast = Umsatzsteuer - Vorsteuer"
+    },
+    {
+      "shortDescription": "Wer trägt letztendlich die Umsatzsteuer?",
+      "description": "Endverbraucher"
+    },
+    {
+      "shortDescription": "Warum stellt die Umsatzsteuer einen durchlaufenden Posten dar?",
+      "description": "Umsatzsteuer, die der Unternehmer von seinem Kunden erhält, muss er an das Finanzamt abführen. Umsatzsteuer, die der Unternehmer seinem Lieferanten zahlen muss, erhält er vom Finanzamt zurück (Vorsteuer). Die abzuführende Umsatzsteuer wird somit mit der abzusetzenden Vorsteuer verrechnet."
+    },
+    {
+      "shortDescription": "Nennen Sie die Schritte zur Berechnung des Nettogehalts.",
+      "description": "Bruttogehalt\n- Lohnsteuer\n- Kirchensteuer\n- Solidaritätszuschlag\n- Rentenversicherung (AN-Anteil)\n- Arbeitslosenversicherung (AN-Anteil)\n- Pflegeversicherung (AN-Anteil)\n- Krankenversicherung (AN-Anteil)\n\n= Nettogehalt"
+    },
+    {
+      "shortDescription": "Nennen Sie drei Steuerabzüge vom Bruttogehalt.",
+      "description": "Steuerabzüge vom Bruttogehalt:\n- Lohnsteuer\n- Solidaritätszuschlag\n- Kirchensteuer"
+    },
+    {
+      "shortDescription": "Nennen Sie die vier gesetzlichen Sozialversicherungsabzüge vom Bruttogehalt.",
+      "description": "Gesetzliche Sozialversicherungsabzüge vom Bruttogehalt:\n- Rentenversicherung (AN-Anteil)\n- Arbeitslosenversicherung (AN-Anteil)\n- Pflegeversicherung (AN-Anteil)\n- Krankenversicherung (AN-Anteil)"
+    },
+    {
+      "shortDescription": "Nennen Sie die Auswirkung von Lohn- und Gehaltsbuchungen auf den Unternehmenserfolg.",
+      "description": "Löhne und Gehälter sind Aufwendungen, die den Gewinn mindern. Allerdings muss man diesem Aufwand auch einen entsprechenden Ertrag gegenüberstellen, der von dem Arbeitnehmer bewirkt wird."
+    },
+    {
+      "shortDescription": "Warum fallen bei Ausbildungsvergütungen normalerweise keine Lohn- und Kirchensteuern an?",
+      "description": "Lohnsteuer ist erst ab einem jährlichen Bruttoverdienst von ca. 11000 € zu bezahlen (monatlich ca. 920 € brutto). Ausbildungsvergütungen liegen meist unterhalb dieser Grenze."
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Merkmale, von denen die Lohnsteuerhöhe abhängig ist.",
+      "description": "z.B.\n- Höhe des Bruttogehalts\n- Steuerklasse\n- Kinderfreibeträge"
+    },
+    {
+      "shortDescription": "Was besteht man unter einem Vorschuss?",
+      "description": "Lohnvorauszahlung bzw. Gehaltsvorauszahlung"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Ursachen der Abschreibung.",
+      "description": "z.B.\n- Gebrauch (Beanspruchung, Nutzung)\n- natürlicher Verschleiß\n- technischer Fortschritt"
+    },
+    {
+      "shortDescription": "Wie wird die Abschreibung über die Nutzungsdauer verteilt, wenn linear abgeschrieben wird?",
+      "description": "gleichmäßig"
+    },
+    {
+      "shortDescription": "Wie wird der jährliche Abschreibungsbetrag berechnet?",
+      "description": "jährlicher Abschreibungsbetrag\n\n= Anschaffungskosten geteilt durch die Nutzungsdauer"
+    },
+    {
+      "shortDescription": "Wie hoch müssen die Anschaffungskosten mindestens sein, damit ein Gut als \"Geringwertiges Wirtschaftsgut\" abgeschrieben werden kann?",
+      "description": "150 €"
+    },
+    {
+      "shortDescription": "Wie hoch dürfen die Anschaffungskosten höchstens sein, damit ein Gut als \"Geringwertiges Wirtschaftsgut\" abgeschrieben werden kann?",
+      "description": "1000 €"
+    },
+    {
+      "shortDescription": "Über welchen Zeitraum müssen geringwertige Wirtschaftsgüter abgeschrieben werden?",
+      "description": "über fünf Jahre"
+    },
+    {
+      "shortDescription": "Wie wirken sich Abschreibungsbuchungen auf den Gewinn aus?",
+      "description": "Abschreibungen stellen Aufwand dar, Aufwand mindert den Gewinn."
+    },
+    {
+      "shortDescription": "Welcher Betrag muss beim Kauf eines Anlagegutes bezahlt werden?",
+      "description": "Anschaffungspreis bzw. Kaufpreis (einschließlich Umsatzsteuer)"
+    },
+    {
+      "shortDescription": "Welches Betrag muss beim Kauf eines Anlagegutes als Vermögenszugang gebucht werden?",
+      "description": "Anschaffungskosten"
+    },
+    {
+      "shortDescription": "Nennen Sie die drei Bestandteile des Jahresabschlusses.",
+      "description": "Bestandteile des Jahresabschlusses:\n- Eröffnungsbilanz\n- Schlussbilanz\n- Gewinn- und Verlustkonto"
+    },
+    {
+      "shortDescription": "Wie wird das Konto \"260 Vorsteuer\" am Jahresende abgeschlossen?",
+      "description": "Vorsteuer wird auf das Konto Umsatzsteuer gebucht, dann ergibt sich der Saldo als \"Zahllast\"."
+    },
+    {
+      "shortDescription": "Auf welches Konto werden die Umsatzerlöse am Jahresende gebucht?",
+      "description": "500 Umsatzerlöse"
+    },
+    {
+      "shortDescription": "Wie wird die Eigenkapitalrentabilität berechnet?",
+      "description": "Eigenkapitalrentabilität =\n\n(Gewinn - 100) : Eigenkapital"
+    },
+    {
+      "shortDescription": "Wie wird die Umsatzrentabilität berechnet?",
+      "description": "Umsatzrentabilität =\n\n(Gewinn - 100) : Umsatzerlöse"
+    },
+    {
+      "shortDescription": "Wie wird die Eigenkapitalquote berechnet?",
+      "description": "Eigenkapitalquote =\n\n(Eigenkapital - 100) : Gesamtkapital"
+    },
+    {
+      "shortDescription": "Wie wird die Anlagendeckung I berechnet?",
+      "description": "Anlagedeckung I =\n\n(Eigenkapital - 100) : Anlagevermögen"
+    },
+    {
+      "shortDescription": "Wie wird die Anlagendecken II berechnet?",
+      "description": "Anlagendeckung II =\n\n(langfristig verfügbares Kapital - 100) : Anlagevermögen"
+    }
+  ]
+}
