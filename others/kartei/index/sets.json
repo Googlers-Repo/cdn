@@ -33,14 +33,54 @@
         "cdn": "https://raw.githubusercontent.com/DerGoogler/cdn/master/others/kartei/lf4.json"
       },
       {
+        "name": "Lernfeld 5",
+        "desc": "Güter kommissionieren",
+        "cdn": "https://raw.githubusercontent.com/DerGoogler/cdn/master/others/kartei/lf5.json"
+      },
+      {
         "name": "Lernfeld 6",
         "desc": "Güter verpacken",
+        "cdn": "https://raw.githubusercontent.com/DerGoogler/cdn/master/others/kartei/lf6.json"
+      },
+      {
+        "name": "Lernfeld 7",
+        "desc": "Touren planen",
         "cdn": "https://raw.githubusercontent.com/DerGoogler/cdn/master/others/kartei/lf6.json"
       },
       {
         "name": "Lernfeld 8",
         "desc": "Güter verladen",
         "cdn": "https://raw.githubusercontent.com/DerGoogler/cdn/master/others/kartei/lf8.json"
+      },
+      {
+        "name": "Lernfeld 9",
+        "desc": "Güter versenden",
+        "cdn": "https://raw.githubusercontent.com/DerGoogler/cdn/master/others/kartei/lf9.json"
+      },
+      {
+        "name": "Lernfeld 10",
+        "desc": "Logistische Prozesse optimieren",
+        "cdn": "https://raw.githubusercontent.com/DerGoogler/cdn/master/others/kartei/lf10.json"
+      },
+      {
+        "name": "Lernfeld 11",
+        "desc": "Güter beschaffen",
+        "cdn": "https://raw.githubusercontent.com/DerGoogler/cdn/master/others/kartei/lf11.json"
+      },
+      {
+        "name": "Lernfeld 12",
+        "desc": "Kennzahlen ermitteln und auswerten",
+        "cdn": "https://raw.githubusercontent.com/DerGoogler/cdn/master/others/kartei/lf12.json"
+      },
+      {
+        "name": "WiSo Teil 1",
+        "desc": "",
+        "cdn": "https://raw.githubusercontent.com/DerGoogler/cdn/master/others/kartei/wiso.one.json"
+      },
+      {
+        "name": "Lernfeld 12",
+        "desc": "",
+        "cdn": "https://raw.githubusercontent.com/DerGoogler/cdn/master/others/kartei/wiso.two.json"
       }
     ]
   }
