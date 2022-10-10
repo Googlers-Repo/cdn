@@ -1,0 +1,503 @@
+{
+  "name": "Lernfeld 9",
+  "group": "lernfeld_9",
+  "description": "Güter versenden",
+  "karten": [
+    {
+      "shortDescription": "Erklären Sie den Begriff Verkehrsträgers.",
+      "description": "Verkehrsträger ist der Sammelbegriff für alle Verkehrsunternehmen, die mit\ngleichartigen Verkehrsmitteln (z.B. Lastkraftwagen) auf gleichen\nVerkehrswegen (z.B. Straßen) Verkehrsdienstleistungen erbringen."
+    },
+    {
+      "shortDescription": "Nennen Sie die verschiedenen Verkehrsträger.",
+      "description": "Verkehrsträger:\n- Güterkraftverkehr\n- Schienenverkehr\n- Luftverkehr\n- Binnenschifffahrt\n- Seeschifffahrt"
+    },
+    {
+      "shortDescription": "Nennen SIe je zwei Vor- und Nachteile des Güterkraftverkehrs.",
+      "description": "Vorteile sind z.B.\n- flexibel\n- Haus-Haus-Verkehr\n- schnell auf kurzen Strecken\n\nNachteile sind z.B.\n- geringe Nutzlast\n- umweltbelastend\n- witterungsabhängig\n- Staugefahr"
+    },
+    {
+      "shortDescription": "Nennen Sie je zwei Vor- und Nachteile des Schienenverkehrs.",
+      "description": "Vorteile sind z.B.\n- große Kapazitäten\n- schnell auf längeren Strecken\n- umweltfreundlich\n\nNachteile sind z.B.\n- unflexibel\n- kein Haus-Haus-Verkehr\n- zeitaufwendiges Rangieren\n- geringe Verkehrsdichte"
+    },
+    {
+      "shortDescription": "Nennen Sie je zwei Vor- und Nachteile des Luftverkehrs.",
+      "description": "Vorteile sind z.B.\n- schneller Transport\n- sicherer Transport\n\nNachteile sind z.B.\n- umweltbelastend\n- hohe Transportkosten\n- eingeschränkter Frachtraum"
+    },
+    {
+      "shortDescription": "Nennen Sie je zwei Vor- und Nachteile der Binnenschifffahrt.",
+      "description": "Vorteile sind z.B.\n- große Kapazität\n- umweltfreundlich\n- kein Sonntagsfahrverbot\n- geringer Transportpreis je Tonne\n\nNachteile sind z.B.\n- langsam\n- witterungsabhängig\n- geringe Verkehrsdichte\n- kaum Haus-Haus-Verkehr möglich"
+    },
+    {
+      "shortDescription": "Nennen Sie je zwei Vor- und Nachteile der Seeschifffahrt.",
+      "description": "Vorteile sind z.B.\n- große Kapazität\n- umweltfreundlich\n- geringer Transportpreis je Tonne\n\nNachteile sind z.B.\n- langsam\n- witterungsabhängig\n- lange Vor- und Nachläufe\n- geringe Verkehrsdichte"
+    },
+    {
+      "shortDescription": "Welche Größe dient zur Vergleichbarkeit der Transportleistungen der\nverschiedenen Verkehrsträger?",
+      "description": "Tonnenkilometer (tkm)"
+    },
+    {
+      "shortDescription": "Erklären Sie den Begriff Frachtführer.",
+      "description": "Frachtführer sind die Verkehrsunternehmen, die die Güterbeförderung per\nLkw, Bahn, Binnenschiff oder Flugzeug durchführen."
+    },
+    {
+      "shortDescription": "Aus welchen drei Teilen besteht das HGB-Transportrecht?",
+      "description": "- HGB-Frachtrecht\n- HGB-Speditionsrecht\n- HGB-Lagerrecht"
+    },
+    {
+      "shortDescription": "Nennen Sie die drei Schadensarten.",
+      "description": "- Güterschaden (Verlust, Beschädigung, Teilverlust)\n  - daraus Güterfolgeschaden (Vermögensschaden als Folge eines\n  Güterschadens\n\n- Reiner Vermögensschaden als Folge einer Lieferfristüberschreitung"
+    },
+    {
+      "shortDescription": "Nennen Sie drei Güterarten die sich als Luftfracht eignen.",
+      "description": "- eilbedürftige Güter\n- empfindliche Güter\n- hochwertige Güter\n- leicht verderbliche Güter\n- lebende Tiere"
+    },
+    {
+      "shortDescription": "Unterscheiden Sie Werkverkehr und gewerblichen Güterkraftverkehr.",
+      "description": "Werkverkehr:\nTransport des Unternehmens für eigene Zwecke\nGewerblicher Güterkraftverkehr:\nTransport für Dritte gegen Entgelt"
+    },
+    {
+      "shortDescription": "Nennen Sie die Hauptpflichten eines Spediteurs aus einem\nSpeditionsvertrag.",
+      "description": "Versendung des Gutes organisieren"
+    },
+    {
+      "shortDescription": "Nennen Sie die Hauptpflichten eines Frachtführers aus einem Frachtvertrag.",
+      "description": "Beförderung des Gutes an den Bestimmungsort und Auslieferung an den\nEmpfänger"
+    },
+    {
+      "shortDescription": "Nennen Sie Hauptpflichten eines Absenders aus einem\nFrachtvertrag/Speditionsvertrag.",
+      "description": "- Zahlung der vereinbarten Vergütung\n- Verpackung und Kennzeichnung des Gutes\n- Bereitstellung und Übergabe benötigter Dokumente\n- Erteilung aller notwendigen Auskünfte"
+    },
+    {
+      "shortDescription": "Welche zwei Speditionsarten gibt es?",
+      "description": "- Selbsteintritt des Spediteurs (Beförderung des Spediteurs mit eigenen\nFahrzeugen\n- Spedition zu festen Kosten, Fixkostenspedition (Fester Preis für\nBesorgung und Transport z.B. nach Auftrag, Gewicht, Volumen)"
+    },
+    {
+      "shortDescription": "Nennen Sie drei wichtige Inhaltspunkte eines Frachtbriefs.",
+      "description": "z.B. Ort und Tag der Ausstellung, Name und Anschrift des Absenders, Name\nund Anschrift des Frachtführers, Ladestelle, Tag der Übernahme des Gutes\nund Entladestelle, Name und Anschrift des Empfängers, evtl. Meldeadresse,\nBezeichnung des Gutes und Art der Verpackung, Anzahl, Zeichen und Nummern\nder Packstücke, Rohgewicht der Sendung"
+    },
+    {
+      "shortDescription": "Der Frachtbrief hat die Funktion eines Begleitpapiers.\nErläutern Sie dies.",
+      "description": "Der Frachtbrief begleitet das Gut vom Absender bis zum Empfänger. Der\nFrachtführer quittiert die Übernahme des Gutes, der Empfänger quittiert\nbei der Ablieferung den Erhalt des Gutes."
+    },
+    {
+      "shortDescription": "Der Frachtbrief hat die Funktion eines Beweispapiers.\nErläutern Sie dies.",
+      "description": "Nachweis über Inhalt und Abschluss des Frachtvertrages sowie darüber, dass\ndas Gut vollzählig und in äußerlich gutem Zustand übernommen wurde."
+    },
+    {
+      "shortDescription": "Wofür stehen die Abkürzungen DB, IC, ICE, RB?",
+      "description": "DB: Deutsche Bahn\nIC: Intercity\nICE: Intercity Express\nRB: Regionalbahn"
+    },
+    {
+      "shortDescription": "Was versteht man unter einem Beförderungshindernis?",
+      "description": "Der Transport kann nicht ordnungsgemäß durchgeführt werden, z.B. wegen\nLkw-Panne, Unfall, Stau, Unwetter oder höhere Gewalt."
+    },
+    {
+      "shortDescription": "Was versteht man unter einem Ablieferungshindernis?",
+      "description": "Die ordnungsgemäße Ablieferung ist nicht möglich, z.B. wegen\nAnnahmeverweigerung durch den Empfänger, Nichtbezahlung der Frachtkosten\ndurch den Empfänger bei einer Frachtnachnahme oder Mitteilung einer\nfalschen Lieferadresse an den Frachtführer."
+    },
+    {
+      "shortDescription": "Nach welcher Rechtsgrundlage haftet ein Lkw-Frachtführer bei einem\nnationalen Transport?",
+      "description": "HGB"
+    },
+    {
+      "shortDescription": "Nach welcher Rechtsgrundlage haftet ein Lkw-Frachtführer bei einem\ninternationalen Transport?",
+      "description": "CMR"
+    },
+    {
+      "shortDescription": "Unterscheiden Sie Gliederzug und Sattelzug.",
+      "description": "Gliederzug = LKW + Anhänger\nSattelzug = Sattelzugmaschine + Satteauflieger"
+    },
+    {
+      "shortDescription": "Nennen Sie drei Einflussfaktoren, die die Auswahl des einzusetzenden Lkw\nbestimmen.",
+      "description": "z.B.\n- Ladevolumen\n- Nutzlast\n- Lademeter\n- Witterungsschutz\n- Diebstahlschutz\n- Vorlademöglichkeit\n- Spezialtransporte\n- Gefahrgut-Transport"
+    },
+    {
+      "shortDescription": "Nennen Sie drei Gründe für das starke Anwachsen der Kleinsendungen in den\nletzten Jahren.",
+      "description": "z.B.\n- Globalisierung der Märkte\n- Wunsch nach kurzen Lieferzeiten\n- Zunahme individueller Kundenwünsche\n- Einschränkung der eigenen Lagerhaltung\n- Zunahme des elektronischen Handels per Internet"
+    },
+    {
+      "shortDescription": "Erläutern Sie den Begriff Komplettladung.",
+      "description": "Ein Transport lastet einen ganzen Lkw aus (z.B. 32 Paletten auf einem\nSattelauflieger)"
+    },
+    {
+      "shortDescription": "Erläutern Sie den Begriff Partiefracht.",
+      "description": "Ein Lkw wird durch eine Sendung nur teilweise ausgelastet (z.B. 7\nPaletten). Mit dem eingesetzten Lkw können weitere Partieladungen\ntransportiert werden."
+    },
+    {
+      "shortDescription": "Erläutern Sie den Begriff Stückgutsendung.",
+      "description": "Kleine Sendung, die mit vielen anderen kleinen Sendungen im\nSammelladungsverkehr transportiert wird."
+    },
+    {
+      "shortDescription": "Nennen Sie das wesentliche Merkmal von Kurierdiensten.",
+      "description": "Persönlich begleitete Transporte vom Versender bis zum Empfänger, die\nKuriere transportieren vor allem Dokumente, Wertsendungen und eilige\nSendungen."
+    },
+    {
+      "shortDescription": "Nennen Sie das wesentliche Merkmal von Expressdiensten.",
+      "description": "Im Vordergrund steht die Schnelligkeit der Auslieferung und nicht die\npersönliche Begleitung der Sendung. Die Abwicklung erfolgt als\norganisierter Systemverkehr (Sammelladung) über Hubs und Direktrelationen."
+    },
+    {
+      "shortDescription": "Nennen Sie das wesentliche Merkmal von Paketdiensten.",
+      "description": "Günstiger Versand von Kleinsendungen innerhalb vorgegebener Zeiträume. Für\ndie Packstücke gibt es Gewichts- und Maßvorgaben."
+    },
+    {
+      "shortDescription": "Nennen Sie drei Vorteile von KEP-Diensten.",
+      "description": "z.B.\n- persönliche Begleitung bei Kurierdiensten\n- Lieferfristgarantien\n- Just-in-Time-Lieferungen\n- Kundennähe\n- Sendungsverfolgung (Tracking and Tracing)\n- günstiges Preis-Leistungsverhältnis\n- Haus-Haus-Transporte"
+    },
+    {
+      "shortDescription": "Unterscheiden Sie Direktverkehr und Hub-and-Spoke-Systeme.",
+      "description": "Direktverkehr: Zwischen allen beteiligten Depots verkehrt jeweils ein LKW\n\n\nHub-and-Spoke-System: Jedes Depot fährt ledeglich das Hub in der Mittel\nDeutschlands an."
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Vorteile von Hub-and-Spoke-Systemen.",
+      "description": "- kostengünstiger\n- umweltfreundlicher"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Nachteile von Hub-and-Spoke-Systemen.",
+      "description": "- längere Lieferdauer\n- Gefahr des Verlorengehens/Beschädigung bei Umschlagsarbeiten"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Vorteile des Direktverkehrs.",
+      "description": "- schnell\n- Diebstahl/Schäden minimiert"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Nachteile des Direktverkehrs.",
+      "description": "- umweltschädlich\n- teuer"
+    },
+    {
+      "shortDescription": "Wie lautet die Formel für die Berechnung der Relationen?",
+      "description": "n = Depot\n[n - (n - 1)] : 2\n\noder\n\nz.B. 6 + 5 + 4 + 3 + 2 + 1 = Anzahl der Relationen"
+    },
+    {
+      "shortDescription": "Wie wird das Gurtmaß berechnet?",
+      "description": "Gurtmaß\n= längste Seite + 2 - kürzere Seiten"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei mögliche Zusatzleistungen von KEP-Diensten.",
+      "description": "z.B.\n- mehrmals tägliche Abholung und Zustellung bei Großkunden\n- mehrere Zustellversuche ohne Mehrkosten\n- automatische Versicherung de Sendungen\n- Retourenmanagement\n- Zollabfertigung bei Im- und Exporten\n- Warehousing (Lagerleistungen)"
+    },
+    {
+      "shortDescription": "Nennen Sie die Minimal- und Maximalgröße für ein DHL-Paket sowie das\nhöchstmögliche Gewicht.",
+      "description": "Minimalgröße:\n15 cm - 11 cm - 1 cm\nMaximalgröße:\n120 cm - 50 cm - 60 cm\nMaximalgewicht:\n31,5 kg"
+    },
+    {
+      "shortDescription": "Wie hoch ist die Haftung von DHL bei einem nationalen Versand mit DHL\nPaket und DHL Express?",
+      "description": "500 €"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Pflichten des Versenders beim Versand von Gefahrgut mit\neinem KEP-Dienst.",
+      "description": "z.B.\n- korrekte Klassifizierung\n- korrekte Verpackung\n- korrekte Markierung und Kennzeichnung\n- Einhaltung vorgegebener Mengenbegrenzungen"
+    },
+    {
+      "shortDescription": "Nennen Sie die Genehmigungen für den Güterkraftverkehr.",
+      "description": "- Erlaubnis nach GüKG (nur DE)\n- Gemeinschaftslizenz (EU-Lizenz)\n- CEMT-Konzession (grenzüberschreitende Transporte zwischen\nMitgliedsländern\n- Bilaterale Lizenzen (grenzüberschreitende Transporte)"
+    },
+    {
+      "shortDescription": "Für welche Fahrzeuge besteht die Mautpflicht?",
+      "description": "Für LKW und Fahrzeugkombinationen ab einem z.G.G. ab 12 Tonnen.\nEntrichtung der Maut entweder über OBU automatisch oder manuell an\nTankstellen/Raststätten bzw. im Internet."
+    },
+    {
+      "shortDescription": "Wovon ist die Mauthöhe abhängig?",
+      "description": "- Anzahl der Achsen\n- Schadstoffausstoß"
+    },
+    {
+      "shortDescription": "Erklären Sie den Vorteil des Ganzzugverkehrs.",
+      "description": "Schneller Transport großer Mengen über lange Strecken mit einem eigenen\nGüterzug. Je nach Planbarkeit für das Eisenbahnverkehrsunternehmen fahren\nGanzzüge fahrplanmäßig oder als Sonderzug."
+    },
+    {
+      "shortDescription": "Nennen und erklären Sie einen Nachteil des Einzelwagenverkehrs.",
+      "description": "z.B.\n\n- beim Einzelwagenverkehr muss zunächst ein einzelner Wagen dem Absender\nzugestellt und nach der Beladung wieder abgeholt werden\n\n- durch häufiges Rangieren (Eingliederung in Güterzüge, die in die\nZielregion fahren) wird der Transport recht langsam und teuer"
+    },
+    {
+      "shortDescription": "Wie kommt ein Bahnfrachtvertrag zustande?",
+      "description": "Ein Bahnfrachtvertrag entsteht durch zwei übereinstimmende\nWillenserklärungen."
+    },
+    {
+      "shortDescription": "Nennen Sie die verschiedenen Blätter des CIM-Frachtbriefes und geben Sie\nan, für wen diese bestimmt sind.",
+      "description": "Frachtbrieforiginal -> Empfänger\nFrachtkarte -> Empfangsbahn\nEmpfangsschein -> Empfangsbahn\nFrachtbriefdoppel -> Absender\nVersandschein -> Versandbahn"
+    },
+    {
+      "shortDescription": "Welche Pflichten ergeben sich aus einem Bahnfrachtvertrag für den\nAbsender?\n\nNennen Sie zwei Pflichten.",
+      "description": "z.B.\n\n- er erstellt den CIM-Frachtbrief\n\n- er ist grundsätzlich zahlungspflichtig für alle entstandenen Kosten\n(Fracht, Nebengebühren, Zölle)\n\n- er verpackt, kennzeichnet und verlädt die Güter und stellt alle\nnotwendigen Zollpapiere zur Verfügung"
+    },
+    {
+      "shortDescription": "Welche Pflicht ergibt sich aus einem Bahnfrachtvertrag für den Empfänger?",
+      "description": "Der Empfänger entlädt den Güterwagen."
+    },
+    {
+      "shortDescription": "Nennen Sie drei Vorteile des Gütertransports mit der Bahn.",
+      "description": "z.B. \n\n- umweltfreundlicher Transport großer Mengen über weiter Strecken\n\n- fahrplanmäßiger Transport im Nachtsprung\n\n- kombinierter Verkehr für den Transport von Wechselbrücken, Containern\nund Sattelaufliegern\n\n- kein Fahrverbot an Sonntagen und Ferienwochenenden"
+    },
+    {
+      "shortDescription": "Nennen Sie drei Nachteile des Gütertransports mit der Bahn.",
+      "description": "z.B.\n\n- relativ lange Beförderungsdauer bei kurzen Strecken\n\n- zeitaufwendig durch mehrmals notwendiges Rangieren und Zusammenstellung\nvon neuen Güterzügen\n\n- in der Regel kein Haus-Haus-Verkehr möglich"
+    },
+    {
+      "shortDescription": "Unterscheiden Sie Railports und Gatewayverbindungen.",
+      "description": "Railports: Umschlag von der Bahn auf andere Verkehrsträger\n\nGatewayverbindungen: Wechsel von Ladeeinheiten zwischen zwei Zügen"
+    },
+    {
+      "shortDescription": "Was versteht man unter kombiniertem Verkehr beim Bahntransport?",
+      "description": "Kombinierter Verkehr bedeutet beim Bahntransport, dass entweder ein\nkompletter Lkw für einen Teil der Strecke mit der Bahn transportiert wird\noder ein Ladungsträger (Container, Sattelauflieger)."
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Vorteile des unbegleiteten kombinierten Verkehrs gegenüber\ndem begleiteten kombinierten Verkehr.",
+      "description": "z.B.\n- kein Kostenaufwand für den Fahrer\n- schneller und einfacher Umschlag\n- keine speziellen Niederflurwagen erforderlich"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Vorteile des begleiteten kombinierten Verkehrs gegenüber\ndem unbegleiteten kombinierten Verkehr.",
+      "description": "z.B.\n- kein Kran für das Umladen erforderlich\n- Transportzeit ist für den Fahrer Ruhezeit"
+    },
+    {
+      "shortDescription": "Nennen Sie die Haftungsgrundlage in der Binnenschifffahrt.",
+      "description": "National: HGB\nInternational: CMNI"
+    },
+    {
+      "shortDescription": "Nennen Sie die Haftungsgrundlage im Schienenverkehr.",
+      "description": "National: HGB\nInternational: CIM"
+    },
+    {
+      "shortDescription": "Nennen Sie die Haftungsgrundlage in der Seeschifffahrt.",
+      "description": "National und International: Haager Regeln"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Vorteile eines Binnenschifftransportes.",
+      "description": "z.B.\n- große Transportmenge\n- kostengünstiger Transport je Tonne\n- umweltfreundlicher Transport"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Nachteile eines Binnenschifftransportes.",
+      "description": "z.B.\n- witterungsabhängig\n- langsam\n- hoher Anteil an gebrochenem Verkehr\n- kaum Haus-Haus-Verkehr möglich"
+    },
+    {
+      "shortDescription": "Wie unterscheidet sich eine Reederei von einem Partikulier?",
+      "description": "Die Reederei ist ein Schifffahrtsunternehmen mit eigener Landorganisation\n(Verwaltung), angestellten Mitarbeitern und eigenen und/oder fremden\nSchiffen, während der Partikulier in der Regel nur mit seinen\nFamilienangehörigen ein Binnenschiff betreibt."
+    },
+    {
+      "shortDescription": "Was versteht man unter \"TEU\"?",
+      "description": "TEU ist die Abkürzung für Twenty Foot Equivalent Unit = internationale\nMaßeinheit für einen 20'-Container, mit dem auch die Tragfähigkeit eines\nSchiffes oder der Umschlag in Häfen gemessen wird."
+    },
+    {
+      "shortDescription": "Welche Funktion hat ein Ladeschein?",
+      "description": "Der Ladeschein ist ein Warenwertpapier in der Binnenschifffahrt. Mit ihm\nkann Eigentum übertragen werden."
+    },
+    {
+      "shortDescription": "Wie wird die Lade- und Löschzeit eines Schiffes berechnet?",
+      "description": "Maximale Lade-/Löschzeit\n= Lademenge in t : 45 t/Stunde\nErgebnis wird aufgerundet auf ganze Stunden"
+    },
+    {
+      "shortDescription": "Nennen Sie drei Binnenschiffsarten.",
+      "description": "- Selbstfahrer\n- Schubverbände (Schubboot + Schubleichter)\n- RoRo-Schiffe\n- Gütermotorschiff\n- Tankmotorschiff\n- Koppelverband"
+    },
+    {
+      "shortDescription": "Unterscheiden Sie Trampschifffahrt und Linienschifffahrt",
+      "description": "Trampschifffahrt:\n\nDas ganze Schiff wird gechartert (Gesamtverfrachtung) oder einer der\nLaderäume (Teilverfrachtung).\n\nLinienschifffahrt:\n\nTransport von Größen bis zu einem 40'-Container nennt man\nStückgutverfrachtung."
+    },
+    {
+      "shortDescription": "Wann steht dem Frachtführer Liegegeld zu?",
+      "description": "Bei Überschreitung der maximalen Lade-/Löschzeit"
+    },
+    {
+      "shortDescription": "Was bedeutet \"KWZ\"?",
+      "description": "Kleinwasserzuschlag für Niedrigwasser"
+    },
+    {
+      "shortDescription": "Erklären Sie den Begriff Selbstfahrer in den Binneschifffahrt.",
+      "description": "Klassisches Binnenschiff mit eigenem Antrieb und Laderaum"
+    },
+    {
+      "shortDescription": "Erklären Sie den Begriff Schubverband in der Binnenschifffahrt.",
+      "description": "Kombination aus Schubboot (Binnenschiff mit Antrieb, aber ohne Laderaum)\nund in der Regel mehreren Schubleichtern (Binnenschiff ohne Antrieb, aber\nmit Laderaum) zur Erhöhung der Ladekapazität."
+    },
+    {
+      "shortDescription": "Erklären Sie den Begriff Ro-Ro-Schiff.",
+      "description": "Binnenschiffe für den Transport von rollfähigem Transportgut (z.B. Lkw,\nPkw, Traktoren)"
+    },
+    {
+      "shortDescription": "Erklären Sie den Begriff Pegel in der Seeschifffahrt.",
+      "description": "Ein Pegel dient zur Messung des Wasserstandes, der die tatsächliche\nTragfähigkeit des Binnenschiffes beeinflusst, da die Eintauchtiefe durch\ndie Tonnage bestimmt wird."
+    },
+    {
+      "shortDescription": "Woraus setzt sich das zulässige Gesamtgewicht zusammen?",
+      "description": "z.G.G.= Nutzlast (Ladekapazität eines Fahrzeugs in Tonnen) + Eigengewicht\n(Gewicht eines Fahrzeugs im leeren Zustand"
+    },
+    {
+      "shortDescription": "Nennen Sie drei Seeschiffsarten.",
+      "description": "- Containerschiffe\n- Stückgutschiffe (Transport von Stückgut ohne Container)\n- Spezialschiffe wie z.B. RoRo-Schiffe, Fährschiffe, Schwergutschiffe,\nAutotransporter"
+    },
+    {
+      "shortDescription": "Unterscheiden Sie die konditionelle Buchung und die Festbuchung in der\nSeeschifffahrt.",
+      "description": "Konditionelle Buchung: Reservierung eines Laderaums, ohne Verpflichtung\ndiesen Laderaum auch tatsächlich zu nutzen. Verfällt einige Tage vor\nSchiffsabfahrt.\n\n\nFestbuchung: Vermeidung des Verfalls einer konditionellen Buchung durch\neine Festbuchung. Wird der Laderaum durch den Befrachter nicht benutzt,\nhat der Verfrachter Anspruch auf Schadenersatz."
+    },
+    {
+      "shortDescription": "Nennen Sie eine Pflicht aus dem Frachtvertrag für den Befrachter\n(Verlader) in der Seeschifffahrt.",
+      "description": "z.B.\n- ordnungsgemäße Übergabe der Güter an den Verfrachter\n- Frachtschuldner als Vertragspartner des Verfrachters"
+    },
+    {
+      "shortDescription": "Nennen Sie eine Pflicht aus dem Frachtvertrag für den Verfrachter\n(Frachtführer) aus der Seeschifffahrt.",
+      "description": "z.B.\n- Verantwortung für See- und Ladetüchtigkeit des Schiffes\n- fürsorgliche Behandlung des Gutes\n- Übergabe an den Empfänger"
+    },
+    {
+      "shortDescription": "Nennen Sie einen Grund, warum Massen- und Schüttgüter in der Regel mit dem\nSchiff transportiert werden.",
+      "description": "z.B.\n- große Kapazität\n- geringe Transportkosten je Tonne"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei deutsche Häfen an der Nordsee.",
+      "description": "z.B.\n- Hamburg\n- Bremen\n- Bremerhaven\n- Cuxhaven\n- Wilhelmshaven\n- Emden"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei deutsche Häfen an der Ostsee.",
+      "description": "z.B.\n- Kiel\n- Rostock\n- Saßnitz\n- Puttgarden"
+    },
+    {
+      "shortDescription": "Welche Häfen verbergen sich unter dem Kürzel \"ARA\" und in welchen Ländern\nliegen diese Häfen?",
+      "description": "Amsterdam -> Niederlande\nRotterdam -> Nierderlande\nAntwerpen -> Belgien"
+    },
+    {
+      "shortDescription": "Nennen Sie drei Gründe, warum immer mehr Güter in Containern transportiert\nwerden.",
+      "description": "z.B.\n- Haus-Haus-Verkehr möglich\n- Stauung des Containers beim Versender und Verplombung, Entladung beim\nEmpfänger\n- schneller Umschlag in den Seehäfen\n- Transport im Vor- und Nachlauf mit allen Verkehrsmitteln möglich"
+    },
+    {
+      "shortDescription": "Erklären Sie den Begriff Verfrachter in der Seeschifffahrt.",
+      "description": "Verfrachter = Frachtführer in der Seeschiffffahrt"
+    },
+    {
+      "shortDescription": "Welches Papier ist in der Seeschifffahrt ein Begleitpapier?",
+      "description": "Seefrachtbrief (sea waybill/express cargo bill)"
+    },
+    {
+      "shortDescription": "Welches Papier ist in der Seeschifffahrt ein Warenwertpapier?",
+      "description": "Konnossement"
+    },
+    {
+      "shortDescription": "Erklären Sie die Abkürzung \"B/L\".",
+      "description": "Bill of Lading (= Konnossement)"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Vorteile einer Luftfrachtsendung.",
+      "description": "z.B.\n- schneller und sicherer Transport\n- hohe Pünktlichkeit (fahrplanmäßige Flüge)\n- viele Relationen\n- hohe Flugfrequenz auf den einzelnen Relationen"
+    },
+    {
+      "shortDescription": "Nennen Sie den wichtigsten Frachtflughafen sowohl international als auch\nnational.",
+      "description": "International: Hongkong/China\nNational: Frankfurt/Main, Leipzig, Köln, München"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Nachteile einer Luftfrachtsendung.",
+      "description": "z.B.\n- sehr hohe Transportkosten\n- gebrochener Verkehr\n- geringe Kapazität der Flugzeuge\n- umweltschädlich (Lärm, Abgase)"
+    },
+    {
+      "shortDescription": "Erklären Sie die Abkürzung \"AWB\".",
+      "description": "Air Waybill:\n\nLuftfrachtbrief (ausgestellt in drei Originalen: First Carrier, Consignee,\nShipper)"
+    },
+    {
+      "shortDescription": "Erklären Sie den Begriff \"ULD\".",
+      "description": "Unit Load Device Program:\n\nVereinheitlichung der Luftfrachtcontainer und -paletten zur besseren\nAusnutzung des knappen Laderaums im Flugzeug"
+    },
+    {
+      "shortDescription": "Erklären Sie die Abkürzung \"IATA\".",
+      "description": "International Air Transport Association:\n\nInternationaler Verband der Fluggesellschaften zur Regelung der\nkommerziellen Fragen der Luftfracht (z.B. TACT, Abrechnung der\nFluggesellschaften untereinander)"
+    },
+    {
+      "shortDescription": "Erklären Sie den Begriff \"Montrealer Übereinkommen\".",
+      "description": "Internationales Abkommen über die Haftung in der internationalen\nLuftfracht"
+    },
+    {
+      "shortDescription": "Erklären Sie die Abkürzung \"TACT\".",
+      "description": "The Air Cargo Tariff:\n\nverbindlicher Tarif für IATA-Fluggesellschaften zur Abrechnung der\nLuftfrachtkosten"
+    },
+    {
+      "shortDescription": "Erklären Sie, warum ein AAN-Luftfrachtcontainer unten schräg nach innen\nverläuft.",
+      "description": "Zur bessere Ausnutzung der beengten Laderaummöglichkeiten im Lower Deck\neiner Frachtmaschine (oder auch einer Passagiermaschine)"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei verschiedene Bedeutungen des AWB.",
+      "description": "z.B.\n- Beweispapier\n- Empfangsbestätigung\n- Warenbegleitpapier bzw. Beförderungspapier\n- Versicherungsschein\n- Auslieferungsnachweis\n- Gestellungsverzeichnis\n- Nachweis für Verfügungsrecht"
+    },
+    {
+      "shortDescription": "Nennen Sie die Haftungsgrundlage bei nationalen Luftfrachttransporten.",
+      "description": "HGB"
+    },
+    {
+      "shortDescription": "Nennen Sie die Haftungsgrundlage bei internationalen\nLuftfrachttransporten.",
+      "description": "Montrealer Übereinkommen"
+    },
+    {
+      "shortDescription": "Welche Leistungen im Sammelgutverkehr sind mit dem Haus-Haus-Entgelt\nabgedeckt?",
+      "description": "Der Transport einschließlich Be- und Entladung"
+    },
+    {
+      "shortDescription": "Was ist ein Avis?",
+      "description": "Ein Avis ist die Ankündigung einer Lieferung."
+    },
+    {
+      "shortDescription": "Wovon hängen die Gebühren für die Nachnahme bei einer Sammelgutsendung ab?",
+      "description": "Die Nachnahmegebühr hängt von der Höhe des eingezogenen Betrages ab."
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Beispiele für Nebengebühren bei einer Sammelgutsendung.",
+      "description": "z.B.\n- Mautgebühren\n- Palettentauschgebühren\n- Avisgebühren\n- Zuschläge für Gefahrgut"
+    },
+    {
+      "shortDescription": "Welche Bedeutung hat das Gurtmaß für den KEP-Versand?",
+      "description": "Güter, die das Gurtmaß überschreiten, werden nicht transportiert."
+    },
+    {
+      "shortDescription": "Nennen Sie die drei wesentlichen Einflussgrößen auf den Frachtpreis beim\nBahntransport.",
+      "description": "z.B.\n- Art der Güterwagens\n- Entfernung\n- Gewicht der Ware"
+    },
+    {
+      "shortDescription": "Nennen Sie drei Güterwagenarten.",
+      "description": "- Offene Wagen\n- Offene Schüttgutwagen\n- Gedeckt Großräumige Schiebewandwagen\n- Gedeckter Schüttgutwagen\n- Wagen mit öffnungsfähigem Dach\n- Autotransportwagen\n- Kesselwagen\n- Rungenwagen\n- Tragwagen für Großcontainer und Wechselbehälter"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Nebengebühren beim Binnenschifftransport.",
+      "description": "z.B.\n- Ufergeld\n- Liegegeld\n- Hafengeld\n- Kleinwasserzuschlag"
+    },
+    {
+      "shortDescription": "Welche Bedeutung hat die maximale Lade- und Löschzeit beim\nBinnenschifftransport?",
+      "description": "Wird die maximale Lade- und Löschzeit überschritten, fallen zusätzliche\nGebühren an."
+    },
+    {
+      "shortDescription": "Was versteht man unter einer M/G-Rate beim Seetransport?",
+      "description": "Für die Frachtberechnung wird entweder das Gewicht oder das Volumen der\nWare zugrunde gelegt, je nachdem, welcher Wert höher ist."
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Zuschläge zur Frachtrate in der Seeschifffahrt.",
+      "description": "z.B.\n- Längenzuschlag\n- Schwergutzuschlag\n- Bunkerölzuschlag\n- Gefahrenzuschlag\n- Währungszuschlag\n- Verstopfungszuschlag"
+    },
+    {
+      "shortDescription": "Welche Leistung ist mit dem Entgelt des TACT abgedeckt?",
+      "description": "Das Entgeld nach TACT deckt die Beförderung von Flughafen zu Flughafen."
+    },
+    {
+      "shortDescription": "Was ist eine Zollunion?",
+      "description": "Zollfreiheit zwischen den angeschlossenen Ländern und einheitliche\nDrittlandszölle."
+    },
+    {
+      "shortDescription": "Grenzen Sie Import und Exporte voneinander ab.",
+      "description": "Import: Wareneinfuhr\nExport: Warenausfuhr"
+    },
+    {
+      "shortDescription": "Nennen Sie eine Einfuhrabgabe.",
+      "description": "z.B.\n- Zoll\n- Verbrauchersteuern\n- EUSt"
+    },
+    {
+      "shortDescription": "Warum werden Einfuhrabgaben berechnet?",
+      "description": "Zum Schutz der inländischen Wirtschaft vor billigen Importen"
+    },
+    {
+      "shortDescription": "Definieren Sie den Zollwert.",
+      "description": "CIF-Wert an der EU-Grenze"
+    },
+    {
+      "shortDescription": "Was ist ein T1-Verfahren?",
+      "description": "Möglichkeit zum Transport von Drittlandswaren unter Zollüberwachung\n(Ausstellung eines T1-Dokuments und Verplombung des Fahrzeugs) von einem\nGrenzzollamt zu einem Binnenzollamt."
+    },
+    {
+      "shortDescription": "Erklären Sie den Begriff \"Carnet TIR-Verfahren\".",
+      "description": "Möglichkeit des Transportes von Waren mit einem Lkw über eine oder mehrere\nGrenzen außerhalb der EU/EFTA unter Zollüberwachung (Ausstellungeines\nCarnet TIR und Verplombung des Fahrzeugs). An den Grenzen erfolgt\nlediglich eine Prüfung des Carnet TIR und der Verplombung. Die Gestellung\nder Ware erfolgt erst beim Binnenzollamt im Empfangsland."
+    },
+    {
+      "shortDescription": "Grenzen Sie die beiden Veredelungsarten im internationalen Gütertransport\nvoneinander ab.",
+      "description": "Aktive Veredelung:\n\nVeredelung von Drittlandswaren innerhalb der EU und anschließende\nWiederausfuhr\n\nPassive Veredelung:\n\nVeredelung von EU-Waren in einem Drittland und anschließende Wiedereinfuhr"
+    }
+  ]
+}
