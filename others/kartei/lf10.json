@@ -1,0 +1,327 @@
+{
+  "name": "Lernfeld 10",
+  "group": "lernfeld_10",
+  "description": "Logistische Prozesse optimieren",
+  "karten": [
+    {
+      "shortDescription": "Was versteht man unter einem Bedürfnis?",
+      "description": "Unter einem Bedürfnis versteht man das Gefühl eines Mangels, verbunden mit dem Wunsch, diesen Mangel zu beseitigen."
+    },
+    {
+      "shortDescription": "Unterscheiden Sie die Bedürfnisse nach der Dringlichkeit.",
+      "description": "Bedürfnisse nach der Dringlichkeit:\n- Existenzbedürfnisse\n- Kulturbedürfnisse\n- Luxusbedürfnisse"
+    },
+    {
+      "shortDescription": "Unterscheiden Sie die Bedürfnisse nach der Art Bedürfnisträgers.",
+      "description": "Bedürfnisse nach der Art des Bedürfnisträgers:\n- Individualbedürfnisse\n- Kollektivbefürnisse"
+    },
+    {
+      "shortDescription": "Was versteht man unter Bedarf?",
+      "description": "Bedarf ist die mit einem Kaufwillen und damit auch mit Kaufkraft\n(Geld) abgedeckte Möglichkeit, ein Produkt zu erwerben, was nicht\nzwangsläufig bedeutet, dass dieses Produkt auch tatsächlich erworben wird.\n\n\nBedarf = Bedürfnis + Kaufwille + Kaufkraft"
+    },
+    {
+      "shortDescription": "Was versteht man unter Nachfrage?",
+      "description": "Nachfrage ist der Teil des Bedarfs, der am Markt durch eine\nKaufentscheidung wirksam wird.\n\n\nNachfrage = Bedarf + Kaufentscheidung"
+    },
+    {
+      "shortDescription": "Was sind freie Güter?",
+      "description": "Freie Güter stehen dem Menschen kostenlos und unbeschränkt zur Verfügung (z.B. Sonnenlicht, Wüstensand)."
+    },
+    {
+      "shortDescription": "Was sind wirtschaftliche Güter?",
+      "description": "Wirtschaftliche Güter müssen erst hergestellt werden. Sie sind knapp und haben einen Preis (z.B. Brot, Auto)."
+    },
+    {
+      "shortDescription": "Unterscheiden Sie Produktions- und Konsumgüter.",
+      "description": "Produktionsgüter werden zur Herstellung andere Güter eingesetzt\n(z.B. Holz, Bohrmaschine)\n\n\nKonsumgüter dienen der unmittelbaren Bedürfnisbefriedigung des Endverbrauchers (z.B. Nahrungsmittel, Kleidung)."
+    },
+    {
+      "shortDescription": "Unterscheiden Sie Verbrauchs- und Gebrauchsgüter.",
+      "description": "Verbrauchsgüter können nur einmal benutzt werden (z.B. Brot,\nPapiertaschentuch)\n\n\nGebrauchsgüter können mehrmals über einen längeren Zeitraum hinweg benutzt werden (z.B. Tisch, Auto)."
+    },
+    {
+      "shortDescription": "Was sind Substitutionsgüter?",
+      "description": "Substitutionsgüter sind Güter, die sich ganz oder teilweise gegenseitig ersetzen und daher alternativ verwendet werden können (z.B. Butter - Magarine)."
+    },
+    {
+      "shortDescription": "Was sind Komplementärgüter?",
+      "description": "Komplementärgüter sind Güter, die sich ergänzen, sodass man sie zusammen einsetzen muss, wenn man ein bestimmtes Ergebnis erzielen will (z.B. Auto - Benzin)."
+    },
+    {
+      "shortDescription": "Definieren Sie das Maximalprinzip.",
+      "description": "Maximalprinzip:\n\nMit einem bestimmten Einsatz von Mitteln soll der größtmögliche (maximale) Einsatz erzielt werden."
+    },
+    {
+      "shortDescription": "Definieren Sie das Minimalprinzip.",
+      "description": "Minimalprinzip:\n\nEin bestimmter Erfolg soll mit dem geringsten (minimalen) Mitteleinsatz erreicht werden."
+    },
+    {
+      "shortDescription": "Nennen Sie die volkswirtschaftlichen Produktionsfaktoren.",
+      "description": "Volkswirtschaftliche Produktionsfaktoren:\n- Boden/Natur\n- Arbeit\n- Kapital\n- Bildung"
+    },
+    {
+      "shortDescription": "Nennen Sie die betriebswirtschaftlichen Produktionsfaktoren.",
+      "description": "Betriebswirtschaftliche Produktionsfaktoren:\n- geistige Arbeit (dispositiver Faktor)\n- 4 Elemtarfaktoren\n  - ausführende Arbeit\n  - Betriebsmittel\n  - Werkstoffe\n  - Rechte"
+    },
+    {
+      "shortDescription": "Nennen Sie die Wirtschaftssektoren des einfach Wirtschaftskreislaufs.",
+      "description": "Wirtschaftssektoren des einfachen Wirtschaftskreislaufs:\n- private Haushalte\n- Unternehmen"
+    },
+    {
+      "shortDescription": "Nennen Sie die Güterströme im einfachen Wirtschaftskreislaufs.",
+      "description": "Güterströme im einfachen Wirtschaftskreislauf:\n- Arbeit\n- Güter"
+    },
+    {
+      "shortDescription": "Nennen Sie die Geldströme im einfachen Wirtschaftskreislauf.",
+      "description": "Geldströme im einfachen Wirtschaftskreislauf:\n- Einkommen\n- Konsumausgaben"
+    },
+    {
+      "shortDescription": "Nennen Sie die drei Zielgrößen des magischen Dreiecks eines Unternehmens.",
+      "description": "Zielgrößen:\n- Zeit\n- Kosten\n- Qualität"
+    },
+    {
+      "shortDescription": "Definieren Sie den Begriff Qualität nach DIN EN ISO 8402.",
+      "description": "Unter Qualität versteht man die Gesamtheit von Merkmalen einer Einheit bezüglich ihrer Eignung, festgelegte und vorausgesetzte Erfordernisse zu erfüllen."
+    },
+    {
+      "shortDescription": "Nennen Sie drei Qualitätsmerkmale.",
+      "description": "z.B.\n- optimale Funktion\n- hohe Sicherheit\n- hohe Zuverlässigkeit\n- gute Beratung und Betreuung\n- kurze Lieferzeiten\n- gutes Aussehen des Produktes"
+    },
+    {
+      "shortDescription": "Aus welchen drei Kostenarten setzen sich die Qualitätskosten zusammen?",
+      "description": "Die Qualitätskosten setzen sich aus folgenden drei Kostenarten zusammen:\n- Fehlerverhütungskosten\n- Prüfkosten\n- Fehlerkosten"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Fehlerverhütungskosten.",
+      "description": "z.B.\n- Kosten der Qualitätsplanung\n- Kosten der Lieferantenbeurteilung, -auswahl und -überwachung\n- Kosten der Prozessoptimierung\n- Kosten für die Prüfung des Qualitätssicherungssystems\n- Kosten für Personalschulung und Motivation der Mitarbeiter"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Prüfkosten.",
+      "description": "z.B.\n- Kosten für Prüfungen im Wareneingang\n- Kosten für Endprüfungen vor Auslieferung der Produkte\n- Kosten für Abnahme- und Zulassungsprüfung\n- Kosten für Laboruntersuchungen und Tests\n- Kosten der Dokumentation\n- Kosten für Prüfer und Prüfmittel\n- Kosten für Instandhaltung der Prüfmittel"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Fehlerkosten.",
+      "description": "z.B.\n- Kosten für Ausschuss\n- Kosten für Mehr- und Nacharbeit\n- Kosten für Wiederholungsprüfungen\n- Kosten für Fehlersuche\n- Gewährleistungskosten\n- Produkthaftungskosten\n- Kosten durch Nachbearbeitung fehlerhafter Produkte und durch Lieferung von Ersatzteilen\n- Kosten für Reklamationsbearbeitung"
+    },
+    {
+      "shortDescription": "Was besagt ein Zertifikat nach DIN EN ISO-9000 ff.?",
+      "description": "Ein Unternehmen verfügt über Prozesse und Verfahren, die zu einer bestimmten Qualität der Produkte und Dienstleistungen führen können."
+    },
+    {
+      "shortDescription": "Nennen Sie drei Vorteile eines zertifizierten Unternehmens gegenüber einem nicht zertifiziertem Unternehmen.",
+      "description": "z.B.\n- internationale Anerkennung\n- verbesserte Mitarbeiterzufriedenheit\n- Fähigkeit, mit größeren Unternehmen zu konkurrieren\n- verbesserte Situation beim Lieferantenvergleich\n- höhere Kundenzufriedenheit\n- steigende Gewinne\n- Möglichkeit, Produkte auf neuen Märkten abzusetzen"
+    },
+    {
+      "shortDescription": "Warum ist ein negatives Image aufgrund mangelnder Qualität unbedingt zu vermeiden?",
+      "description": "Negative Erfahrungen verbreiten sich um ein Vielfaches schneller als positive Erfahrungen und ein ruiniertes Image lässt sich nur langsam wieder verbessern. Preisverfall und Umsatzeinbußen sind die Folgen, die ein Unternehmen in den Ruin treiben können."
+    },
+    {
+      "shortDescription": "Nennen Sie eine Möglichkeit eines Unternehmens sein Image zu schützen, selbst wenn es zu mangelhaften Produkten kommt.",
+      "description": "z.B.\n- vorbildliche Reklamationsbearbeitung\n- kulante Reklamationsregelungen\n- Einrichtung eines Beschwerdemanagements"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Möglichkeiten, wie ein Unternehmen erfahren kann, was seine Kunden wünschen.",
+      "description": "z.B.\n- eigene Kundenbefragungen\n- externe Marktforschungsergebnisse\n- Vertreterbesuche\n- Qualitätsvereinbarungen"
+    },
+    {
+      "shortDescription": "Ein Unternehmen besteht aus einem System von Prozessen.\nWas ist hier unter einem Prozess zu verstehen?",
+      "description": "Ein Prozess ist die Zusammenfassung logisch zusammenhängender Arbeitsschritte, die einen bestimmten Input in einen bestimmten Output umwandeln."
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Tätigkeiten, die zum Kernprozess eines Automobilherstellers gehören.",
+      "description": "z.B.\n- neues Autos und Prozesse entwickeln\n- Aufträge bearbeiten\n- Material bereitstellen\n- Autos produzieren\n- Autos verkaufen"
+    },
+    {
+      "shortDescription": "Was bedeutet \"Kaizen\"?",
+      "description": "Kaizen stamm aus dem Japanischen und bedeutet \"Verbesserung zum Besseren\". Gemeint ist damit die schrittweise und stetige Verbesserung von Abläufen, Produktionsverfahren oder Produkten durch alle Mitarbeiter eines Unternehmens."
+    },
+    {
+      "shortDescription": "Nennen Sie drei Ziele von Kaizen und KVP.",
+      "description": "z.B.\n- Arbeitsplatzsicherung\n- Wettbewerbsfähigkeit\n- Kostensenkung\n- Fehlerlosigkeit\n- Produktivitätssteigerung\n- Verbesserung der Arbeitsprozesse\n- Ausschussverminderung\n- hohe Kundenzufriedenheit\n- Qualitätssteigerung\n- keine Verschwendung\n- höhere Mitarbeitermotivation"
+    },
+    {
+      "shortDescription": "Nennen Sie die vier Phasen des Demingkreises.",
+      "description": "Plan -Planen\nDo - Ausführen\nCheck - Prüfen\nAct - Handeln"
+    },
+    {
+      "shortDescription": "Was soll mit der 5-S-Arbeitsplatzorganisation erreicht werden?",
+      "description": "Es ist ein Instrument, um Arbeitsplätze und deren Umfeld sicher, sauber und übersichtlich zu gestalten."
+    },
+    {
+      "shortDescription": "Wofür stehen Muda, Mura und Muri?",
+      "description": "Muda = Verschwendung\nMura = Unausgeglichenheit\nMuri = Überlastung"
+    },
+    {
+      "shortDescription": "Nennen Sie drei Arten der Verschwendung.",
+      "description": "Verschwendung durch\n- Überproduktion\n- Wartezeiten\n- unnötige Transportwege/-zeiten\n- unzureichende Arbeitsprozesse\n- überhöhte Lagerhaltung\n- unnötige Bewegungen\n- Produktionsfehler\n- nicht genutzte Kreativität von Mitarbeitern"
+    },
+    {
+      "shortDescription": "Was bedeutet \"Lean Production\"?",
+      "description": "Schlanke Produktion, d.h. Vermeidung von Verschwendungen"
+    },
+    {
+      "shortDescription": "Welche englischen Begriffe stecken hinter der Abkürzung \"TQM\"?",
+      "description": "T = Total\nQ = Quality\nM = Management"
+    },
+    {
+      "shortDescription": "Erklären Sie, warum TQM keine einmalige Aktion ist.",
+      "description": "Im Zentrum des TQM steht KVP, der immer anhaltende Verbesserungsprozess."
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Vorteile von Total Quality Management.",
+      "description": "z.B.\n- ständige Verbesserung der Qualität von Produkten und Dienstleistungen\n- Förderung der Zufriedenheit bei Lieferanten, Mitarbeiter und Abnehmern\n- Kosteneinsparungen durch Prozessverbesserungen und Reduzierung von Fehlern\n- Produktivitätssteigerungen durch weniger Verschwendung"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Gründe für Überproduktion.",
+      "description": "z.B.\n- lange Rüstzeiten\n- Überbetonung der Maschinenauslastung\n- ungenügende Maschinenzuverlässigkeit\n- mangelnde Qualität bei den produzierten Teilen\n- schlecht organisierte Logistik (Informations- und Kommunikationsprobleme)\n- schlechtes Layout (isolierte Fertigungsinseln)"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Gründe für überhöhte Lagerhaltung.",
+      "description": "z.B. \n- das Bestreben, Mengenrabatte im Einkauf zu erzielen\n- nicht aufeinander abgestimmte Fertigungsstufen und damit einhergehende hohe Durchlaufzeiten\n- übertriebenes Sicherheitsdenken\n- saisonbedingte Schwankungen"
+    },
+    {
+      "shortDescription": "Nennen Sie drei Entscheidungskriterien für Eigenfertigung oder Fremdbezug.",
+      "description": "z.B.\n- Kostengesichtspunkte\n- Kapazitätsauslastung und Beschäftigungssituation\n- Qualitätsansprüche und technisches Know-how\n- Autonomie und Zuverlässigkeit\n- Kapitalbedarf für den Bau eines eigenen Lagers"
+    },
+    {
+      "shortDescription": "Wie lautet die Formel zur Berechnung des durchschnittlichen Lagerbestandes, wenn die Quartalsendbestände gegeben sind?",
+      "description": "Durchschnittlicher Lagerbestand\n= (AB + 4 Quartalsendbestände) : 5"
+    },
+    {
+      "shortDescription": "Wie wird der verfügbare Lagerbestand berechnet?",
+      "description": "tatsächlicher Lagerbestand\n- reservierte Bestände\n- Mindestbestand\n= verfügbarer Lagerbestand"
+    },
+    {
+      "shortDescription": "Was besteht man unter dem Mindestbestand?",
+      "description": "Der Mindestbestand, auch \"Sicherheitsbestand\", \"eiserne Reserve\" genannt, ist der Lagerbestand, der normalerweise nicht unterschritten werden darf. Er soll die Leistungsbereitschaft des Unternehmens auch in außergewöhnlichen Situationen gewährleisten."
+    },
+    {
+      "shortDescription": "Was versteht man unter dem Höchstbestand?",
+      "description": "Der Höchstbestand zeigt die Warenmenge an, die von einem Artikel maximal im Lager vorhanden sein darf, um hohe Kosten - z.B. hohe Lagerkosten oder Kosten wegen der Möglichkeit des Verderbens oder Veraltens der Ware - sowie eine hohe Kapitalbindung zu verhindern."
+    },
+    {
+      "shortDescription": "Was versteht man unter dem Meldebestand?",
+      "description": "Der Meldebestand, auch \"Bestellpunkt\" genannt, ist der Bestand, bei dessen Erreichen bzw. Unterschreiten eine Bestellung ausgelöst wird."
+    },
+    {
+      "shortDescription": "Wie wird der Meldebestand berechnet?",
+      "description": "Meldebestand\n\n= (durchschnittlicher Tagesverbrauch - Lieferzeit in Tagen) + Mindestbestand"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Beispiele für Lagerhaltungskosten.",
+      "description": "z.B.\n- Verzinsung des in den Lagerbeständen gebundenen Kapitals\n- Miete\n- Abschreibungen\n- Energiekosten\n- Instandhaltungskosten\n- Gebäudeversicherung\n- Kosten für Warenpflege\n- Personalkosten"
+    },
+    {
+      "shortDescription": "Was versteht man unter Lieferbereitschaft?",
+      "description": "Die Lieferbereitschaft gibt an, ob ein Auftrag ab Lager erfüllt werden kann, und wird durch den Lieferbereitschaftsgrad zum Ausdruck gebracht."
+    },
+    {
+      "shortDescription": "Die ABC-Analyse liefert wertvolle Entscheidungshilfen.\nNennen Sie zwei Maßnahmen zur Behandlung von C-Gütern.",
+      "description": "z.B.\n- vorratsbezogenes statt bedarfsbezogenes Bestellwesen\n- einfache Bestellwesen\n- Bestellung in größeren Mengen, um z.B. Mengenrabatte auszunutzen\n- geringer Aufwand in der Bestandsführung\n- exakte Überwachung der Verweildauer unnötig\n- höhere Sicherheits- und Meldebestände sind erlaubt"
+    },
+    {
+      "shortDescription": "Was versteht man unter Just-in-time-Belieferung?",
+      "description": "Bei der Just-in-time-Belieferung werden die Materialien erst dann bereitsgestellt, wenn sie tatsächlich benötigt werden, d.h. sie werden in der richtigen Menge und Qualität zum richtigen Zeitpunkt an der richtigen Stelle im Produktionsverlauf angeliefert."
+    },
+    {
+      "shortDescription": "Nennen Sie einen Vorteil der Just-in-time-Belieferung für die Allgemeinheit.",
+      "description": "z.B. Schaffung von Arbeitsplätzen durch die Neuansiedlung von Zulieferbetrieben in der Nähe des Auftraggebers"
+    },
+    {
+      "shortDescription": "Nennen Sie einen Nachteil der Just-in-time-Belieferung.",
+      "description": "z.B. erhöhtes Verkehrsaufkommen, weil kleinere Gütermengen transportiert werden und dadurch auch mehr Lkw auf den Straßen unterwegs sind"
+    },
+    {
+      "shortDescription": "Was versteht man im Rahmen der Beschaffung unter \"Wall-to-wall\"?",
+      "description": "Es ist eine Sonderform des Just-in-time. Zulieferer siedeln sich in unmittelbarer Nähe zum Auftraggeber an, quasi Wand an Wand."
+    },
+    {
+      "shortDescription": "Was versteht man unter einer Just-in-sequence-Belieferung?",
+      "description": "Bei der Just-in-sequence-Lieferung werden die benötigten Materialien nicht nur zu einem festgelegten Zeitpunkt angeliefert, sondern auch noch sortiert, und zwar genau in der Reihenfolge, in der die Materialien in der Produktion benötigt werden."
+    },
+    {
+      "shortDescription": "Erläutern Sie im Rahmen des Kanban-Verfahrens die Begriffe Senke und Quelle.",
+      "description": "Die Senke ist die nachgelagerte Fertigungsstufe, die mittels einer Kanban-Karte von der Quelle, dem Zulieferer, neues Material anfordert."
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Voraussetzungen/Regeln für den Einsatz von Kanban.",
+      "description": "z.B.\n- jede Kanban-Karte gilt als Auftrag, d.h. ohne Karte keine Fertigung\n- zu jedem gefüllten Behälter gehört eine Kanban-Karte\n- jeder Behälter enthält die vorgegebene Menge in 100 %-Qualität\n- Kanban-Behälter dürfen nur an den festgelegten Plätzen abgestellt werden"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Gründe für Wartezeiten.",
+      "description": "z.B.\n- nicht synchronisierte Arbeitsabläufe\n- lange Maschinenlaufzeiten, während derer der Mitarbeiter nicht wirklich produktiv tätig ist, sondern nur die Maschine \"überwacht\"\n- technische Störungen\n- Materialabrisse, d.h. der Nachschub an Materialien funktioniert nicht\n- lange Umrüstvorgänge"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Gründe für unnötige Transporte.",
+      "description": "z.B.\n- nicht zusammenhängende Fertigungsprozesse\n- Überproduktion"
+    },
+    {
+      "shortDescription": "Aus welchen Zeiten setzt sich die Durchlaufzeit zusammen?",
+      "description": "Die Durchlaufzeit setzt sich zusammen aus:\n- Rüstzeit\n- Bearbeitungszeit\n- Transportzeit\n- Liegezeit"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Verschwendungen beim Rüsten einer Maschine.",
+      "description": "z.B.\n- lange Gehwege und Transportstrecken\n- das Suchen und Bereitlegen von Material, Arbeits- und Hilfsmitteln\n- unnötige Bewegungen bei den Rüsttätigkeiten\n- Fehler beim Rüsten\n- das Nachjustieren von Maschinenkomponenten"
+    },
+    {
+      "shortDescription": "Nenne Sie zwei Tätigkeiten der Rüstvorbereitung bzw. Rüstnachbereitung.",
+      "description": "z.B.\n- die Suche des Fertigungsauftrags\n- das Herbeiholen des benötigten Materials für den nächsten Fertigungsauftrag\n- das Holen der benötigten Werkzeuge und Hilfsmittel für das Umrüsten der Maschine\n- das Wegbringen der Fertigmaterialien des vorhergehenden Auftrags"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Ziele der Layoutplanung nach dem Materialfluss.",
+      "description": "z.B.\n- Vermeidung unnötiger Transporte\n- Verkürzung der Transportzeiten und damit auch der Wartezeiten auf das benötigte Material\n- Verringerung der Transportkosten\n- Verringerung der Durchlaufzeiten\n- Verringerung der Bestände"
+    },
+    {
+      "shortDescription": "Nenne Sie die wichtigste Voraussetzung für die Umsetzung des One-Piece-Flow-Systems.",
+      "description": "Jeder Mitarbeiter muss alle in einer Produktionszelle anfallenden Arbeiten beherrschen."
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Gründe für unnötige Bewegungen.",
+      "description": "z.B.\n- Materialien, Werkzeuge und Unterlagen sind nicht griffbereit angeordnet bzw. müssen erst lange gesucht werden\n- die Bestückung von Maschinen bzw. die Ausführung eines Arbeitsgangs ist sehr umständlich und der Mitarbeiter muss längere Wege gehen, sich drehen oder strecken, um bestimmte Materialien und Werkzeuge zu erreichen\n- Werkzeuge und Materialien sind für einen Mitarbeiter zu schwer/unhandlich"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Gründe für unnötige und unzureichende Arbeitsprozesse.",
+      "description": "z.B.\n- die Verschwendung nicht geeigneter oder auch veralteter Maschinen\n- die Verwendung falscher Materialien\n- zu hohe Komplexität in den einzelnen Abläufen\n- mangelnde Ausbildung\n- zu wenig (aber auch zu viel) Automatisierung"
+    },
+    {
+      "shortDescription": "Was ist Ergonomie?",
+      "description": "Ergonomie ist die Lehre von optimalen Arbeitsbedingungen. Hauptziel ist die Schaffung humaner Arbeitsbedingungen."
+    },
+    {
+      "shortDescription": "Nennen Sie die sechs Phasen eines Qualitätszirkels.",
+      "description": "Phasen eines Qualitätszirkels:\n- Informationen sammeln\n- Probleme benennen und Prioritäten setzen\n- Ziele formulieren\n- Lösungen erarbeiten\n- Lösungen und Verbesserungsvorschläge umsetzen\n- Ergebnisse prüfen und einschätzen"
+    },
+    {
+      "shortDescription": "Nennen Sie die vier Schritte bei der Erstellung eines Ursache-Wirkungs-Diagramms (Ishikawa-Diagramm).",
+      "description": "1. Schritt: Ursache-Wirkungs-Diagramm zeichnen und Problem formulieren\n2. Schritt: Kategorien für mögliche Ursachen festlegen\n3. Schritt: Mögliche Ursachen sammeln und einordnen\n4. Schritt: Beurteilung der Ursachen"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Voraussetzungen für die Förderung und Nutzung der Mitarbeiterkreativität.",
+      "description": "z.B.\n- Schaffung eines Umfeldes, das den Mitarbeitern beim Einsatz seiner Kenntnisse und Fähigkeiten unterstützt und seine Leistungen anerkennt\n- Schulungen der Mitarbeiter\n- Übertragung von Verantwortung, damit sich der Mitarbeiter kreativ entfalten kann"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Faktoren, die die Motivation der Mitarbeiter positiv beeinflussen.",
+      "description": "z.B.\n- Vertrauen und Offenheit\n- Schulungs- und Weiterbildungsmöglichkeiten\n- Anerkennung und Lob\n- Belohnung für gute Leistungen\n- Übertragung von Verantwortung\n- organisiertes Vorschlagswesen\n- Einbeziehung in Entscheidungsprozesse (z.B. in Qualitätszirkel)"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Faktoren, die die Motivation der Mitarbeiter negativ beeinflussen.",
+      "description": "z.B.\n- schlechte Arbeitsorganisation\n- schlechte Arbeitsbedingungen\n- Über- oder Unterforderung der Mitarbeiter\n- Probleme mit Kollegen und/oder Vorgesetzten\n- fehlende bzw. ungenügende Anerkennung\n- ungerechte Kritik"
+    },
+    {
+      "shortDescription": "Nennen Sie die drei Führungsstile.",
+      "description": "Führungsstile:\n- autoritärer Führungsstil\n- kooperativer Führungsstil\n- Laissez-faire-Führungsstil"
+    },
+    {
+      "shortDescription": "Nennen Sie einen deutschen Begriff für \"Supply Chain Management\".",
+      "description": "Lieferkettenmanagement, Koordination der Lieferkette"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Ziele des Supply Chain Managements.",
+      "description": "z.B.\n- Orientierung am Endkunden und damit Erhöhung der Kundenzufriedenheit\n- verbesserte Termintreue\n- Senkung von Lagerkosten durch Reduzierung der Lagerbestände\n- Senkung der Durchlaufzeiten\n- Reduzierung der Lieferzeiten\n- Optimierung von unternehmensübergreifenden Planungs- und Steuerungsprozessen"
+    },
+    {
+      "shortDescription": "Benötigen Sie für den Einsatz des Supply Chain Managements eine funktions- oder eine prozessorientierte Organisation?",
+      "description": "Prozessorientierte Organisation"
+    }
+  ]
+}
