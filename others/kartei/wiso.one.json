@@ -1,0 +1,395 @@
+{
+  "name": "WiSo Teil 1",
+  "group": "wiso part_one",
+  "description": "",
+  "karten": [
+    {
+      "shortDescription": "Berufsbildungsgesetz",
+      "description": "Welches ist die gesetzliche Grundlage jedes Ausbildungsverhältnisses?"
+    },
+    {
+      "shortDescription": "z.B.\n- Art der Ausbildung\n- Beginn und Ende der Ausbildung\n- Höhe der Ausbildungsvergütung\n- Dauer der täglichen Arbeitszeit\n- Dauer der Probezeit\n- Dauer des Urlaubs",
+      "description": "Nennen Sie drei wesentliche Bestandteile des Berufsausbildungsvertrages."
+    },
+    {
+      "shortDescription": "Von wem ist der Berufsausbildungsvertrag zu unterzeichnen?",
+      "description": "Der Berufsausbildungsvertrag ist\n- vom Auszubildenden\n- vom Ausbildenden\n- vom gesetzlichen Vertreter bei minderjährigen Auszubildenden zu unterzeichnen."
+    },
+    {
+      "shortDescription": "Welche Schriftform gilt für Ausbildungsverträge?",
+      "description": "Schriftform"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei rechtliche Grundlagen der Berufsausbildung.",
+      "description": "Rechtliche Grundlagen der Berufsausbildung:\n- Ausbildungsvertrag\n- Handwerksordnung\n- Ausbildungsordnung\n- Berufsbildungsgesetz"
+    },
+    {
+      "shortDescription": "Was versteht man unter dem Dualen System der Berufsausbildung?",
+      "description": "Die Ausbildung erfolgt an beiden Lernorten Betrieb und Berufsschule."
+    },
+    {
+      "shortDescription": "Ein Auszubildender möchte Ablauf der Probezeit seinen Ausbildungsvertrag kündigen. Ist das möglich?",
+      "description": "Ja, der Ausbildungsvertrag kann mit einer Frist von 4 Wochen gekündigt werden, wenn die Berufsausbildung aufgegeben wird oder der Auszubildende sich für eine andere Berufstätigkeit ausbilden lässt."
+    },
+    {
+      "shortDescription": "Ein Auszubildender beabsichtigt, nach Beendigung seiner vertraglichen Ausbildungszeit in einem anderen Betrieb zu arbeiten. Wann und ich welcher Form muss er kündigen?",
+      "description": "Eine Kündigung entfällt, weil das Ausbildungsverhältnis mit Bestehen der Abschlussprüfung endet."
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Pflichten des Auszubildenden.",
+      "description": "z.B.\n- Lernpflicht\n- Sorgfaltspflicht\n- Berufsschulpflicht\n- Berichtsheftführung\n- Verschwiegenheitspflicht"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Pflichten des Ausbildenden.",
+      "description": "z.B.\n- Vergütungspflicht\n- Sorgfaltspflicht\n- Ausbildungsmittel bereitstellen\n- Freistellung für Berufsschulbesuch\n- Kontrolle des Berichtsheftes\n- Anmeldung zur Zwischen- und Abschlussprüfung"
+    },
+    {
+      "shortDescription": "An welchem Tag endet das Ausbildungsverhältnis?",
+      "description": "Das Ausbildungsverhältnis endet am Tag der bestandenen Abschlussprüfung."
+    },
+    {
+      "shortDescription": "Wie lange darf die Probezeit in der Berufsausbildung dauern?",
+      "description": "Sie muss mindestens einen Monat und darf höchstens vier Monate betragen."
+    },
+    {
+      "shortDescription": "Darf während der Ausbildung eine Nebentätigkeit ausgeübt werden?",
+      "description": "Ja, aber nur nach Absprache mit dem Ausbildungsbetrieb und nur in einem Umfang, der keine negativen Auswirkungen auf die Leistungen des Auszubildenden hat."
+    },
+    {
+      "shortDescription": "Was passiert, wenn ein Auszubildender die Abschlussprüfung nicht besteht?",
+      "description": "Verlängerung der Ausbildungszeit um 0,5 Jahr, maximal um ein Jahr"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Beschäftigungsverbote nach dem Jugendarbeitsschutzgesetz.",
+      "description": "z.B. \n- keine Samstags- und Sonntagsarbeit\n- keine Schichtarbeit\n- keine Akkordarbeit\n- keine Arbeit unter Tage\n- keine Arbeit mit gefährlichen Stoffen\n- keine Beschäftigung nach 20:00 Uhr und vor 6:00 Uhr"
+    },
+    {
+      "shortDescription": "Wie lange darf ein Jugendlicher pro Woche maximal arbeiten?",
+      "description": "40 Stunden"
+    },
+    {
+      "shortDescription": "Wie lange darf ein Jugendlicher täglich im Normalfall beschäftigt werden?",
+      "description": "8 Stunden, Pausenzeiten gelten nicht als Arbeitszeit"
+    },
+    {
+      "shortDescription": "Die Auszubildende Anja ist 16,5 Jahre alt. Sie arbeitet täglich 9 Stunden. Samstags hat sie frei. Ist diese Regelung nach dem Jugendarbeitsschutzgesetz zulässig?",
+      "description": "Sie ist nicht zulässig. Laut Jugendarbeitsschutzgesetz beträgt die tägliche Arbeitszeit 8 Stunden."
+    },
+    {
+      "shortDescription": "Die regelmäßige Arbeitszeit eines Jugendlichen beträgt 8 Stunden. Welche Zeit muss diesem Jugendlichen für Pausen nach den gesetzlichen Vorschriften eingeräumt werden?",
+      "description": "Insgesamt 60 Minuten"
+    },
+    {
+      "shortDescription": "Wie lange muss ein minderjähriger Auszubildender mindestens in der Berufsschule sein, um von einer anschließenden Beschäftigung im Betrieb freigestellt zu sein?",
+      "description": "6 Schulstunden bzw. 5 Zeitstunden"
+    },
+    {
+      "shortDescription": "Wie viel Urlaubstage stehen einem 16-jährigen Auszubildenden zu?",
+      "description": "Mindestens 27 Werktage Urlaub"
+    },
+    {
+      "shortDescription": "Wie viel Urlaubstage stehen einem 17-jährigen Auszubildenden zu?",
+      "description": "Mindestens 25 Werktage Urlaub"
+    },
+    {
+      "shortDescription": "Wer überwacht die Einhaltung des Jugendarbeitsschutzgesetzes?",
+      "description": "Gewerbeaufsichtsamt"
+    },
+    {
+      "shortDescription": "Wie lange erhält ein Auszubildender im Krankheitsfall eine Fortzahlung der Vergütung?",
+      "description": "6 Wochen"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Arbeiten, die für werdende Mütter verboten sind.",
+      "description": "z.B.\n- Mehrarbeit\n- Sonntagsarbeit\n- Nachtarbeit\n- Akkordarbeit\n- schwere körperliche Arbeit\n- Arbeit mit gefährlichen Stoffen"
+    },
+    {
+      "shortDescription": "Muss eine Schwangere bei einer Bewerbung eine Schwangerschaft mitteilen?",
+      "description": "Nein, es handelt sich um eine unzulässige Frage."
+    },
+    {
+      "shortDescription": "Können werdende Mütter aus einem unbefristeten Arbeitsverhältnis gekündigt werden?",
+      "description": "Nein, sie haben während der Schwangerschaft und der Elternzeit einen besonderen Kündigungsschutz."
+    },
+    {
+      "shortDescription": "Wie viele Wochen vor und nach einer Entbindung darf eine werdende Mutter nicht beschäftigt werden?",
+      "description": "6 Woche vor und 8 Wochen nach der Entbindung"
+    },
+    {
+      "shortDescription": "Nennen Sie die drei Wirtschaftssektoren.",
+      "description": "Primärer, sekundärer und tertiärer Sektor"
+    },
+    {
+      "shortDescription": "Geben Sie ein Beispiel für den primären Wirtschaftssektor.",
+      "description": "Zum primären Wirtschaftssektor gehören alle Betriebe der\nRohstoffgewinnung (Urproduktion):\n\nz.B.\n- Landwirtschaft\n- Forstwirtschaft\n- Bergbau\n- Öl- und Gasgewinnung"
+    },
+    {
+      "shortDescription": "Geben Sie ein Beispiel für den sekundären Wirtschaftssektor.",
+      "description": "Der sekundäre Sektor beinhaltet die Be- und Verarbeitung von\nRohstoffen un Handwerks- und Industriebetrieben\n(Weiterverarbeitungsbetriebe):\n\nz.B.\n- Automobilindustrie\n- Lebensmittelindustrie\n- Textilindustrie\n- Pharmaindustrie"
+    },
+    {
+      "shortDescription": "Geben Sie ein Beispiel für den tertiären Wirtschaftssektor.",
+      "description": "Zum tertiären Sektor gehören alle Dienstleistungsbetriebe:\nz.B.\n- Groß- und Einzelhandelsbetriebe\n- Speditionen\n- Banken"
+    },
+    {
+      "shortDescription": "Was versteht man unter dem erwerbswirtschaftlichen Prinzip?",
+      "description": "Das erwerbswirtschaftliche Prinzip besagt, dass ein Unternehmen bestrebt ist, langfristig den größtmöglichen Gewinn auf das eingesetzte Eigenkapital zu erreichen."
+    },
+    {
+      "shortDescription": "Was versteht man unter dem gemeinwirtschaftlichen Prinzip?",
+      "description": "Beim gemeinwirtschaftlichen Prinzip ist das Ziel auf die volkswirtschaftliche Bedarfsdeckung gerichtet, Gewinne werden von Unternehmen nicht angestrebt."
+    },
+    {
+      "shortDescription": "Was besagt die Kennzahl der Eigenkapitalrentabilität?",
+      "description": "Die Kennzahl wird benutzt um zu prüfen, inwieweit das eingesetzte Kapital lohnenswert eingesetzt wurde (Verzinsung des Eigenkapitals)."
+    },
+    {
+      "shortDescription": "Was versteht man unter der Ablauforganisation?",
+      "description": "Sie regelt den funktionalen, zeitlichen und räumlichen Arbeitsablauf eines Unternehmens."
+    },
+    {
+      "shortDescription": "Wann darf ein Unternehmen einen Betriebsrat einrichten?",
+      "description": "Wenn fünf ständig wahlberechtigte Arbeitnehmer vorhanden sind, von denen drei wählbar sind."
+    },
+    {
+      "shortDescription": "Muss in jedem Betrieb, in dem die Voraussetzungen zur Wahl eines Betriebsrats erfüllt sind, ein Betriebsrat gewählt werden?",
+      "description": "Nein, ein Betriebsrat kann, muss aber nicht gewählt werden."
+    },
+    {
+      "shortDescription": "Wie oft sollte ein Betriebsrat eine Betriebsversammlung einberufen?",
+      "description": "Betriebsversammlungen sind vom Betriebsrat in jedem Kalendervierteljahr einzuberufen (viermal pro Jahr)."
+    },
+    {
+      "shortDescription": "Wozu dient eine Betriebsversammlung?",
+      "description": "Der Betriebsrat berichtet über seine Tätigkeit und informiert über die aktuelle Situation im Unternehmen."
+    },
+    {
+      "shortDescription": "Was ist die JAV?",
+      "description": "Jugend- und Auszubildendenvertretung"
+    },
+    {
+      "shortDescription": "Hat der Betriebsrat im folgenden Fall ein Mitbestimmungsrecht,\nMitwirkungsrecht oder gar keinen Einfluss?\n\nEntlassung eines zum fünften Mal beim Alkoholkonsum ertappten Lagermitarbeiters.",
+      "description": "Mitwirkungsrecht"
+    },
+    {
+      "shortDescription": "Hat der Betriebsrat im folgenden Fall ein Mitbestimmungsrecht,\nMitwirkungsrecht oder gar keinen Einfluss?\n\nÄnderung der Pausenzeiten",
+      "description": "Mitbestimmungsrecht"
+    },
+    {
+      "shortDescription": "Hat der Betriebsrat im folgenden Fall ein Mitbestimmungsrecht,\nMitwirkungsrecht oder gar keinen Einfluss?\n\nAuswahl der Lieferanten",
+      "description": "Keinen Einfluss"
+    },
+    {
+      "shortDescription": "Hat der Betriebsrat im folgenden Fall ein Mitbestimmungsrecht,\nMitwirkungsrecht oder gar keinen Einfluss?\n\nVerkleinerung der Pausenräume",
+      "description": "Mitbestimmungsrecht"
+    },
+    {
+      "shortDescription": "Welches Mindestalter ist notwendig, um an einer Betriebsratswahl teilnehmen zu dürfen?",
+      "description": "18 Jahre"
+    },
+    {
+      "shortDescription": "Für welchen Zeitraum wird der Betriebs gewählt?",
+      "description": "Vier Jahre"
+    },
+    {
+      "shortDescription": "Von wem werden die Arbeitnehmer innerhalb eines Betriebes vertreten?",
+      "description": "Betriebsrat"
+    },
+    {
+      "shortDescription": "Wofür steht die Abkürzung DGB?",
+      "description": "Deutscher Gewerkschaftsbund"
+    },
+    {
+      "shortDescription": "Wie heißen die Sozialpartner bei Tarifverhandlungen?",
+      "description": "Gewerkschaften und Arbeitgeberverbände"
+    },
+    {
+      "shortDescription": "Was versteht man unter Tarifautonomie?",
+      "description": "Die Unabhängigkeit der Tarifpartner bei Tarifverhandlungen, d.h., der Staat darf sich nicht in die Tarifverhandlungen einmischen."
+    },
+    {
+      "shortDescription": "Wer legt in der Bundesrepublik Deutschland die Lohn- und Gehaltstarife fest?",
+      "description": "Die Arbeitgeberverbände und die Gewerkschaften"
+    },
+    {
+      "shortDescription": "Welche der folgenden Tarifregelungen steht im Manteltarifvertrag?\na) Mindestlohn\nb) Urlaub\nc) Ecklohn\nd) Höchstlohn",
+      "description": "b) Urlaub"
+    },
+    {
+      "shortDescription": "Was versteht man im Tarifrecht unter Friedenspflicht?",
+      "description": "Die Tarifparteien müssen sich für die Laufzeit der Tarifverträge an die Vereinbarungen halten. Es darf nicht gestreikt werden."
+    },
+    {
+      "shortDescription": "Wie viel Prozent der Gewerkschaftsmitglieder müssen bei einer Urabstimmung mindestens zustimmen, damit gestreikt werden darf?",
+      "description": "Mindestens 75%"
+    },
+    {
+      "shortDescription": "Wie bezeichnet man die Arbeitsniederlegung nach dem Scheitern von Tarifverhandlungen?",
+      "description": "Streik"
+    },
+    {
+      "shortDescription": "Wie bezeichnet man die zeitlich begrenzte Entlassung der Arbeitnehmer während eines Streiks, bei der die Lohnzahlung entfällt (Arbeitskampfmittel der Arbeitgeber)?",
+      "description": "Aussperrung"
+    },
+    {
+      "shortDescription": "Alle Betriebe der Metallindustrie werden bestreikt. Wie nennt man diesen Streik?",
+      "description": "Flächenstreik bzw. Branchenstreik"
+    },
+    {
+      "shortDescription": "Was versteht man unter einem Warnstreik?",
+      "description": "Es ist eine kurzfristige Arbeitsniederlegung, um die Streikbereitschaft zu signalisieren."
+    },
+    {
+      "shortDescription": "Wie heißt die Anlage zur Bewerbung, die über die persönliche Entwicklung des Stellenbewerbers informiert?",
+      "description": "Lebenslauf"
+    },
+    {
+      "shortDescription": "Nennen Sie drei Fragen, die im Vorstellungsgespräch unzulässig sind.",
+      "description": "z.B.\n- Mitglied einer Gewerkschaft\n- Religionszugehörigkeit\n- Schwangerschaft\n- Parteimitgliedschaft"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Pflichten des Arbeitnehmers aus dem Arbeitsvertrag.",
+      "description": "z.B.\n- Dienstleistungspflicht\n- Wettbewerbsverbot\n- Haftpflicht\n- Verschwiegenheitspflicht\n- Treuepflicht"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Pflichten des Arbeitgebers aus dem Arbeitsvertrag.",
+      "description": "z.B. \n- Vergütungspflicht\n- Fürsorgepflicht\n- Zeugnispflicht\n- Urlaubsgewährung"
+    },
+    {
+      "shortDescription": "Nennen Sie drei Möglichkeiten der Beendigung eines Arbeitsverhältnisses.",
+      "description": "z.B.\n- Kündigung\n- Aufhebungsvertrag\n- Vertragsablauf\n- Altersteilzeit\n- Renteneintritt\n- Tod des Arbeitnehmers"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Gründe für eine außerordentliche Kündigung.",
+      "description": "z.B.\n- schwere Beleidigungen\n- beharrliche Arbeitsverweigerung\n- Tätlichkeiten\n- nicht genehmigte Nebentätigkeiten\n- Vortäuschen einer Erkrankung\n- Diebstahl\n- sexuelle Belästigung"
+    },
+    {
+      "shortDescription": "Was versteht man unter verhaltensbedingten Kündigungsgründen?",
+      "description": "Ein Arbeitnehmer verstößt wiederholt gegen betriebliche Regeln oder verhält sich offensichtliche geschäftsschädigend."
+    },
+    {
+      "shortDescription": "Wie lang ist die gesetzliche Kündigungsfrist?",
+      "description": "Vier Wochen zum Ende eines Kalendermonats oder zum 15. des Folgemonats"
+    },
+    {
+      "shortDescription": "Vor welchem Gericht kann gegen eine Kündigung geklagt werden?",
+      "description": "Arbeitsgericht"
+    },
+    {
+      "shortDescription": "Wie lange hat ein Arbeitnehmer zur Einreichung einer Kündigungsschutzklage Zeit?",
+      "description": "Drei Wochen"
+    },
+    {
+      "shortDescription": "Nennen Sie drei Gruppen von Beschäftigten, die einen besonderen Kündigungsschutz in Anspruch nehmen können.",
+      "description": "z.B.\n- Mitglieder des Betriebsrats\n- Mitglieder der JAV\n- Schwerbehinderte\n- Wehrdienstleistende\n- Auszubildende nach der Probezeit\n- werdende Mütter\n- Eltern während der Elternzeit"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Individualversicherungen.",
+      "description": "z.B.\n- Lebensversicherung\n- Hausratversicherung\n- private Haftpflichtversicherung\n- private Unfallversicherung\n- Kfz-Haftpflichtversicherung\n- Reiseversicherung"
+    },
+    {
+      "shortDescription": "Welches sind die fünf Säulen der Sozialversicherung?",
+      "description": "Fünf Säulen der Sozialversicherung:\n- Arbeitslosenversicherung\n- Krankenversicherung\n- Rentenversicherung\n- Pflegeversicherung\n- Unfallversicherung"
+    },
+    {
+      "shortDescription": "Wer zahlt die Beiträge zur gesetzlichen Arbeitslosenversicherung?",
+      "description": "Arbeitgeber und Arbeitnehmer je zur Hälfte"
+    },
+    {
+      "shortDescription": "Wer zahlt die Beiträge zur gesetzlichen Krankenversicherung?",
+      "description": "Arbeitgeber 7,3 % und Arbeitnehmer 8,2 %"
+    },
+    {
+      "shortDescription": "Wer zahlt die Beiträge zur gesetzlichen Rentenversicherung?",
+      "description": "Arbeitgeber und Arbeitnehmer je zur Hälfte"
+    },
+    {
+      "shortDescription": "Wer zahlt die Beiträge zur gesetzlichen Pflegeversicherung?",
+      "description": "Arbeitgeber und Arbeitnehmer je zur Hälfte, Kinderlose ab 23 Jahren zahlen einen Zuschlag."
+    },
+    {
+      "shortDescription": "Wer zahlt die Beiträge zur gesetzlichen Unfallversicherung?",
+      "description": "Der Arbeitgeber zu 100 %"
+    },
+    {
+      "shortDescription": "Wer ist Träger der gesetzlichen Unfallversicherung?",
+      "description": "z.B. Berufsgenossenschaft, Gemeindeunfallversicherungsverbände"
+    },
+    {
+      "shortDescription": "Wer ist Träger der Arbeitslosenversicherung?",
+      "description": "z.B. Arbeitsagenturen"
+    },
+    {
+      "shortDescription": "Welche Sozialversicherung ist im folgenden Fall zuständig?\nAltersruhegeld für einen 70-jährigen Mann",
+      "description": "Rentenversicherung"
+    },
+    {
+      "shortDescription": "Welche Sozialversicherung ist im folgenden Fall zuständig?\nHinterbliebenenrente für die Witwe eines Rentners",
+      "description": "Rentenversicherung"
+    },
+    {
+      "shortDescription": "Welche Sozialversicherung ist im folgenden Fall zuständig?\nBerufsberatung eines unentschlossenen Jugendliche",
+      "description": "Arbeitslosenversicherung"
+    },
+    {
+      "shortDescription": "Welche Sozialversicherung ist im folgenden Fall zuständig?\nÄrztliche Behandlung und Krankenhausaufenthalt nach einem Skiunfall",
+      "description": "Krankenversicherung"
+    },
+    {
+      "shortDescription": "Welche Sozialversicherung ist im folgenden Fall zuständig?\n\nÄrztliche Behandlung eines Krankenhausaufenthaltes eines Lagermitarbeiters, dem ein Gabelstapler über den Fuß gefahren ist.",
+      "description": "Unfallversicherung"
+    },
+    {
+      "shortDescription": "Welche Sozialversicherung ist im folgenden Fall zuständig?\nHeimunterbringung eines pflegebedürftigen Rentners",
+      "description": "Pflegeversicherung"
+    },
+    {
+      "shortDescription": "Was ist die Riester-Rente?",
+      "description": "Die Riester-Rente ist eine vom Staat durch Zulagen geförderte privat finanzierte Rente für rentenversicherungspflichtige Arbeitnehmer."
+    },
+    {
+      "shortDescription": "Welche der folgenden Lohnarten gehört zum Zeitlohn?\na) Prämienlohn\nb) Umsatzbeteiligung\nc) Stundenlohn\nd) Stückgeldakkord",
+      "description": "c) Stundenlohn"
+    },
+    {
+      "shortDescription": "Wie viele Lohnsteuerklassen gibt es?",
+      "description": "Es gibt sechs Lohnsteuerklassen."
+    },
+    {
+      "shortDescription": "Welches Gehalt ist die Grundlage für die Berechnung der Sozialversicherungsbeiträge?",
+      "description": "Bruttogehalt"
+    },
+    {
+      "shortDescription": "Ordnen Sie im folgenden Beispiel die Steuerklasse zu:\nBeim Ehepaar Müller ist Herr Müller berufstätig, seine Frau nicht.",
+      "description": "Herr Müller hat die Lohnsteuerklasse III."
+    },
+    {
+      "shortDescription": "Ordnen Sie im folgenden Beispiel die Steuerklasse zu:\n\nFrau Fröhlich ist ledig und hat eine sechsjährige Tochter, mit der sie allein lebt.",
+      "description": "Frau Fröhlich hat die Lohnsteuerklasse II."
+    },
+    {
+      "shortDescription": "Ordnen Sie im folgenden Beispiel die Steuerklasse zu:\nAnja schön ist alleinstehend",
+      "description": "Anja Schön hat die Lohnsteuerklasse I."
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Kriterien, von denen die Höhe der Lohnsteuer abhängt.",
+      "description": "z.B.\n- Familienstand (Lohnsteuerklasse)\n- Einkommenshöhe\n- Steuersatz\n- Anzahl der Kinder"
+    },
+    {
+      "shortDescription": "An wen muss der Arbeitgeber die einbehaltene Lohnsteuer abführen?",
+      "description": "Finanzamt"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Gründe für Freibeträge auf der Lohnsteuerkarte.",
+      "description": "z.B.\n- Behinderung über 50 %\n- Unterhaltszahlungen\n- hohe Werbungskosten durch lange Fahrten zur Arbeit"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei verschiedene Entlohnungsformen.",
+      "description": "z.B.\n- Zeitlohn\n- Prämienlohn\n- Akkordlohn"
+    },
+    {
+      "shortDescription": "Ordnen Sie im folgenden Beispiel die Steuerklasse zu:\nBeim Ehepaar Müller ist Herr Müller berufstätig, seine Frau nicht.",
+      "description": ""
+    }
+  ]
+}
