@@ -1,0 +1,319 @@
+{
+  "name": "Lernfeld 5",
+  "group": "lernfeld_5",
+  "description": "Güter kommissionieren",
+  "karten": [
+    {
+      "shortDescription": "Definieren Sie den Begriff Kommissionierung.",
+      "description": "Kommissionieren ist das Zusammenstellen von Waren nach einem bestimmten\nAuftrag."
+    },
+    {
+      "shortDescription": "Nennen Sie zwei außerbetriebliche Gründe für die Kommissionierung.",
+      "description": "z.B.\n- Kundenbestellung\n- Neulieferung nach Retoure"
+    },
+    {
+      "shortDescription": "Welches ist der wichtigste innerbetriebliche Grund für eine Warenentnahme?",
+      "description": "Kommissionierung für die Versorgung der Produktion."
+    },
+    {
+      "shortDescription": "Außer der Kommissionierung können auch andere Gründe zu Warenentnahmen\nführen.\n\nNennen Sie zwei weitere Gründe.",
+      "description": "z.B.\n- Umlagerung\n- Inventur\n- Sortimentsänderung\n- Auffüllen des Vorratslagers"
+    },
+    {
+      "shortDescription": "Wann führen Retouren zu einer Kommissionierung?",
+      "description": "Wenn der Kunde mit Ersatzware beliefert wird."
+    },
+    {
+      "shortDescription": "Nennen Sie die drei Elemente eines Kommissioniersystems.",
+      "description": "Elemente eines Kommissioniersystems:\n- Informationsfluss\n- Materialfluss\n- Organisation"
+    },
+    {
+      "shortDescription": "Was sind die sechs Arbeitsschritte im Informationsfluss?",
+      "description": "- Aufträge erfassen\n- Lieferfähigkeit feststellen\n- Aufträge aufbereiten\n- Auftrag an den Kommissionierer weitergeben\n- Entnahme quittieren\n- Entnahme verbuchen"
+    },
+    {
+      "shortDescription": "Welches sind die fünf Arbeitsschritte im Materialfluss?",
+      "description": "Arbeitsschritte im Materialfluss:\n- Ware bereitstellen\n- Kommissionierer fortbewegen\n- Ware entnehmen\n- Artikel kontrollieren\n- Kommission abgeben"
+    },
+    {
+      "shortDescription": "Welche drei Arbeitsschritte im Informationsfluss erfolgen in der Regel\nnicht durch die Kommissionierer?",
+      "description": "- Aufträge erfassen\n- Aufträge aufbereiten\n- Entnahme verbuchen"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Arbeitsschritte, die zur Organisation des\nKommissioniersystems gehören.",
+      "description": "z.B.\n- Reihenfolge für die Bearbeitung der Aufträge festlegen\n- Kommissionierzonen bilden\n- Kommissioniermethode festlegen\n- Wegstrategie festlegen"
+    },
+    {
+      "shortDescription": "Erklären Sie, wie die verfügbare Menge berechnet wird.",
+      "description": "Verfügbare Menge =\nIst-Bestand - eiserne Reserve - Reservierung von Kunden"
+    },
+    {
+      "shortDescription": "Erklären Sie, was gemeint ist, wenn es heißt: \"Die Aufbereitung der\nBestellung erfolgt im Realtime-Modus\".",
+      "description": "Die eingehenden Bestellungen werden sofort in Kommissionieraufträge\numgewandelt."
+    },
+    {
+      "shortDescription": "Für Kommissionierbelege gibt es viele Namen. Nennen Sie drei weitere\nNamen.",
+      "description": "z.B.\n- Pickeretiketten\n- Pickliste\n- Lagerbewegungsliste\n- Greifliste\n- Materialentnahmeschein"
+    },
+    {
+      "shortDescription": "Was versteht man unter einer wegeoptimierten Kommissionierliste?",
+      "description": "Die anzustrebenden Lagerplätze sind in eine Reihenfolge gebracht, bei der\ndie Wegzeit in der Summe möglichst kurz ist."
+    },
+    {
+      "shortDescription": "Warum sollen die Mengen auf dem Kommissionierbeleg in Greifeinheiten\nangegeben sein?",
+      "description": "Damit der Kommissionierer keine Zeit mit Rechenvorgängen verbraucht und\ndamit weniger Fehler entstehen."
+    },
+    {
+      "shortDescription": "Erklären Sie den Unterschied zwischen Verbuchen und Quittieren.",
+      "description": "Verbuchen bedeutet: Eintragen der Entnahme in der Lagerbuchhaltung, damit\ndort der korrekte neue Soll-Bestand angezeigt wird.\n\nQuittieren bedeutet: Bestätigen der Entnahme."
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Vorteile der belegbehafteten Kommissionierung.",
+      "description": "z.B.\n\n- Umfang des Auftrages ist für den Kommissionierer erkennbar\n- wenn der Kommissionierbeleg noch nicht wegeoptimiert ist, kann der\nKommissionierer selbst die Reihenfolge entscheiden\n- Auftrag kann bei Bedarf aufgeteilt werden mit anderen Kommissionierern"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Nachteile der belegbehafteten Kommissionierung.",
+      "description": "z.B.\n\n- der Kommissionierer hat nicht immer beide Hände frei\n- die Belege müssen gedruckt und archiviert sein\n- die Fehlerquote ist höher (durch verrutschen in der Zeile und\nüberspringen von Zeilen)"
+    },
+    {
+      "shortDescription": "Nennen Sie vier beleglose Kommissionierverfahren.",
+      "description": "z.B.\n- Pick-by-Voice\n- Pick-by-Light\n- Pick-by-RFID\n- Pick-by-Vision\n- Pick-by-Barcode"
+    },
+    {
+      "shortDescription": "Bei welchem Kommissionierverfahren ist die Kommissionierleistung am\nhöchsten?",
+      "description": "Pick-by-Light"
+    },
+    {
+      "shortDescription": "Welche technische Ausrüstung ist für das Verfahren Pick-by-Voice nötig?",
+      "description": "Kopfhörer und Mikrofon (Headset), Aufbereitung der Kommissionieraufträge\nüber die EDV"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Vorteile des Pick-by-Voice-Verfahrens.",
+      "description": "z.B.\n- Hände sind frei\n- sehr flexibel\n- geringere Investitionskosten als bei Pick-by-Light-Systemen"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Nachteile des Pick-by-Voice-Verfahrens.",
+      "description": "z.B.\n- Ermüdung und körperliche Belastung des Kommissionierers\n- Abhängigkeit von Technik\n- mögliche Störung durch Hintergrundgeräusche\n- eventuelle Probleme bei der Stimmerkennung"
+    },
+    {
+      "shortDescription": "Wie erfolgt die Quittierung beim Pick-by-RFID-Verfahren?",
+      "description": "Das Lesegerät empfängt das RFID-Signal."
+    },
+    {
+      "shortDescription": "Welche Vorteile bieten RFID-Tags gegenüber der Kommissionierung mit\nBarcodes?\n\nNennen Sie zwei Aspekte.",
+      "description": "z.B. \n- mehr Informationen können gespeichert werden\n- Transponder sind lageunabhängig und weniger anfällig für Verschmutzung\n- auch Datenübermittlung ohne Sichtkontakt ist möglich"
+    },
+    {
+      "shortDescription": "Was versteht man unter einer Beschickungseinheit?",
+      "description": "Die Einheit, mit der das Kommissionierregal befüllt wird."
+    },
+    {
+      "shortDescription": "Erklären Sie den Unterschied zwischen Entnahmeeinheit und Sammeleinheit an\neinem Beispiel.",
+      "description": "z.B.\n\nAus den Lagerfächern werden verschiedene Schrauben und Dübel entnommen und\nin einen Kunststoffbehälter gelegt\n\nEntnahmeeinheit: ein Dübel\n\nSammeleinheit: Mehrere Schrauben und Dübel; die Menge, die in den\nKunststoffbehälter passt"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Vorteile der statischen Bereitstellung.",
+      "description": "z.B.\n- sehr flexibel\n- wenig Technik nötig\n- dadurch geringe Investitionskosten\n- geringe Störanfälligkeit"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Nachteile der statischen Bereitstellung.",
+      "description": "z.B.\n- hohe körperliche Belastung\n- niedrige Arbeitsproduktivität\n- lange Kommissionierwege"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Vorteile der dynamischen Bereitstellung.",
+      "description": "z.B.\n- optimale Ausstattung der Arbeitsplätze möglich\n- dadurch hohe Kommissionierleistung und gute Ergonomie\n- geringere Fehlerquote"
+    },
+    {
+      "shortDescription": "Mit welchen Nachteilen ist die dynamische Bereitstellung verbunden? Nennen\nSie zwei Nachteile.",
+      "description": "z.B.\n- hohe Investitionskosten\n- kein direkter Zugriff auf die Ware\n- Abhängigkeit von der Technik\n- wenig flexibel in Bezug auf Eilaufträge und Art/Verpackung der Artikel"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei geeignete Regalarten für die dynamische Bereitstellung von\npalettierter Ware.",
+      "description": "z.B.\n- Hochregal mit automatischen Regalförderzeugen\n- Kanalregal mit Fördertechnik\n- Palettendurchlaufregal"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Regalarten für die dynamische Bereitstellung von\nKleinteilen.",
+      "description": "z.B.\n- automatisches Kleinteilelager\n- Umlaufregal (Karussellregal und Paternosterregal)\n- Kleinteile-Durchlaufregal"
+    },
+    {
+      "shortDescription": "Nennen Sie vier Regalarten für die statische Bereitstellung.",
+      "description": "- Fachbodenregal\n- Palettenregal\n- Einschubregal\n- Durchfahrregal\n- Verschieberegal\n- Einfahrregal\n- Kragarmregal\n- Wabenregal"
+    },
+    {
+      "shortDescription": "Nennen Sie vier Regalarten für die dynamische Bereitstellung.",
+      "description": "- Umlaufregal\n- Durchlaufregal\n- automatisches Behälterregal/Kleinteilelager\n- Hochregal mit automatischen Regalförderzeugen\n- Kanalregal mit angeschlossener Fördertechnik\n- Wabenregal mit Fördertechnik\n- AutoStore"
+    },
+    {
+      "shortDescription": "Welche Regalart ermöglicht die dynamische Bereitstellung von Langgut?",
+      "description": "Wabenregal mit automatisierter Fördertechnik"
+    },
+    {
+      "shortDescription": "Nennen Sie einen Vorteil und einen Nachteil der dreidimensionalen\nFortbewegung.",
+      "description": "Vorteil:\nLager wird voll ausgenutzt\n\nNachteil:\nUnfallrisiko, längere Greifzeit durch ungünstige Positionen"
+    },
+    {
+      "shortDescription": "Welche Möglichkeiten der Entnahme gibt es?",
+      "description": "- manuelle Entnahme\n- mechanische Entnahme (Hubwagen, Stapler, FFZ)\n- automatische Entnahme (kein Mensch beteiligt)"
+    },
+    {
+      "shortDescription": "Eine Palette wird mit dem Stapler entnommen.\nBegründen Sie, ob es sich um eine automatische Entnahme handelt.",
+      "description": "Es handelt sich um eine mechanische Entnahme, da der Mitarbeiter mit dem\nStapler zur Ware fährt."
+    },
+    {
+      "shortDescription": "Beschreiben Sie, wie ein Schachtkommissionierer funktioniert.",
+      "description": "Die Ware liegt in schräg gestellten Schächten. Zwischen diesen befindet\nsich ein Laufband. Entweder werden die richtigen Artikel auf das\nFörderband ausgeworfen oder sie fallen direkt in den auf dem Förderband\nlaufenden Kommissionierbehälter."
+    },
+    {
+      "shortDescription": "Welchen Vorteil hat ein Kommissionierroboter gegenüber einem\nSchachtkommissionierer?",
+      "description": "Ein Kommissionierroboter kann größere, schwerere und unterschiedliche\nWaren transportieren."
+    },
+    {
+      "shortDescription": "Stellen Sie zwei Möglichkeiten der dezentralen Abgabe der Kommission vor.",
+      "description": "Fertig kommissionierte Ware wird auf ein Förderband gestellt.\n\nBehälter mit fertig kommissionierter Ware wird am Entnahmeplatz abgestellt\nund später abgeholt."
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Möglichkeiten der automatischen Kontrolle.",
+      "description": "z.B.\n- Scannen\n- Wiegen\n- Fotos"
+    },
+    {
+      "shortDescription": "Wie kann die manuelle Kontrolle der Kommission erfolgen?",
+      "description": "Durch Vergleich zwischen entnommener Ware und Auftrag"
+    },
+    {
+      "shortDescription": "Worüber entscheidet die Betriebsorganisation der Kommissionierung?",
+      "description": "Über die Reihenfolge, in der die Aufträge bearbeitet werden."
+    },
+    {
+      "shortDescription": "Die Reihenfolge für die Bearbeitung der Kommissionieraufträge muss\nfestgelegt werden.\n\nNennen Sie zwei Kriterien, die dabei eine Rolle spielen.",
+      "description": "z.B.\n- Dringlichkeit des Auftrages\n- Entfernung des Kunden/Lieferzeit\n- Bedeutung des Kunden\n- Umfang des Auftrages"
+    },
+    {
+      "shortDescription": "Worüber entscheidet die Aufbauorganisation der Kommissionierung?",
+      "description": "Über die Bildung von Kommissionierzonen."
+    },
+    {
+      "shortDescription": "Beschreiben Sie eine Einrichtungslösung für die integrierte\nKommissionierung.",
+      "description": "z.B.\n- Kommissioniertunnel mit Durchlaufregalen unten und Einschubregalen oben\n- gegenläufige Durchlaufregale\n- Durchlaufregal für die Kommissionierung und Palettenböden darüber für\nden Nachschub"
+    },
+    {
+      "shortDescription": "Worüber enscheidet die Ablauforganisation der Kommissionierung?",
+      "description": "Über die Festlegung von Kommissioniermethode und Wegstrategie"
+    },
+    {
+      "shortDescription": "Welche beiden Kommissioniermethoden eignen sich besonders, wenn Güter mit\nunterschiedlichen Maßen und Gewichten zu kommissionieren sind?",
+      "description": "- auftragsorientierte serielle Kommissionierung mit Übergabestellen\n- auftragsorientierte parallele Kommissionierung"
+    },
+    {
+      "shortDescription": "Welche Kommissioniermethode hat die kürzeste Auftragsdurchlaufzeit?",
+      "description": "Die auftragsorientierte parallele Kommissionierung"
+    },
+    {
+      "shortDescription": "Bei welcher Kommissioniermethode ist eine zweite Kommissionierstufe\nerforderlich?",
+      "description": "Bei der serienorientierten parallelen Kommissionierung"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Vor- und Nachteile der auftragsorientierten parallelen\nKommissionerung.",
+      "description": "Vorteile:\n- schnelle Auftragsdurchlaufzeiten\n- Artikel können unterschiedlich groß und schwer sein\n- Artikel können unterschiedliche Fördertechnik benötigen\n\nNachteile:\n- hoher Organisationsaufwand\n- ungleiche Auslastung der einzelnen Kommissionierbereiche"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Vor- und Nachteile der serienorientierten parallelen\nKommissionerung.",
+      "description": "Vorteile:\n- starke Wegeinsparungen\n- hohe Kommissionierleistung\n\nNachteile:\n- hoher Organisationsaufwand\n- relativ lange Auftragsdurchlaufzeiten\n- hoher Arbeitsaufwand für die zweite Kommissionierstufe"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Vor- und Nachteile der auftragsorientierten seriellen\nKommissionerung.",
+      "description": "Vorteile:\n- wenig Organisationsaufwand\n- leicht verständlich für den Kommissionierer\n\nNachteile:\n- lange Kommissionierzeiten\n- lange Kommissionierwege"
+    },
+    {
+      "shortDescription": "Welche Kommissioniermethode ist am aufwendigsten in der Organisation?",
+      "description": "Die serienorientierte parallele Kommissionierung"
+    },
+    {
+      "shortDescription": "Erklären Sie den Unterschied zwischen der Rundgangstrategie und der\nStichgangstrategie.",
+      "description": "Rundgangstrategie:\n\nDer Kommissionierer durchläuft jeden Gang vom Anfang bis zum Ende.\n\nStichgangstrategie:\n\nDer Kommissionierer geht nur so weit in den Gang hinein, wie es notwendig\nist, um den letzten Artikel in diesem Gang zu entnehmen."
+    },
+    {
+      "shortDescription": "Welche Güter sollten bei Einsatz der Stichgangstrategie vorne im Gang\nlagern?",
+      "description": "Güter mit hoher Zugriffshäufigkeit"
+    },
+    {
+      "shortDescription": "Wann ist der Einsatz der Rundgangstrategie sinnvoll?",
+      "description": "z.B.\n\n- bei Aufträgen mit vielen Einzelpositionen aber geringem Gesamtvolumen\n- wenn es hochwahrscheinlich ist, dass in jeder Regalgasse Artikel\nkommissioniert werden müssen\n- wenn sich die Umschlagshäufigkeit oft ändert"
+    },
+    {
+      "shortDescription": "Wie heißen die fünf Bestandteile der Kommissionierzeit?",
+      "description": "Bestandteile der Kommissionierzeit:\n- Basiszeit\n- Wegzeit\n- Greifzeit\n- Totzeit\n- Verteilzeit"
+    },
+    {
+      "shortDescription": "Welcher Bestandteil der Kommissionierzeit kann durch den Kommissionierer\nam stärksten beeinflusst werden?",
+      "description": "Die Verteilzeit"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Beispiele für Tätigkeiten, die zur Basiszeit gehören.",
+      "description": "z.B.\n- Kommissionierbelege ordnen\n- Kommissionierbehälter holen\n- Abgabe der fertigen Kommission"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Bestandteile des Kommissioniervorgangs, die zur Totzeit\ngehören.",
+      "description": "z.B.\n- Anbruch bilden\n- Beschriftungen durchführen\n- Ware zählen\n- Ware kontrollieren\n- Lagerplatz suchen"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Faktoren, die die Wegzeit beeinflussen.",
+      "description": "z.B. \n- Regalsystem\n- Größe des Sortiments\n- Wegstrategie\n- Zonenbildung\n- Kommissioniermethode"
+    },
+    {
+      "shortDescription": "Welche Zeit lässt sich durch Vorverpackung verkürzen?",
+      "description": "Die Totzeit"
+    },
+    {
+      "shortDescription": "Welche Zeiten lassen sich durch beleglose Kommissionierverfahren\nverkürzen?",
+      "description": "Die Basiszeit:\nDas Sortieren der Belege entfällt.\nDie Totzeit:\nSuchen der Zeile ist nicht erforderlich und Abhaken der Position entfällt."
+    },
+    {
+      "shortDescription": "Welche Zeit ist besonders hoch, wenn man es mit schweren und unhandlichen\nGütern zu tun hat?",
+      "description": "Die Greifzeit"
+    },
+    {
+      "shortDescription": "Machen Sie zwei Vorschläge, wie verhindert werden kann, dass eine falsche\nStückzahl gegriffen wird.",
+      "description": "z.B.\n- klare Angabe auf dem Kommissionierbeleg\n- Scannen zur Kontrolle"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei mögliche Ursachen dafür, dass ein falscher Artikel\ngegriffen wird.",
+      "description": "z.B.\n- falsche Auffüllung, sodass im richtigen Fach der falsche Artikel liegt\n- Kommissionierer greift falschen Artikel, z.B. weil er bei Lesen in der\nZeile verrutscht, weil er unkonzentriert ist, weil er sich die\nArtikelnummer falsch einprägt (Zahlendreher)"
+    },
+    {
+      "shortDescription": "Wie kann das Risiko vermindert werden, dass ein falscher Artikel\nkommissioniert werden?",
+      "description": "z.B. \n- beleglose Kommissionierverfahren\n- gute Auszeichnung der Lagerplätze\n- gut lesbare Artikelbezeichnung\n- gut lesbare Kommissionierbelege"
+    },
+    {
+      "shortDescription": "Wie wird die Pickleistung berechnet?",
+      "description": "Anzahl der Picks pro Stunde = \nZahl der Picks : Arbeitszeit in Stunden"
+    },
+    {
+      "shortDescription": "Wie wird die Fehlerquote der Kommissionierung berechnet?",
+      "description": "Kommissionierfehler - 100 : Anzahl der Kommissionierungen gesamt"
+    },
+    {
+      "shortDescription": "Welche zwei Faktoren müssen berücksichtigt werden, wenn man\nKommissionierer leistungsgerecht bezahlen will?",
+      "description": "Die Kommissionierleistung und die Fehlerzeit"
+    },
+    {
+      "shortDescription": "Nennen Sie 2 Maßnahmen, um die Basiszeit zu verkürzen.",
+      "description": "- beleglos kommissionieren\n- dezentrale Abgabestellen einrichten\n- Kommissionieraufträge gut lesbar gestalten"
+    },
+    {
+      "shortDescription": "Nennen Sie 2 Maßnahmen, um die Wegzeit zu verkürzen.",
+      "description": "- wegeoptimierte Kommissionierlisten nutzen\n- Durchlaufregale einsetzen\n- Stichgangstrategie anwenden\n- Flurförderzeuge einsetzen\n- Stellplatzvergabe nach der Zugriffshäufigkeit der Artikel vornehmen\n- serienorientierte parallele Kommissioniermethode anwenden"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Maßnahmen, um die Greifzeit zu verkürzen.",
+      "description": "- beleglose Kommissionierverfahren, damit beide Hände frei sind\n- Schnelldreher in Greifhöhe positionieren\n- Regalfront greiffreundlich gestalten"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Maßnahmen, um die Totzeit zu verkürzen.",
+      "description": "- die Benutzung von Zählwaagen\n- Anwendung von Strichcodierung an der Ware\n- deutliche Beschriftung der Stellplätze\n- Vorverpackung der Artikel in kundengerechten Einheiten"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Maßnahmen, um die Verteilzeit zu verkürzen.",
+      "description": "- Einführung von Gleitzeit, um Pausen flexibel zu gestalten\n- leistungsorientierte Bezahlung, z.B. Prämienlohnsystem\n- Motivation der Mitarbeiter, z.B. durch bessere Arbeitsplatzgestaltung\n- Schaffung eines guten Betriebsklimas"
+    }
+  ]
+}
