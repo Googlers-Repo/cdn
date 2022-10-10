@@ -1,0 +1,271 @@
+{
+  "name": "Lernfeld 7",
+  "group": "lernfeld_7",
+  "description": "Touren planen",
+  "karten": [
+    {
+      "shortDescription": "Was ist das Gradnetz der Erde?",
+      "description": "Das Gradnetz der Erde ist ein gedachtes, über die Erdkugel gezogenes\nLiniennetz. Es besteht aus sich senkrecht schneidenden Breiten- und\nLängenkreisen und dient der Bestimmung der geographischen Lage und der\nOrientierung auf der Erde."
+    },
+    {
+      "shortDescription": "Wie heißt die Linie, die die Erde in die Nord- und in die Südhalbkugel\nteilt?",
+      "description": "Äquator"
+    },
+    {
+      "shortDescription": "Wo ist der Nullmeridian?",
+      "description": "Greenwich"
+    },
+    {
+      "shortDescription": "Auf welchem Längengrad befindet sich die Datumsgrenze?",
+      "description": "180. Längengrad im pazifischen Ozean"
+    },
+    {
+      "shortDescription": "In wie viele Zeitzonen ist die Erde aufgeteilt?",
+      "description": "in 24 Zeitzonen"
+    },
+    {
+      "shortDescription": "Was ist eine Maßstabsleiste bei Karten?",
+      "description": "Die Maßstabsleiste ist eine Skala, auf der man Entfernungen direkt ablesen\nkann."
+    },
+    {
+      "shortDescription": "Was ist der Zahlenmaßstab auf Karten?",
+      "description": "Der Zahlenmaßstab gibt das Verkleinerungsverhältnis an, mit dessen Hilfe\nman die tatsächliche Länge berechnen kann."
+    },
+    {
+      "shortDescription": "Welche beiden Arten von Karten können unterschieden werden?",
+      "description": "Es können topographische und thematische Karten unterschieden werden.\nDigitale Karten: GPS, Navigationssysteme"
+    },
+    {
+      "shortDescription": "Erklären Sie den Begriff Wirtschaftsraum.",
+      "description": "Wirtschaftsräume, auch Ballungsräume oder Metropolregionen genannt, sind\nRegionen mit einer hohen Bevölkerungs- und Wirtschaftsdichte."
+    },
+    {
+      "shortDescription": "Nennen Sie drei große Wirtschaftsräume der Bundesrepublik Deutschland, in\ndenen der Fahrzeugbau eine wichtige Rolle spielt.",
+      "description": "z.B.\n- Region Hannover-Braunschweig-Göttingen\n- Rhein-Main-Region\n- Sachsendreieck\n- Großraum Stuttgart\n- Großraum München"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Wirtschaftsräume, durch die Deutschlands größte\nBinnenwasserstraße, der Rhein, fließt.",
+      "description": "z.B.\n- Rhein-Ruhr-Region\n- Rhein-Main-Region\n- Rhein-Neckar-Region"
+    },
+    {
+      "shortDescription": "Nennen Sie die vier Freiheiten innerhalb der EU.",
+      "description": "- freier Personenverkehr\n- freier Warenverkehr\n- freier Dienstleistungsverkehr\n- freier Kapitalverkehr"
+    },
+    {
+      "shortDescription": "Zu den vier Freiheiten innerhalb der EU gehört der freie Personenverkehr.\nErläutern Sie, was damit gemeint ist.",
+      "description": "Freier Personenverkehr bedeutet, dass alle Bürger der EU frei in die\nMitgliedsstaaten ein- und ausreisen, sich in den einzelnen Ländern\nniederlassen und einen Arbeitsplatz wählen können."
+    },
+    {
+      "shortDescription": "Zu den vier Freiheiten innerhalb der EU gehört der freier Warenverkehr.\nErläutern Sie, was damit gemeint ist.",
+      "description": "Freier Warenverkehr bedeutet, dass innerhalb der EU alle Zölle oder\nsonstige Beschränkungen im Warenverkehr aufgehoben sind."
+    },
+    {
+      "shortDescription": "Was versteht man unter einem gebunden Standort?",
+      "description": "Ein gebundener Standort bedeutet, dass Betriebe z.B. aufgrund ihrer\nRohstofforientierung den Standort nicht frei wählen können, wie bspw. der\nKohlebergbau oder Fischereibetriebe."
+    },
+    {
+      "shortDescription": "Was versteht man unter einem freien Standort?",
+      "description": "Kann ein Betrieb zwischen verschiedenen Standorten frei wählen, bezeichnet\nman dies als freie Standortwahl. Entscheidend sind hier die rein\nbetriebswirtschaftlichen Interessen. Zu diesen Betrieben zählen z.B. der\nLebensmitteleinzelhandel, Friseure oder Speditionen."
+    },
+    {
+      "shortDescription": "Nennen Sie zwei wichtige Standortfaktoren für ein Schuhgeschäft.",
+      "description": "z.B.\n- Kundenähe\n- Kaufkraft\n- Mietpreise"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei wichtige Standortfaktoren für einen Großhandelsbetrieb,\nder ein großes zentrales Lager zur Belieferung der Einzelhandelbetriebe im\nUmkreis von 300 km unterhält.",
+      "description": "z.B.\n- Grundstückspreis\n- Verkehrsanbindung\n- Lohnniveau"
+    },
+    {
+      "shortDescription": "Was soll mit einer Nutzwertanalyse in Bezug auf die Standortwahl erreicht\nwerden?",
+      "description": "Die Nutzwertanalyse in Form einer Entscheidungsbewertungstabelle bietet\ndie Möglichkeit zur möglichst objektiven Standortanalyse und damit zu\neiner optimalen Standortwahl."
+    },
+    {
+      "shortDescription": "Was ist ein Transitland?",
+      "description": "Als Transitland werden Länder bezeichnet, in denen ein sehr starker\nPersonen- oder Warendurchreiseverkehr stattfindet."
+    },
+    {
+      "shortDescription": "Nennen Sie die fünf Straßenkategorien.",
+      "description": "Straßenkategorien:\n- Bundesautobahnen\n- Bundesstraßen\n- Landstraßen\n- Kreisstraßen\n- Gemeindestraßen"
+    },
+    {
+      "shortDescription": "Nennen Sie drei charakteristische Merkmale für Bundesautobahnen.",
+      "description": "z.B.\n- Schnellstraßen mit richtungsgetrennten Fahrbahnen\n- meist vier bis sechs Fahrspuren\n- Mindestgeschwindigkeit beträgt 60 km/h\n- Richtgeschwindigkeit von 130 km/h\n- blaues Leitsystem"
+    },
+    {
+      "shortDescription": "Wie verlaufen Autobahnen mit geraden einstelligen Nummern?",
+      "description": "Sie verlaufen weitgehend in West-Ost-Richtung."
+    },
+    {
+      "shortDescription": "Wie verlaufen Autobahnen mit ungeraden einstelligen Nummern?",
+      "description": "Sie verlaufen weitgehend in Nord-Süd-Richtung."
+    },
+    {
+      "shortDescription": "Welche Binnenwasserstraßen können unterschieden werden?",
+      "description": "Binnenwasserstraßen:\n- natürliche Flüsse\n- kanalisierte Flüsse\n- Kanäle"
+    },
+    {
+      "shortDescription": "Erklären Sie den Begriff Bergverkehr in der Binnenschifffahrt.",
+      "description": "Schiffsverkehr von der Flussmündung stromaufwärts zur Quelle."
+    },
+    {
+      "shortDescription": "Erklären Sie den Begriff Talverkehr in der Binnenschifffahrt.",
+      "description": "Schiffverkehr von der Quelle stromabwärts zur Flussmündung."
+    },
+    {
+      "shortDescription": "Nennen Sie drei wichtige Seewege und Seehäfen",
+      "description": "Seewege:\n- Nord-Ostsee-Kanal\n- Suez-Kanal\n- Panamakanal\n\nEuropäische Seehäfen:\n- Rotterdam (NL)\n- Antwerpen (B)\n- Hamburg (D)"
+    },
+    {
+      "shortDescription": "Welches ist Deutschlands größter Binnenhafen und nennen weitere?",
+      "description": "- Duisburg\n- Köln\n- Hamburg\n- Mannheim\n- Ludwigshafen\n- Neuss"
+    },
+    {
+      "shortDescription": "Welches ist Deutschlands größter Seehafen?",
+      "description": "Hamburg"
+    },
+    {
+      "shortDescription": "Nennen Sie drei Fahrzeugtypen für den Güterverkehr.",
+      "description": "z.B.\n- Einzelfahrzeug\n- Wechselbrücken-Gliederzug\n- Gliederzug\n- Sattelzug\n- Kippfahrzeug\n- Tankfahrzeug\n- Betonmischer\n- Silofahrzeug"
+    },
+    {
+      "shortDescription": "Nennen Sie die nach der Straßenverkehrs-Zulassungsordnung maximal\nzugelassene Gesamtlänge, Gesamtbreite und Höhe sowie das maximal zulässige\nGesamtgewicht eines Lkw.",
+      "description": "Gesamtlänge 18,75 m\nGesamtbreite 2,55 m\nGesamthöhe 4 m\nGesamtgewicht 40 t"
+    },
+    {
+      "shortDescription": "Welches Gesamtgewicht dürfen Lkw im Vor- und Nachlauf zum kombinierten\nVerkehr maximal haben?",
+      "description": "44 t"
+    },
+    {
+      "shortDescription": "Was ist ein Lademeter?",
+      "description": "Der Lademeter ist ein Maß für die beanspruchte Länge auf der Ladefläche\neines Lkw."
+    },
+    {
+      "shortDescription": "Was besagt das Ferienreisefahrverbot?",
+      "description": "Fahrzeuge mit einem zulässigen Gesamtgewicht über 7,5 t dürfen vom 1. Juli\nbis zum 31. August an Samstagen in der Zeit von 7:00 Uhr bis 20:00 Uhr auf\nbestimmten Autobahnen und Bundestraßen nicht fahren."
+    },
+    {
+      "shortDescription": "Was besagt das Sonn- und Feiertagsfahrverbot?",
+      "description": "Fahrzeuge mit einem zulässigen Gesamtgewicht über 7,5 t dürfen an Sonn-\nund Feiertagen zwischen 0:00 Uhr und 22:00 Uhr nicht fahren."
+    },
+    {
+      "shortDescription": "Was versteht man unter der Lenkzeit?",
+      "description": "Lenkzeit ist die Zeit, die tatsächlich mit Fahrertätigkeit zugebracht\nwird."
+    },
+    {
+      "shortDescription": "Was ist die Ruhezeit?",
+      "description": "Ruhezeit ist der Zeitraum, in dem der Fahrer über seine Zeit verfügen\nkann."
+    },
+    {
+      "shortDescription": "Wer kontrolliert die Einhaltung der Lenk- und Ruhezeit?",
+      "description": "Polizei und Bundesamt für Güterverkehr"
+    },
+    {
+      "shortDescription": "Was versteht man im Bahnverkehr unter der Spurweite?",
+      "description": "Die Spurweite ist der Abstand zwischen den Innenkanten der Schienen eines\nGleises."
+    },
+    {
+      "shortDescription": "Welche Spurweiten können unterschieden werden?",
+      "description": "- Normalspur\n- Schmalspur\n- Breitspur"
+    },
+    {
+      "shortDescription": "Was ist ein Lademaß im Bahnverkehr?",
+      "description": "Das Lademaß ist eine Begrenzungslinie, die eine Ladung beim Transport mit\nder Bahn nicht überschreiten darf."
+    },
+    {
+      "shortDescription": "Welche Verlademöglichkeiten gibt es im Schienenverkehr.",
+      "description": "- Eigener Gleisanschluss\n- Freiladegleis der Bahn"
+    },
+    {
+      "shortDescription": "Was ist ein Freiladegleis?",
+      "description": "Ein Freiladegleis ist ein Gleis, das die Bahn dem Versender zur Verladung\nvon Gütern zur Verfügung stellt."
+    },
+    {
+      "shortDescription": "Nennen Sie drei Verladeanlagen bzw. Verladegeräte für den Güterumschlag in\nBinnen- und Seehäfen.",
+      "description": "z.B.\n- Containerbrücke\n- Portalhubwagen\n- Reach-Stacker\n- fahrerloses Transportsystem\n- Kran\n- Greiferkran\n- Sauggutheber"
+    },
+    {
+      "shortDescription": "Was ist der kombinierte Verkehr?",
+      "description": "Kombinierter Verkehr liegt vor, wenn die gesamte Ladeeinheit\n(Wechselbehälter, Container, Sattelauflieger, kompletter Lkw) von einem\nVerkehrsträger auf einen anderen umgeladen wird. Die Beförderung der\nLadeeinheit auf der Gesamtstrecke erfolgt durch mindestens zwei\nverschiedene Verkehrsträger."
+    },
+    {
+      "shortDescription": "Nennen Sie drei Vorteile des kombinierten Verkehrs.",
+      "description": "- schnellerer Umschlag durch zusammengefasste Ladungseinheiten\n- Beschädigungsrisiko, Diebstahlrisiko sinkt durch Entfallen des Umladens\nder Güter\n- umweltfreundlicher, da Binnenschiff und Bahn weniger verbrauchen als ein\nLKW\n- Standzeiten für Laden/Entladen sinken, da gesamte Ladungseinheiten\nübergeben werden"
+    },
+    {
+      "shortDescription": "Nennen Sie drei Nachteile des kombinierten Verkehrs.",
+      "description": "- Investitionskosten für Wechselbrücken, Container\n- für Umschlag müssen geeignete Umschlagsterminals angefahren werden\n- Wartezeiten durch Verspätungen von Zug, Schiff, LKW\n- eher niedrige Nutzlast durch hohes Eigengewicht von Wechselbrücken und\nContainern"
+    },
+    {
+      "shortDescription": "Was ist eine rollende Landstraße?",
+      "description": "Rollende Landstraße bedeutet, dass der komplette Lkw mit der Bahn\nbefördert wird."
+    },
+    {
+      "shortDescription": "Welche zwei Arten des kombinierten Verkehrs können unterschieden werden?",
+      "description": "Arten des kombinierten Verkehrs:\n- begleiteter Verkehr\n- unbegleiteter Verkehr"
+    },
+    {
+      "shortDescription": "Was ist ein Ro-Ro-Schiff?",
+      "description": "Ro-Ro-Schiffe (Roll-on/Roll-off) bieten die Möglichkeit, rollfähige Ladung\n(Lkw, Bahn) auf einem Teil der Transportstrecke per Schiff zu\ntransportieren."
+    },
+    {
+      "shortDescription": "Was versteht man unter Short-Sea-Verkehr?",
+      "description": "Der Begriff Short-Sea-Verkehr kommt aus dem Englischen und bedeutet\nKurzstreckenverkehr. Zu diesen Verkehren gehören der Binnenverkehr und der\nküstennahe Seeverkehr. Befördert werden meist die gesamten\nLadungseinheiten."
+    },
+    {
+      "shortDescription": "Was ist ein Sammelguttransport?",
+      "description": "Beim Sammelguttransport werden mehrere kleinere Sendungen verschiedener\nVersender zu einer Sammelladung zusammengefasst und transportiert."
+    },
+    {
+      "shortDescription": "Nennen Sie die Ablaufphasen eines Sammelgutverkehrs.",
+      "description": "Vorlauf -> Umschlag -> Hauptlauf -> Umschlag -> Nachlauf"
+    },
+    {
+      "shortDescription": "Was ist ein Direktverkehr?",
+      "description": "Direktverkehre sind Punkt-zu-Punkt-Verkehre, d.h. die Sendung wird z.B.\ndirekt vom Absender zum Empfänger transportiert."
+    },
+    {
+      "shortDescription": "Nennen Sie drei Einsatzgebiete von Hub-and-Spoke-Systemen.",
+      "description": "z.B.\n- im Seeverkehr bei den Feederverkehren\n- im Luftfrachtverkehr\n- bei den Kurier- und Expressdiensten\n- bei der Brief- und Paketzustellung\n- im Eisenbahngüterverkehr\n- im Straßengüterverkehr bei allen Sammelgutspeditionsunternehmen"
+    },
+    {
+      "shortDescription": "Was ist City-Logistik?",
+      "description": "City-Logistik ist eine spezielle Form des Sammelladungsverkehrs. Die\nSendungen werden z.B. in einem Güterverteilzentrum am Rande der Stadt\nangeliefert und von dort mit kleineren Fahrzeugen zu den einzelnen Kunden\nim Innenstadtbereich gebracht."
+    },
+    {
+      "shortDescription": "Was ist ein Güterverkehrszentrum?",
+      "description": "Dort werden Verkehrsträger, Verkehrsunternehmen, verkehrsergänzende\nDienstleistungsbetriebe und logistikintensive Industrie- und\nHandelsbetriebe zusammengeführt und vernetzt. Sie sind die Schnittstelle\nzwischen Nah- und Fernverkehr, dienen als Umschlags-Terminals im\nkombinierten Verkehr und können Teil einer City-Logistik sein."
+    },
+    {
+      "shortDescription": "Was ist \"tracking and tracing\"?",
+      "description": "Sendungsverfolgung"
+    },
+    {
+      "shortDescription": "Was ist Voraussetzung für ein \"tracking and tracing\"?",
+      "description": "Jedes Packstück muss eine eindeutige NVE haben, z.B. Barcode oder RFID."
+    },
+    {
+      "shortDescription": "Womit befasst sich die Tourenplanung?",
+      "description": "Sie befasst sich mit\n- der möglichst guten Zuordnung von Fahrzeugen zu den Transportaufträgen\n(Clustering) und\n- der Festlegung einer optimalen Reihenfolge der Be- und Entladestellen\nfür jedes Fahrzeug (Routing)"
+    },
+    {
+      "shortDescription": "Was sind die Ziele der Tourenplanung?",
+      "description": "- möglichst geringe Kosten durch Koordinierung bei hohem Servicegrad\n- schneller Versandtermine und kurze Transportzeiten"
+    },
+    {
+      "shortDescription": "Nennen Sie drei Bedingungen, die bei der Tourenplanung zu beachten sind.",
+      "description": "- verfügbare Fahrzeuge (Art und Anzahl)\n- Fahrzeugkapazitäten (Gewicht und Volumen)\n- verfügbare Fahrer\n- Eigenschaften der Ware\n- Zeitfenster für Liefer- bzw. Abholaufträge\n- Anzahl der Be- und Entladestellen\n- Lenkvorschriften\n- Verkehrshindernisse"
+    },
+    {
+      "shortDescription": "Welche zwei Arten der Tourenplanung können unterschieden werden?",
+      "description": "Arten der Tourenplanung:\n- Standardtourenplanung\n- tägliche Tourenplanung"
+    },
+    {
+      "shortDescription": "Was ist Telematik?",
+      "description": "Telematik verknüpft die Technologiebereiche Telekommunikation und\nInformatik. Aufgabe eines Telematiksystems ist die Erfassung von Daten\nsowie deren Übertragung vom Erfassungsort zu einem Verarbeitungssystem\nüber mobile Datenkommunikation."
+    },
+    {
+      "shortDescription": "Wie berechnet man den Umfang und Flächeninhalt eines Kreises und das\nVolumen eines Zylinders?",
+      "description": "Umfang: 2 - r - pi\nFläche: r^2 - pi\nVolumen: r^2 - pi - h"
+    }
+  ]
+}
