@@ -1,0 +1,419 @@
+{
+  "name": "Lernfeld 11",
+  "group": "lernfeld_11",
+  "description": "Güter beschaffen",
+  "karten": [
+    {
+      "shortDescription": "Was ist ein Markt?",
+      "description": "Der Markt ist der Ort des Zusammentreffens von Angebot und Nachfrage."
+    },
+    {
+      "shortDescription": "Je nach Art der gehandelten Sachgüter und Dienstleistungen können verschiedene Märkte unterschieden werden. Nennen Sie drei.",
+      "description": "z.B.\n- Warenmarkt\n- Grundstücksmarkt\n- Kreditmarkt\n- Arbeitsmarkt"
+    },
+    {
+      "shortDescription": "Unterscheiden Sie \"vollkommener\" und \"unvollkommener\" Markt.",
+      "description": "Auf vollkommenen Märkten kann es für ein bestimmtes Gut nur einen\neinheitlichen Preis geben.\n\n\nAuf unvollkommenen Märkten gibt es für ein bestimmtes Gut unterschiedliche Preis."
+    },
+    {
+      "shortDescription": "Entsprechend der Anzahl der Anbieter und Nachfrager eines Gutes können drei grundsätzliche Marktformen unterschieden werden. Welche sind das?",
+      "description": "Marktformen:\n- Polypol\n- Oligopol\n- Monopol"
+    },
+    {
+      "shortDescription": "Kennzeichnen Sie die Marktform des Polypols nach der Anzahl der Nachfrager und Anbieter.",
+      "description": "Polypol = viele Nachfrager und viele Anbieter"
+    },
+    {
+      "shortDescription": "Kennzeichnen Sie die Marktform des Angebotsoligopols nach der Anzahl der Nachfrager und Anbieter.",
+      "description": "Angebotsoligopol = viele Nachfrage und wenige Anbieter"
+    },
+    {
+      "shortDescription": "Kennzeichnen Sie die Marktform des Nachfragemonopols nach der Anzahl der Nachfrager und Anbieter.",
+      "description": "Nachfragemonopol = ein Nachfrager und viele Anbieter"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Einflussfaktoren der Nachfrage.",
+      "description": "z.B.\n- der Preis des Gutes\n- die Preis anderer Güter (Substitutionsgüter und Komplementärgüter)\n- das verfügbare Einkommen\n- die Bedarfsstruktur"
+    },
+    {
+      "shortDescription": "Wie wird sich normalerweise die Nachfragemenge bei sinkenden Preisen entwickeln?",
+      "description": "Die Nachfragemenge wird bei sinkenden Preisen normalerweise steigen."
+    },
+    {
+      "shortDescription": "Was versteht man unter einem Angebot im volkswirtschaftlichen Sinne?",
+      "description": "Unter einem Angebot im volkswirtschaftlichen Sinne versteht man die Menge an Gütern und Dienstleistungen, die auf dem Markt zum Verkauf oder Tausch angeboten wird."
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Einflussfaktoren des Angebots.",
+      "description": "z.B.\n- der am Markt erzielbare Preis\n- der Preis anderer konkurrierender Güter (Preise der Konkurrenz)\n- die Kosten für die benötigten Produktionsfaktoren zur Produktion des Gutes\n- der technische Fortschritt\n- die Gewinnerwartung"
+    },
+    {
+      "shortDescription": "Wie wird sich normalerweise die Angebotsmenge bei steigenden Preisen entwickeln?",
+      "description": "Die Angebotsmenge nimmt bei steigenden Preisen normalerweise zu."
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Prämissen (Annahmen) eines vollkommenen Marktes.",
+      "description": "z.B.\n- es bestehen keine Präferenzen\n- auf dem Markt werden nur homogene Güter angeboten, d.h., die Güter sind alle gleich\n- alle Marktteilnehmer streben Nutzen- und Gewinnmaximierung an\n- er herrscht völlige Markttransparenz\n- Anbieter und Nachfrage reagieren ohne Verzögerung auf Änderungen der Marktverhältnisse"
+    },
+    {
+      "shortDescription": "Wie verhalten sich Angebot und Nachfrage bei Gleichgewichtspreis?",
+      "description": "Gleichgewichtspreis:\nAngebot = Nachfrage"
+    },
+    {
+      "shortDescription": "Wer befindet sich bei einem Angebotüberhang in der stärkeren Position, der Nachfrager oder der Anbieter?",
+      "description": "Beim Angebotsüberhang befindet sich der Nachfrager in der stärkeren Position. Man spricht daher auch von einem Käufermarkt."
+    },
+    {
+      "shortDescription": "Wer befindet sich bei einem Nachfrageüberhang in der stärkeren Position, der Nachfrage oder der Anbieter?",
+      "description": "Beim Nachfrageüberhang befindet sich der Anbieter in der stärkeren Position. Man spricht daher auch von einem Verkäufermarkt."
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Ziele der Beschaffung.",
+      "description": "Ziel der Beschaffung ist die Versorgung der Bedarfsträger mit\n- den richtigen Gütern und Dienstleistungen\n- in der richtigen Art, Menge und Qualität\n- zur richtigen Zeit\n- am richtigen Ort\n- zu möglichst geringen Kosten"
+    },
+    {
+      "shortDescription": "Was versteht man unter der externen Beschaffungsorganisation?",
+      "description": "Die externe Beschaffungsorganisation betrifft die Organisation der Außenbeziehungen eines Unternehmens im Bereich der Beschaffung."
+    },
+    {
+      "shortDescription": "Was versteht man unter der zentralen Beschaffung?",
+      "description": "Für mehrere Filialen, Werke oder auch Produktionsabteilungen eines Unternehmens gibt es nur eine zentrale Beschaffungsabteilung."
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Vorteile der zentralen Beschaffung.",
+      "description": "z.B.\n- bei größeren Einkaufsmengen können günstigere Preise und bessere Lieferbedingungen erzielt werden\n- Gesamtbedarf ist besser überschaubar\n- Reduzierung der Personalkosten\n- leichtere Finanzdisposition, weil weniger Einzeletats aufgestellt werden müssen"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Nachteile der zentralen Beschaffung.",
+      "description": "z.B.\n- die verlängerten Informationswege und der größere Verwaltungsaufwand führen zu einer stärkeren Bürokratisierung\n- die längeren Informationswege und die langsamere Informationsübermittlung führen zu einer geringeren Flexibilität\n- die Kommunikationskosten sind relativ hoch\n- der direkte Kontakt zwischen Lieferant und den einzelnen Bedarfsträgern geht weitgehend verloren"
+    },
+    {
+      "shortDescription": "Was versteht man unter der dezentralen Beschaffung?",
+      "description": "Jede Filiale, jedes Werk oder auch jede Produktionsabteilung eines Unternehmens hat eine eigene Beschaffungsabteilung."
+    },
+    {
+      "shortDescription": "Was versteht man unter der internen Beschaffungsorganisation?",
+      "description": "Bei der internen Beschaffungsorganisation geht es um die Gestaltung der Arbeitsprozesse innerhalb der Beschaffungsabteilung."
+    },
+    {
+      "shortDescription": "Was versteht man unter einer funktionsorientierten Beschaffungsorganisation?",
+      "description": "Bei der funktionsorientierten Beschaffungsorganisation werden die Beschaffungsabteilungen nach den Aufgaben (Tätigkeiten), die bei der Beschaffung von Gütern zu erledigen sind, untergliedert."
+    },
+    {
+      "shortDescription": "Was versteht man unter einer objektorientierten Beschaffungsorganisation?",
+      "description": "Bei der objektorientierten Beschaffungsorganisation sind die Einkaufsabteilungen nach den zu beschaffenden Materialien (Gegenständen bzw. Objekten) untergliedert."
+    },
+    {
+      "shortDescription": "Nennen Sie die acht Schritte eines Beschaffungsprozesses.",
+      "description": "Schritte eines Beschaffungsprozesses:\n- Bedarfsermittlung\n- Ermittlung der Bezugsquellen\n- Lieferantenauswahl\n- Bestellabwicklung\n- Bestellüberwachung\n- Wareneingang\n- Rechnungsprüfung\n- Zahlungsabwicklung"
+    },
+    {
+      "shortDescription": "Was soll mit der Bedarfsplanung festgestellt werden?",
+      "description": "Mit der Bedarfsplanung soll festgestellt werden, welche Güter in welcher Menge zu beschaffen sind."
+    },
+    {
+      "shortDescription": "Erklären Sie den Begriff Primärbedarf anhand eines Beispiels.",
+      "description": "Als Primär bezeichnet man den Bedarf an fertigen Endprodukten, z.B. sollen drei Tische gefertigt werden."
+    },
+    {
+      "shortDescription": "Erklären Sie den Begriff Sekundärbedarf anhand eines Beispiels.",
+      "description": "Als Sekundärbedarf bezeichnet man die Bauteile und Rohstoffe, die für die Herstellung von Endprodukten benötigt werden. So werden für die Herstellung von drei Tischen z.B. drei Tischplatten und 12 Tischbeine benötigt."
+    },
+    {
+      "shortDescription": "Welche drei Beschaffungskonzepte können unterschieden werden?",
+      "description": "Beschaffungskonzepte:\n- Vorratsbeschaffung\n- Einzelbeschaffung (fallweise Beschaffung)\n- absatz- bzw. fertigungssynchrone Beschaffung"
+    },
+    {
+      "shortDescription": "Nennen Sie einen Vorteil der Vorratsbeschaffung.",
+      "description": "z.B.\n- Kostenvorteile durch höhere Abnahmemengen\n- Nutzen günstiger Einkaufszeitpunkte\n- keine Produktionsunterbrechung wegen relativ hoher Lagerbestände\n- jederzeitige Lieferbereitschaft\n- geringere Bezugskosten"
+    },
+    {
+      "shortDescription": "Nennen Sie einen Nachteil der Vorratsbeschaffung.",
+      "description": "z.B.\n- hohe Kapitalbindungskosten\n- hohe Lagerhaltungskosten\n- relativ hohe Wagniskosten (Gefahr des Veraltens, des Verderbs und unter Umständen der Qualitätsminderung)"
+    },
+    {
+      "shortDescription": "Nennen Sie einen Vorteil der Einzelbeschaffung.",
+      "description": "z.B.\n- geringe Kapitalbindungskosten\n- geringe Lagerhaltungskosten\n- keine Wagniskosten (z.B. durch Verderb)\n- kurze Lagerdauer"
+    },
+    {
+      "shortDescription": "Nennen Sie einen Nachteil der Einzelbeschaffung.",
+      "description": "z.B.\n- mögliche Produktionsunterbrechung oder keine sofortige Lieferbereitschaft wegen Fehlen des benötigten Materials\n- höhere Beschaffungskosten, da der günstigste Einkaufszeitpunkt nicht abgewartet werden kann und häufiger bestellt werden muss\n- höhere Abhängigkeit vom Zulieferer"
+    },
+    {
+      "shortDescription": "Nennen Sie einen Vorteil der absatz- bzw. fertigungssynchronen Beschaffung.",
+      "description": "z.B.\n- niedrige Kapitalbindungskosten\n- niedrige Lagerhaltungskosten\n- Absicherung der Lieferung durch Rahmenverträge mit festgelegten hohen Konventionalstrafen"
+    },
+    {
+      "shortDescription": "Nennen Sie einen Nachteil der absatz- bzw- fertigungssynchronen Beschaffung.",
+      "description": "z.B.\n- Unterbrechung der Produktion aufgrund nicht termingerechter Lieferungen\n- höhere Transportkosten\n- hohe Abhängigkeit vom Zulieferer"
+    },
+    {
+      "shortDescription": "Welche Kriterien sollen mittels der XYZ-Analyse beurteilt werden?",
+      "description": "Bei der XYZ-Analyse werden die Güter und Materialien nach der Stetigkeit und Vorhersagegenauigkeit ihres Verbrauchs bzw. ihres Bedarfs in drei Klassen aufgeteilt."
+    },
+    {
+      "shortDescription": "Was sind X-Güter?",
+      "description": "Als X-Güter werden jene Artikel bezeichnet, die eine hohe Konstanz des Bedarfs bzw. des Verbrauchs sowie eine hohe Prognosegenauigkeit aufweisen."
+    },
+    {
+      "shortDescription": "Was sind Y-Güter?",
+      "description": "Als Y-Güter werde jene Artikel bezeichnet, deren Bedarf bzw. Verbrauch stärkeren, meist saisonalen Schwankungen unterworfen ist. Sie besitzen eine mittlere Prognosegenauigkeit."
+    },
+    {
+      "shortDescription": "Was sind Z-Güter?",
+      "description": "Als Z-Güter werden jene Artikel bezeichnet, deren Bedarf bzw. Verbrauch unregelmäßig ist und die eine niedrige Prognosegenauigkeit aufweisen."
+    },
+    {
+      "shortDescription": "Welche beiden Bestellverfahren kennen Sie?",
+      "description": "Bestellverfahren:\n- Bestellpunktverfahren\n- Bestellrythmusverfahren"
+    },
+    {
+      "shortDescription": "Wann erfolgt beim Bestellpunktverfahren eine Bestellung?",
+      "description": "Beim Bestellpunktverfahren erfolgt eine Bestellung immer dann, wenn der Lagerbestand auf einen bestimmten Punkt, den Bestellpunkt (= Meldebestand), gesunken ist."
+    },
+    {
+      "shortDescription": "Wann erfolgt beim Bestellrythmusverfahren eine Bestellung?",
+      "description": "Beim Bestellrythmusverfahren erfolgt eine Bestellung immer nach Ablauf einer bestimmten konstanten Zeitspanne, also in gleichbleibenden Zeitintervallen."
+    },
+    {
+      "shortDescription": "Worauf muss bei der Festsetzung des Meldebestands geachtet werden?",
+      "description": "Der Meldebestand muss so festgesetzt werden, dass der Lagerbestand ausreicht, den Verbrauch bis zum Eintreffen der neuen Lieferung zu decken, ohne den Mindestbestand anzugreifen."
+    },
+    {
+      "shortDescription": "Was ist eine zwingende Voraussetzung für ein funktionierendes Bestellpunktverfahren?",
+      "description": "Das Unternehmen muss den Lagerbestand kontinuierlich im Blick behalten, um nach jeder Entnahme das Erreichen des Meldebestands feststellen und dann sofort nachbestellen zu können. Der Einsatz eines EDV-gestützten Lagerverwaltungssystems ist in einem größeren Lager somit unentbehrlich."
+    },
+    {
+      "shortDescription": "Zu welchem Beschaffungskonzept (Einzelbeschaffung, Vorratsbeschaffung oder fertigungssynchrone Beschaffung) zählen das Bestellpunktverfahren und das Bestellrythmusverfahren?",
+      "description": "Sowohl das Bestellpunkt- als auch das Bestellryhtmusverfahren zählen zur Vorratsbeschaffung, da bei beiden Verfahren Lagervorräte angelegt werden."
+    },
+    {
+      "shortDescription": "Definieren Sie den Begriff optimale Bestellmenge.",
+      "description": "Die optimale Bestellmenge ist die Menge, bei der die Summe aus Bestell- und Lagerkosten am geringsten ist."
+    },
+    {
+      "shortDescription": "Wie lautet die Formel zur Berechnung der optimalen Bestellmenge?",
+      "description": "optimale Bestellmenge =\n\nWUZEL AUS:\n\n(200 - Jahresbedarf - Bestellkosten) : [Einstandspreis - (Zins-/Lagerkostensatz)]"
+    },
+    {
+      "shortDescription": "Nennen Sie drei Gründe dafür, dass die tabellarisch oder rechnerisch ermittelte optimale Bestellmenge in der Realität nicht immer umgesetzt werden kann.",
+      "description": "z.B.\n- Beschränkung auf eine ganzzahlige Anzahl von Bestellungen\n- keine Berücksichtigung von Rabatten und Transportkosten\n- Schwankungen beim Lagerabgang\n- Vorgabe einer Mindestabnahmemenge durch den Lieferer\n- Lieferung der Waren nur in festen Maßgrößen und Einheiten\n- beschränkte Lagerfähigkeit der Waren\n- Berücksichtigung von Saisonartikeln"
+    },
+    {
+      "shortDescription": "Nennen Sie drei Quellen zur internen Bezugsermittlung.",
+      "description": "z.B.\n- Artikeldatei\n- Lieferantendatei\n- Messeberichte der Einkäufer\n- Vertreterberichte"
+    },
+    {
+      "shortDescription": "Nennen Sie drei Quellen zur externen Bezugsermittlung.",
+      "description": "z.B.\n- Gelbe Seiten\n- Lieferantenverzeichnisse wie \"ABC der Deutschen Wirtschaft\"\n- Kataloge, Preislisten, Prospekte\n- Fachzeitschriften\n- Messen\n- Ausstellungen\n- IHK\n- Internet"
+    },
+    {
+      "shortDescription": "Welche zwei Arten der Anfrage können unterschieden werden?",
+      "description": "Arten der Anfrage:\n- allgemeine Anfrage\n- bestimmte Anfrage"
+    },
+    {
+      "shortDescription": "Erklären Sie, was eine allgemeine Anfrage ist.",
+      "description": "Mit der allgemeinen Anfrage kann man sich einen ersten Überblick über die Waren oder Leistungen eines Anbieters verschaffen."
+    },
+    {
+      "shortDescription": "Erklären Sie, was eine bestimmte Anfrage ist.",
+      "description": "Mit einer bestimmten Anfrage sollen Informationen zu einer ganz bestimmten Ware verschafft werden, um so den günstigsten Lieferanten herauszufinden."
+    },
+    {
+      "shortDescription": "Nennen Sie drei Inhalte einer bestimmten Anfrage.",
+      "description": "z.B.\n- innerbetriebliche Angaben wie Anschrift und Telefonnummer\n- Aufforderung der Abgabe eines Angebots\n- genaue Bezeichnung der gewünschten Ware\n- gewünschter Liefertermin\n- die Bitte um Nennung der Liefer- und Zahlungsbedingungen"
+    },
+    {
+      "shortDescription": "Was ist ein Angebot?",
+      "description": "Ein Angebot ist die an eine bestimmte Person oder Personengruppe gerichtete empfangsbedürftige Willenserklärung, Waren zu den angegebenen Bedingungen zu liefern."
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Freizeichnungsklauseln.",
+      "description": "z.B.\n- unverbindlich\n- freibleibend\n- solange der Vorrat reicht"
+    },
+    {
+      "shortDescription": "Welche Angaben sollte ein Angebot beinhalten?\nNennen Sie vier Angaben.",
+      "description": "z.B.\n- Art, Güte und Beschaffenheit der Ware\n- Menge\n- Preis\n- Verpackungsart und -kosten\n- Lieferbedingungen\n- Lieferzeit\n- Zahlungsbedingungen\n- Erfüllungsort und Gerichtsstand"
+    },
+    {
+      "shortDescription": "Was ist ein Bonus?",
+      "description": "Der Bonus ist ein Preisnachlass, der nachträglich gewährt wird. Er wird nur gewährt, wenn innerhalb festgelegten Zeitraums der Umsatz eine bestimmte Höhe übersteigt."
+    },
+    {
+      "shortDescription": "Was ist Skonto?",
+      "description": "Skonto ist ein Preisnachlass für Bezahlung innerhlab einer bestimmten Frist, z.B. bei Zahlungen innerhalb von acht Tagen."
+    },
+    {
+      "shortDescription": "Was ist Rollgeld?",
+      "description": "Unter Rollgeld werden die Beförderungskosten vom Lieferer bis zum Versandbahnhof verstanden sowie die Beförderungskosten vom Bestimmungsbahnhof (Empfangsbahnhof) bis zum Käufer."
+    },
+    {
+      "shortDescription": "Was sind Verlade- und Entladekosten?",
+      "description": "Zu den Verladekosten zählen die Kosten für das Verladen der Waren\nauf einen Lkw oder Waggon.\n\n\nDie Entladekosten umfassen Kosten, die entstehen, wenn beispielsweise Mitarbeiter des Verkäufers den Lkw entladen und die Ware im Betrieb des Käufers einlagern."
+    },
+    {
+      "shortDescription": "Wie lautet das Kalkulationsschema für einen quantitativen Angebotsvergleich?",
+      "description": "Listeneinkaufpreis\n\n\\- Lieferrabatt\n\n= Zieleinkaufspreis\n\n\\- Liefererskonto\n\n= Bareinkaufspreis\n\n+ Bezugskosten\n\n= Bezugspreis bzw. Einstandspreis"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Beurteilungskriterien für einen qualitativen Angebotsvergleich.",
+      "description": "z.B.\n- Qualität der Ware\n- Liefermenge\n- Lieferzeit\n- Zuverlässigkeit des Lieferers\n- Serviceleistungen\n- Umweltverträglichkeit"
+    },
+    {
+      "shortDescription": "Was ist eine Bestellung?",
+      "description": "Die Bestellung ist die verbindliche Willenserklärung des Käufers gegenüber dem Verkäufer, Waren zu festgelegten Bedingungen zu kaufen."
+    },
+    {
+      "shortDescription": "Welche Formschriften gelten für Kaufverträge?",
+      "description": "Kaufverträge sind an keine Form gebunden. Ausnahmen bilden Ratenkaufverträge und Immobilienkaufverträge. Für sie ist die Schriftform vorgeschrieben. Immobilienkaufverträge müssen notariell beurkundet werden."
+    },
+    {
+      "shortDescription": "Welche rechtlich gültigen Kaufverträge können innerhalb von 14 Tagen widerrufen werden?",
+      "description": "z.B.\n- Haustürgeschäfte\n- Versandhausbestellungen\n- Ratenkaufverträge\n- Zeitungsabonnements\n- Verträge, die im Internet oder am Telefon abgeschlossen werden"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Gründe für die Nichtigkeit von Rechtsgeschäften.",
+      "description": "z.B.\n- Abgabe von Willenserklärungen von Geschäftsunfähigen oder beschränkt geschäftsfähigen Personen ohne Zustimmung des gesetzlichen Vertreters\n- Verstoß gegen ein gesetzliches Verbot\n- Sittenwidrigkeit\n- Scheingeschäfte\n- Scherzgeschäfte\n- Formmangel"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Gründe für die Anfechtbarkeit von Rechtsgeschäften.",
+      "description": "z.B.\n- Erklärungsirrtum\n- Inhaltsirrtum\n- Übermittlungsirrtum\n- arglistige Täuschung\n- widerrechtliche Drohung"
+    },
+    {
+      "shortDescription": "Was ist ein bürgerlicher Kauf?",
+      "description": "Dies ist ein Kauf unter Nichtkaufleuten."
+    },
+    {
+      "shortDescription": "Was ist ein einseitiger Handelskauf?",
+      "description": "Dies ist ein Kauf zwischen einem Kaufmann und einer Privatperson."
+    },
+    {
+      "shortDescription": "Was ist ein zweiseitiger Handelskauf?",
+      "description": "Dies ist ein Kauf unter Kaufleuten."
+    },
+    {
+      "shortDescription": "Was ist ein Stückkauf?",
+      "description": "Der Kaufgegenstand ist ein einzigartiges und nicht durch vergleichbare Waren zu ersetzendes Gut."
+    },
+    {
+      "shortDescription": "Was ist ein Gattungskauf?",
+      "description": "Der Kaufgegenstand ist der Gattung nach bestimmt. Es handelt sich um Waren, die mehrfach gefertigt wurden."
+    },
+    {
+      "shortDescription": "Was ist ein Kauf auf Probe?",
+      "description": "Der Käufer kann die Ware bei Nichtgefallen innerhalb einer vereinbarten Frist wieder zurückgeben."
+    },
+    {
+      "shortDescription": "Wann ist ein Angebot nicht mehr gültig?",
+      "description": "- der Empfänger lehnt das Angebot ab\n- die Bestellung trifft zu spät ein\n- die Bestellung weicht vom Angebot ab"
+    },
+    {
+      "shortDescription": "Nennen Sie drei Nachteile einer zu hohen und zu niedrigen Bestellmenge.",
+      "description": "Nachteile einer zu hohen Bestellmenge:\n- hohe Lagerkosten\n- Gefahr des Verderbs\n- Veralten oder Diebstahl\n- hohe Kapitalbindung\n\nNachteile einer zu niedrigen Bestellmenge:\n- Kundenverlust\n- Belieferung von Kunden nicht möglich\n- Mengenrabatte können nicht genutzt werden\n- hoher Bestellaufwand, da öfters bestellt werden muss"
+    },
+    {
+      "shortDescription": "Was ist ein Kauf nach Probe?",
+      "description": "Die zu liefernde Ware muss der Probe oder der früher gelieferten Ware entsprechen."
+    },
+    {
+      "shortDescription": "Was ist ein Kauf zur Probe?",
+      "description": "Der Käufer bezieht erst eine kleinere Menge einer Ware zum Testen. Bei Gefallen ist vom Käufer meist eine größere Bestellmenge in Aussicht gestellt."
+    },
+    {
+      "shortDescription": "Was ist ein Fixkauf?",
+      "description": "Die Lieferung muss an einem eindeutig vereinbarten Termin erfolgen, weder vorher noch nachher."
+    },
+    {
+      "shortDescription": "Was ist ein Kauf auf Abruf?",
+      "description": "Die gekaufte Ware wird in Teilmengen oder als Ganzes zu einem späteren Zeitpunkt geliefert, d.h., der Käufer ruft die Ware ab, wenn er sie benötigt."
+    },
+    {
+      "shortDescription": "Nennen Sie drei Bestandteile, die ein Kaufvertrag enthalten sollte.",
+      "description": "z.B.\n- Name und Anschrift der Lieferers und des Kunden\n- Menge der Ware\n- Art und Qualität der Ware\n- Preis der Ware\n- Lieferbedingungen\n- Beförderungs- und Verpackungskosten\n- Zahlungsbedingungen\n- Preisnachlässe\n- Garantieleistungen"
+    },
+    {
+      "shortDescription": "Welche Voraussetzungen müssen gegeben sein, damit ein Zahlungsverzug vorliegt?",
+      "description": "Voraussetzungen für den Zahlungsverzug:\n- Fälligkeit der Zahlung\n- Verschulden des Käufers\n- Mahnung"
+    },
+    {
+      "shortDescription": "Nennen Sie ein Beispiel für einen kalendermäßig bestimmten oder bestimmbaren Zahlungstermin.",
+      "description": "z.B.\n- zahlbar bis zum 31.05.2020\n- zahlbar in der 20. Kalenderwoche\n- zahlbar 14 Tage nach Rechnungsdatum"
+    },
+    {
+      "shortDescription": "Nennen Sie ein Beispiel für einen kalendermäßig nicht genau bestimmten oder bestimmbaren Zahlungstermin.",
+      "description": "z.B.\n- zahlbar 14 Tage nach Rechnungserhalt\n- zahlbar sofort"
+    },
+    {
+      "shortDescription": "Welche Rechte kann der Verkäufer bei einem Zahlungsverzug geltend machen?",
+      "description": "Er kann die Zahlung verlangen oder Zahlung + Schadensersatz verlangen."
+    },
+    {
+      "shortDescription": "Welche Recht kann der Verkäufer bei einem Zahlungsverzug mit Nachfristsetzung geltend machen?",
+      "description": "Er kann mit Rücktritt vom Vertrag drohen und die Herausgabe der Ware verlangen oder außerdem noch Schadensersatz verlangen."
+    },
+    {
+      "shortDescription": "Welche drei Zahlungsarten können unterschieden werden?",
+      "description": "Zahlungsarten:\n- Barzahlung\n- halbbare Zahlung\n- bargeldlose Zahlung"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Möglichkeiten der Barzahlung.",
+      "description": "z.B.\n- Übergabe von Bargeld durch den Zahlungspflichtigen\n- Übergabe von Bargeld durch einen Boten\n- Dienstleistung der \"Western Union\""
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Möglichkeiten der halbbaren Zahlung.",
+      "description": "z.B.\n- Zahlschein\n- Nachnahme\n- Zahlungsanweisung\n- Barscheck"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Möglichkeiten der bargeldlosen Zahlung.",
+      "description": "z.B.\n- Überweisung\n- Dauerauftrag\n- Lastschrift\n- Verrechnungsscheck\n- Kartenzahlung"
+    },
+    {
+      "shortDescription": "Nennen Sie drei Bestandteile einer Quittung.",
+      "description": "Die gesetzlichen Bestandteile sind:\n- Aufdruck/Aufschrift \"Quittung\"\n- Zahlungsbetrag\n- evtl. enthaltene Umsatzsteuer\n- Name des Zahlungspflichtigen\n- Zahlungsgrund\n- Zahlungsort\n- Zahlungsdatum\n- Unterschrift des Empfängers"
+    },
+    {
+      "shortDescription": "Wer hat bei der Zahlung mit Zahlschein ein Konto?",
+      "description": "Der Zahlungsempfänger hat ein Konto."
+    },
+    {
+      "shortDescription": "Wie kann man aus einem Barscheck einen Verrechnungsscheck machen?",
+      "description": "Durch den Aufdruck \"nur zur Verrechnung\" in der linken oberen Ecke"
+    },
+    {
+      "shortDescription": "Was bedeutet das Maestro-Symbol auf einer Bankkarte?",
+      "description": "Das Maestro-Symbol zeigt an, dass mit einer Bankkarte weltweit an gekennzeichneten Geldautomaten Bargeld abgehoben werden kann."
+    },
+    {
+      "shortDescription": "Was bedeutet das ec- und das Girocard-Symbol auf einer Bankkarte?",
+      "description": "Das ec- und das Girocard-Symbol zeigen an, dass die Karte zur Zahlung mit PIN und zur Abhebung an deutschen Geldautomaten berechtigt."
+    },
+    {
+      "shortDescription": "Zu welcher Zahlungsart gehört die Bezahlung mit der Geldkarte?",
+      "description": "bargeldlose Zahlung"
+    },
+    {
+      "shortDescription": "Zu welcher Zahlungsart gehört das Lastschriftverfahren?",
+      "description": "bargeldlose Zahlung"
+    },
+    {
+      "shortDescription": "Zu welcher Zahlungsart gehört die Nachnahme?",
+      "description": "halbbare Zahlung"
+    },
+    {
+      "shortDescription": "Zu welcher Zahlungsart gehört die Zahlungsanweisung?",
+      "description": "halbbare Zahlung"
+    },
+    {
+      "shortDescription": "Zu welcher Zahlungsart gehört die Überweisung?",
+      "description": "bargeldlose Zahlung"
+    },
+    {
+      "shortDescription": "Zu welcher Zahlungsart gehört die Zahlung mit der EC-Karte?",
+      "description": "bargeldlose Zahlung"
+    },
+    {
+      "shortDescription": "Zu welcher Zahlungsart gehört die Zahlung mit einer Kreditkarte?",
+      "description": "bargeldlose Zahlung"
+    }
+  ]
+}
