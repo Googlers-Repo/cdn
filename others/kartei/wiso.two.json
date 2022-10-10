@@ -1,0 +1,159 @@
+{
+  "name": "WiSo Teil 2",
+  "group": "wiso part_two",
+  "description": "",
+  "karten": [
+    {
+      "shortDescription": "Wie bezeichnet man die Wirtschaftsordnung, bei der der gesamte Wirtschaftsablauf vom Staat gelenkt wird?",
+      "description": "Zentralverwaltungswirtschaft"
+    },
+    {
+      "shortDescription": "Wie wird das Wirtschaftssystem der Bundesrepublik Deutschland bezeichnet?",
+      "description": "Soziale Marktwirtschaft"
+    },
+    {
+      "shortDescription": "Wer trifft in der freien Marktwirtschaft die Entscheidung über Produktion und Investition?",
+      "description": "Der Unternehmer"
+    },
+    {
+      "shortDescription": "Von wem werden die Entscheidungen über Produktion und Investition in der Planwirtschaft getroffen?",
+      "description": "Vom Staat bzw. von staatlichen Planungsbehörden"
+    },
+    {
+      "shortDescription": "Nennen Sie die verschiedenen Formen der Arbeitsteilung.",
+      "description": "Formen der Arbeitsteilung:\n- berufliche Arbeitsteilung\n- betriebliche Arbeitsteilung\n- volkswirtschaftliche Arbeitsteilung\n- internationale Arbeitsteilung"
+    },
+    {
+      "shortDescription": "Was versteht man unter Berufsspaltung?",
+      "description": "Unter Berufsspaltung ist die weitergehende Spezialisierung innerhalb eines Berufszweiges zu verstehen, z.B. Arzt -> Zahnarzt, Kinderarzt, Augenarzt"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Ursachen für die fortschreitende Globalisierung.",
+      "description": "z.B.\n- Abbau von Handelshemmnissen\n- Informations- und Kommunikationstechniken\n- globalisierte Kapitalmärkte\n- niedrige Transportkosten\n- hohes Lohngefälle"
+    },
+    {
+      "shortDescription": "Was versteht man unter Export?",
+      "description": "Die Lieferungen von Gütern ins Ausland (Ausfuhr)."
+    },
+    {
+      "shortDescription": "Was versteht man unter Import?",
+      "description": "Die Einfuhr von Gütern aus dem Ausland."
+    },
+    {
+      "shortDescription": "Was versteht man unter einer Kooperation zweier Unternehmen?",
+      "description": "Unter Kooperation versteht man die Zusammenarbeit zweier Unternehmen, bei der jedes der beteiligten Unternehmen rechtlich und wirtschaftlich selbstständig bleibt."
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Formen der Kooperation.",
+      "description": "z.B.\n- Arbeitsgemeinschaft\n- zentrales Einkaufssystem\n- Depotsystem\n- freiwillige Ketten\n- Rack-Jobbing-System\n- Franchising\n- Konsortium\n- Interessengemeinschaft"
+    },
+    {
+      "shortDescription": "Was ist eine Fusion?",
+      "description": "Ehemals rechtlich und wirtschaftlich selbstständige Unternehmen schließen sich zu einem (neuen) Unternehmen zusammen."
+    },
+    {
+      "shortDescription": "Welches der nachfolgenden Kartelle ist grundsätzlich verboten?\na) Rationalisierungskartell\nb) Spezialisierungskartell\nc) Preiskartell",
+      "description": "c) Preiskartell"
+    },
+    {
+      "shortDescription": "Wie bezeichnet an das ständige Auf und Ab der wirtschaftlichen Entwicklung?",
+      "description": "Konjunktur"
+    },
+    {
+      "shortDescription": "Welcher sind die vier Konjunkturphasen?",
+      "description": "Konjunkturphasen:\n- Aufschwung (Expansion)\n- Hochkonjunktur (Boom)\n- Abschwung (Rezession)\n- Krise (Depression)"
+    },
+    {
+      "shortDescription": "Welches sind die vier Ziele staatlicher Wirtschaftspolitik (Magisches Viereck)?",
+      "description": "Magisches Viereck:\n- hoher Beschäftigungsstand\n- Preisniveaustabilität\n- außenwirtschaftliches Gleichgewicht\n- angemessenes Wirtschaftswachstum"
+    },
+    {
+      "shortDescription": "Aus dem Magischen Viereck wurde ein Magisches Sechseck. Welche zwei weiteren wirtschaftspolitischen Ziele sind hinzugekommen?",
+      "description": "- gerechte Einkommens- und Vermögensverteilung\n- Schutz der natürlichen Umwelt"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei wirtschaftspolitische Instrumente des Staates.",
+      "description": "z.B.\n- Steuerpolitik\n- Nachfragepolitik\n- Sparpolitik\n- Kreditpolitik\n- Subventionspolitik\n- Abschreibungspolitik"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Arten der Arbeitslosigkeit.",
+      "description": "z.B.\n- friktionelle Arbeitslosigkeit\n- saisonale Arbeitslosigkeit\n- konjunkturelle Arbeitslosigkeit\n- strukturelle Arbeitslosigkeit"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei wirtschaftspolitische Instrumente der Europäischen Zentralbank.",
+      "description": "z.B.\n- Mindestreservepolitik\n- Leitzinsänderung"
+    },
+    {
+      "shortDescription": "Folgende Firmenarten können Unterschieden werden:\nPersonenfirma, Sachfirma, Fantasiefirma und Mischfirma. Welche Firmenart\nliegt im folgenden Beispiel vor?\n\nSportgroßhandel KG",
+      "description": "Sachfirma"
+    },
+    {
+      "shortDescription": "Folgende Firmenarten können Unterschieden werden:\nPersonenfirma, Sachfirma, Fantasiefirma und Mischfirma. Welche Firmenart\nliegt im folgenden Beispiel vor?\n\nALLMÖ GmbH",
+      "description": "Fantasiefirma"
+    },
+    {
+      "shortDescription": "Folgende Firmenarten können Unterschieden werden:\nPersonenfirma, Sachfirma, Fantasiefirma und Mischfirma. Welche Firmenart\nliegt im folgenden Beispiel vor?\n\nBrauerei Petersen OHG",
+      "description": "Mischfirma"
+    },
+    {
+      "shortDescription": "Folgende Firmenarten können Unterschieden werden:\nPersonenfirma, Sachfirma, Fantasiefirma und Mischfirma. Welche Firmenart\nliegt im folgenden Beispiel vor?\n\nKöbberling OHG",
+      "description": "Personenfirma"
+    },
+    {
+      "shortDescription": "Was versteht man unter dem Ausdruck \"Halbwertzeit des Wissen\"?",
+      "description": "Der rasche technische Wandel und die Globalisierung der Märkte führen dazu, dass die einmal erworbenen Qualifikationen rasch an Wert verlieren. Dies bezeichnet man als Halbwertzeit des Wissens."
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Schlüsselqualifikationen.",
+      "description": "z.B.\n- Teamfähigkeit\n- Kommunikationsfähigkeit"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Bereiche, in denen Fortbildungen angeboten werden.",
+      "description": "z.B.\n- EDV\n- Rechnungswesen / Kosten- und Leistungsrechnung\n- Marketing\n- Finanzierung und Investitionen\n- Beschaffung / Logistik\n- Produktionswirtschaft / Materialwirtschaft\n- Fremdsprachenerwerb\n- Rhetorik / Kommunikation"
+    },
+    {
+      "shortDescription": "Was versteht man unter einem Dispositionskredit (kurz: Dispo)?",
+      "description": "Ein Kreditinstitut gewährt dem Inhaber eines Girokontos, das Konto bei Bedarf bis zu einem bestimmten Betrag zu überziehen."
+    },
+    {
+      "shortDescription": "Welche Aufgabe hat die Stiftung Warentest?",
+      "description": "Verbraucherberatung: Die Stiftung Warentest testet Produkte und Finanzdienstleistungen und veröffentlicht die Ergebnisse in ihren Zeitschriften."
+    },
+    {
+      "shortDescription": "Was ist eine Bürgschaft?",
+      "description": "Eine Form der Kreditsicherung."
+    },
+    {
+      "shortDescription": "Wann sollte ein Verbraucherinsolvenzverfahren eingeleitet werden?",
+      "description": "Wenn eine berufstätige Privatperson völlig überschuldet und damit zahlungsunfähig ist."
+    },
+    {
+      "shortDescription": "Nennen Sie drei Voraussetzungen zur Existenzgründung.",
+      "description": "z.B. \n- persönliche Eignung\n- fachliche Eignung\n- ausreichendes Startkapital\n- sorgfältige Markt- und Wettbewerbsanalyse"
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Anmeldepflichten im Zuge der Selbstständigkeit, wenn zusätzlich eigenes Personal beschäftigt wird.",
+      "description": "z.B.\n- Gewerbeanmeldung\n- Kammeranmeldung\n- Anmeldung bei der Berufsgenossenschaft\n- Anmeldung bei der Krankenkasse\n- Meldung beim Finanzamt"
+    },
+    {
+      "shortDescription": "Was bedeutet Arbeitnehmerfreizügigkeit?",
+      "description": "Staatsangehörige des europäischen Wirtschaftsraumes können in anderen EU-Ländern zu denselben Bedingungen wie dortige Saatbürger arbeiten."
+    },
+    {
+      "shortDescription": "Was ist ein EUROPASS?",
+      "description": "Es handelt sich um eine europäische Bewerbungsmappe, die aus fünf Elementen besteht."
+    },
+    {
+      "shortDescription": "Nennen Sie zwei Dokumente des EUROPASSES.",
+      "description": "z.B.\n- EUROPASS Lebenslauf\n- EUROPASS Sprachenpass\n- EUROPASS Zeugniserläuterungen\n- EUROPASS Diploma Supplement\n- EUROPASS Mobilität"
+    },
+    {
+      "shortDescription": "In welchem Dokument des EUROPASSES werden die erlernten EDV-Kenntnisse eingetragen?",
+      "description": "EUROPASS Lebenslauf"
+    },
+    {
+      "shortDescription": "Wo findet sich im EUROPASS die Selbsteinschätzung der eigenen Sprachkenntnisse?",
+      "description": "EUROPASS Sprachenpass"
+    }
+  ]
+}
