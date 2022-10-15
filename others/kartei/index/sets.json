@@ -3,6 +3,12 @@
     "name": "App",
     "sets": [
       {
+        "name": "Changelogs",
+        "readonly": true,
+        "desc": "All change logs about the app",
+        "cdn": "https://raw.githubusercontent.com/DerGoogler/cdn/master/others/kartei/changelog.json"
+      },
+      {
         "name": "Einführung",
         "desc": "Wie die App funktioniert und wie Du einfach damit umgehst",
         "cdn": "https://raw.githubusercontent.com/DerGoogler/cdn/master/others/kartei/einfuerung.json"
