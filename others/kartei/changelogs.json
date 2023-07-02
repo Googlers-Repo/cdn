@@ -2,7 +2,7 @@
   {
     "version": "1.0.5",
     "changes": "Soon"
-  }
+  },
   {
     "version": "1.0.4",
     "changes": "In dieser Version wurde vieles neu gestaltet, u. a. Gibt es jetzt Themen. Folgende Änderungen werden unten auf gelistet.\n\n- Das Design kann jetzt geändert werden zwischen verschieden Farben. Öffne <open page=\"settings\">hier</open> die Einstellungen.  \n- Die Gruppen können jetzt wieder heruntergeladen werden.\n- Einige <open page=\"deps\">Dependencies</open> wurden auf die neuste Version aktualisiert.\n- Die nativen Interfaces wurden überarbeitet und die Entwicklung zu erleichtern.\n- Von den Gruppen kann man jetzt ein Back-up erstellen.\n- Das Bearbeiten von Gruppen ist jetzt einfacher.\n- Einzelende Karten können jetzt in den Gruppen gelöscht werden.\n- Es wird jetzt die neue API von der [web-shared-preferences](https://www.npmjs.com/package/web-shared-preferences) verwendet, um ein best mögliches Erlebnis zu bieten.\n- Performance Verbesserungen\n- Es wurde eine Pagination zu den Karten hinzugefügt, um die Performance zu verbessern.\n- Der „Erstellen“ Button ist jetzt in der oberen Navigationsleiste"
